@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Postres",
+        "img": "https://content-cocina.lecturas.com/medio/2022/01/19/paso_a_paso_para_realizar_tarta_de_flan_con_galletas_y_chocolate_sin_azucar_resultado_final_1ce8842f_600x600.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Mariscos",
+        "img": "https://desantisdistribuidora.com/wp-content/uploads/2024/01/mix-de-mariscos-final-1.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Aves",
+        "img": "https://recetasdecocina.elmundo.es/wp-content/uploads/2022/04/pollo-asado-al-horno.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Carnes",
+        "img": "https://static.diariovasco.com/www/multimedia/201906/03/media/cortadas/carne-roja-kS1C-R5uqUSGFlSqj84mn1I9bQuN-624x385@Diario%20Vasco.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Bebidas",
+        "img": "https://termosyeti.com/wp-content/uploads/2023/10/bebidas-alcoholicas.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Entradas",
+        "img": "https://www.laylita.com/recetas/wp-content/uploads/2023/03/Bunuelos-de-bacalao.jpg"
+    }
+]

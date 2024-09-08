@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Burritos al pastor",
+    "img": "https://platerio.com/wp-content/uploads/2021/07/Tacos-pastor-frontal2.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Pasta con jitomates",
+    "img": "https://lh6.googleusercontent.com/proxy/SpZb_8ODOaZSM1ds0FPEiYMFBQbBBAiIOq9JinO0UEJ-KMs1xXstQFuOSekRwoAfKgkNWE0sEdBQEBktVYB3-7EOWNlwDqkOpg2XBAYU92n_PMgmv0yfu8Xo0VEv4pcSkHmUTbEc"
+  },
+  {
+    "id": 3,
+    "nombre": "Pollo con salsa Chipotle",
+    "img": "https://www.recetasnestle.com.mx/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/12d24ee4e31c5c0c41ea1007c0e0185e.png?itok=AORtSZFu"
+  },
+  {
+    "id": 4,
+    "nombre": "Ensalada César",
+    "img": "https://www.gourmet.cl/wp-content/uploads/2016/09/Ensalada_C%C3%A9sar-web-553x458.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Tacos de carnitas",
+    "img": "https://cielitorosado.com/wp-content/uploads/2022/11/CARNITAS-sm.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Sushi de salmón",
+    "img": "https://www.oliveradatenea.com/wp-content/uploads/2023/06/Sushi-rolls-de-salmon-y-Olivada-Olivera-dAtenea.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Hamburguesa con queso",
+    "img": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/5b57547a8825f9fac531c7c39ab1e00e/Derivates/1536354e54be6f02ff4b3e9ede6e8e7ea487ab3d.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Pizza Margherita",
+    "img": "https://au.ooni.com/cdn/shop/articles/20220211142645-margherita-9920.jpg?crop=center&height=800&v=1662539926&width=800"
+  },
+  {
+    "id": 9,
+    "nombre": "Quesadillas de queso",
+    "img": "https://www.vvsupremo.com/wp-content/uploads/2015/11/900X570_Two-Cheese-Quesadillas.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Paella",
+    "img": "https://www.nestleprofessional-latam.com/sites/default/files/styles/np_recipe_detail/public/2022-07/paella.png?itok=CBvKkcsa"
+  },
+  {
+    "id": 11,
+    "nombre": "Fajitas de res",
+    "img": "https://www.cocinamalher.com/sites/default/files/2021-10/Malher_web_1234.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Ceviche de camarón",
+    "img": "https://i0.wp.com/recetaskwa.com/wp-content/uploads/2023/09/ceviche_camaron.jpg?ssl=1"
+  },
+  {
+    "id": 13,
+    "nombre": "Chiles en nogada",
+    "img": "https://www.aceitesdeolivadeespana.com/sites/default/files/recetas/chiles_en_nogada.jpeg"
+  },
+  {
+    "id": 14,
+    "nombre": "Tacos de barbacoa",
+    "img": "https://web.didiglobal.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fn7hs0hadu6ro%2F21wyWFAA9XsAURXPsDxmfN%2F083e59f1c9b177aa4fb7e39ff7e11103%2Fdeliciosos-tacos-de-barbacoa.jpg&w=1920&q=75"
+  },
+  {
+    "id": 15,
+    "nombre": "Lasaña boloñesa",
+    "img": "https://www.gourmet.cl/wp-content/uploads/2016/09/iStock-505754880-1-570x458.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Empanadas de carne",
+    "img": "https://assets.unileversolutions.com/recipes-v2/237001.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Sopa de tortilla",
+    "img": "https://img-global.cpcdn.com/recipes/5f26b844e2aa608f/400x400cq70/photo.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Churrasco",
+    "img": "https://carniceriaangel.com/wp-content/uploads/2023/02/recetas-churrasco.jpeg"
+  },
+  {
+    "id": 19,
+    "nombre": "Tarta de chocolate",
+    "img": "https://badun.nestle.es/imgserver/v1/80/1290x742/6641251d07e6-tarta-de-chocolate.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Tamales",
+    "img": "https://assets.unileversolutions.com/recipes-v2/232218.jpg"
+  }
+]
