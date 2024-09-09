@@ -19,12 +19,7 @@
           class="d-flex flex-column flex-md-row col-12 col-xl-10 align-items-center justify-content-between m-auto"
         >
           <div v-for="item in tarjetasComidaRand" :key="item.id" class="card" :style="{ width: '18rem', height: '18rem' }">
-            <img
-              :src="item.img"
-              class="card-img-top img-fluid"
-              :style="{ height: '12rem' }"
-              alt="..."
-            />
+            <img :src="item.img" class="card-img-top img-fluid" :style="{ height: '12rem' }" alt="..."/>
             <div class="card-body">
               <h5 class="card-title" style="color: black">{{ item.nombre }}</h5>
               <div class="d-flex justify-content-end align-items-center">
@@ -75,8 +70,8 @@
 <script>
 import cards from "../json/cards.json";
 import cardsCirculares from "../json/cardsCirculares.json";
-import MiFooter from "./MiFooter.vue";
-import MiNavbar from "./MiNavbar.vue";
+import MiFooter from "./FooterComponent.vue";
+import MiNavbar from "./NavbarComponent.vue";
 
 export default {
   name: "BienvenidaComponent",

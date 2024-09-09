@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "nombre": "Bruschetta",
+      "img": "https://example.com/images/bruschetta.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Hummus con pan de pita",
+      "img": "https://example.com/images/hummus.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Rollos de primavera",
+      "img": "https://example.com/images/rollos-primavera.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Guacamole con totopos",
+      "img": "https://example.com/images/guacamole.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Alitas de pollo",
+      "img": "https://example.com/images/alitas.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Ceviche",
+      "img": "https://example.com/images/ceviche.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Queso fundido",
+      "img": "https://example.com/images/queso-fundido.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Empanadas",
+      "img": "https://example.com/images/empanadas.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Tacos de camarón",
+      "img": "https://example.com/images/tacos-camaron.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Samosas",
+      "img": "https://example.com/images/samosas.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Champiñones al ajillo",
+      "img": "https://example.com/images/champinones.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Tempura de verduras",
+      "img": "https://example.com/images/tempura.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Croquetas",
+      "img": "https://example.com/images/croquetas.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Crostini con tapenade",
+      "img": "https://example.com/images/crostini.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Pinchos morunos",
+      "img": "https://example.com/images/pinchos-morunos.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Calamares a la romana",
+      "img": "https://example.com/images/calamares.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Tortilla española",
+      "img": "https://example.com/images/tortilla-espanola.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Hush puppies",
+      "img": "https://example.com/images/hush-puppies.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Bocadillos de cerdo",
+      "img": "https://example.com/images/bocadillos-cerdo.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "Ceviche de pescado",
+      "img": "https://example.com/images/ceviche-pescado.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "Rellenos de espinacas y queso",
+      "img": "https://example.com/images/rellenos-espinacas.jpg"
+    },
+    {
+      "id": 22,
+      "nombre": "Nachos con queso",
+      "img": "https://example.com/images/nachos-queso.jpg"
+    },
+    {
+      "id": 23,
+      "nombre": "Papas bravas",
+      "img": "https://example.com/images/papas-bravas.jpg"
+    },
+    {
+      "id": 24,
+      "nombre": "Pimientos rellenos",
+      "img": "https://example.com/images/pimientos-rellenos.jpg"
+    },
+    {
+      "id": 25,
+      "nombre": "Ensalada caprese",
+      "img": "https://example.com/images/ensalada-caprese.jpg"
+    },
+    {
+      "id": 26,
+      "nombre": "Tzatziki con pan",
+      "img": "https://example.com/images/tzatziki.jpg"
+    },
+    {
+      "id": 27,
+      "nombre": "Tarta de cebolla",
+      "img": "https://example.com/images/tarta-cebolla.jpg"
+    },
+    {
+      "id": 28,
+      "nombre": "Rollos de calabacín",
+      "img": "https://example.com/images/rollos-calabacin.jpg"
+    },
+    {
+      "id": 29,
+      "nombre": "Raviolis de espinacas",
+      "img": "https://example.com/images/raviolis-espinacas.jpg"
+    },
+    {
+      "id": 30,
+      "nombre": "Canelones rellenos",
+      "img": "https://example.com/images/canelones-rellenos.jpg"
+    }
+  ]
+  
