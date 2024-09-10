@@ -1,153 +1,152 @@
 [
-    {
-      "id": 1,
-      "nombre": "Mojito",
-      "img": "https://example.com/images/mojito.jpg"
-    },
-    {
-      "id": 2,
-      "nombre": "Margarita",
-      "img": "https://example.com/images/margarita.jpg"
-    },
-    {
-      "id": 3,
-      "nombre": "Piña Colada",
-      "img": "https://example.com/images/pina-colada.jpg"
-    },
-    {
-      "id": 4,
-      "nombre": "Bloody Mary",
-      "img": "https://example.com/images/bloody-mary.jpg"
-    },
-    {
-      "id": 5,
-      "nombre": "Mai Tai",
-      "img": "https://example.com/images/mai-tai.jpg"
-    },
-    {
-      "id": 6,
-      "nombre": "Cosmopolitan",
-      "img": "https://example.com/images/cosmopolitan.jpg"
-    },
-    {
-      "id": 7,
-      "nombre": "Whiskey Sour",
-      "img": "https://example.com/images/whiskey-sour.jpg"
-    },
-    {
-      "id": 8,
-      "nombre": "Daiquiri",
-      "img": "https://example.com/images/daiquiri.jpg"
-    },
-    {
-      "id": 9,
-      "nombre": "Old Fashioned",
-      "img": "https://example.com/images/old-fashioned.jpg"
-    },
-    {
-      "id": 10,
-      "nombre": "Negroni",
-      "img": "https://example.com/images/negroni.jpg"
-    },
-    {
-      "id": 11,
-      "nombre": "Martini",
-      "img": "https://example.com/images/martini.jpg"
-    },
-    {
-      "id": 12,
-      "nombre": "Tequila Sunrise",
-      "img": "https://example.com/images/tequila-sunrise.jpg"
-    },
-    {
-      "id": 13,
-      "nombre": "Gin Tonic",
-      "img": "https://example.com/images/gin-tonic.jpg"
-    },
-    {
-      "id": 14,
-      "nombre": "Sazerac",
-      "img": "https://example.com/images/sazerac.jpg"
-    },
-    {
-      "id": 15,
-      "nombre": "Sidecar",
-      "img": "https://example.com/images/sidecar.jpg"
-    },
-    {
-      "id": 16,
-      "nombre": "Bellini",
-      "img": "https://example.com/images/bellini.jpg"
-    },
-    {
-      "id": 17,
-      "nombre": "Pisco Sour",
-      "img": "https://example.com/images/pisco-sour.jpg"
-    },
-    {
-      "id": 18,
-      "nombre": "Caipirinha",
-      "img": "https://example.com/images/caipirinha.jpg"
-    },
-    {
-      "id": 19,
-      "nombre": "Moscow Mule",
-      "img": "https://example.com/images/moscow-mule.jpg"
-    },
-    {
-      "id": 20,
-      "nombre": "Mai Tai",
-      "img": "https://example.com/images/mai-tai.jpg"
-    },
-    {
-      "id": 21,
-      "nombre": "Amaretto Sour",
-      "img": "https://example.com/images/amaretto-sour.jpg"
-    },
-    {
-      "id": 22,
-      "nombre": "Cuba Libre",
-      "img": "https://example.com/images/cuba-libre.jpg"
-    },
-    {
-      "id": 23,
-      "nombre": "Tom Collins",
-      "img": "https://example.com/images/tom-collins.jpg"
-    },
-    {
-      "id": 24,
-      "nombre": "Aperol Spritz",
-      "img": "https://example.com/images/aperol-spritz.jpg"
-    },
-    {
-      "id": 25,
-      "nombre": "Ramos Gin Fizz",
-      "img": "https://example.com/images/ramos-gin-fizz.jpg"
-    },
-    {
-      "id": 26,
-      "nombre": "French 75",
-      "img": "https://example.com/images/french-75.jpg"
-    },
-    {
-      "id": 27,
-      "nombre": "Paloma",
-      "img": "https://example.com/images/paloma.jpg"
-    },
-    {
-      "id": 28,
-      "nombre": "Dark 'n' Stormy",
-      "img": "https://example.com/images/dark-n-stormy.jpg"
-    },
-    {
-      "id": 29,
-      "nombre": "Mai Tai",
-      "img": "https://example.com/images/mai-tai.jpg"
-    },
-    {
-      "id": 30,
-      "nombre": "Zombie",
-      "img": "https://example.com/images/zombie.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "nombre": "Mojito",
+    "img": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 2,
+    "nombre": "Margarita",
+    "img": "https://images.pexels.com/photos/17612835/pexels-photo-17612835/free-photo-of-comida-resfriado-frio-sano.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 3,
+    "nombre": "Piña Colada",
+    "img": "https://images.pexels.com/photos/24870656/pexels-photo-24870656/free-photo-of-vacaciones-relajacion-verano-alcohol.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 4,
+    "nombre": "Bloody Mary",
+    "img": "https://images.pexels.com/photos/5946676/pexels-photo-5946676.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 5,
+    "nombre": "Mai Tai",
+    "img": "https://images.pexels.com/photos/27246473/pexels-photo-27246473/free-photo-of-bebidas-textura-vaso-cristal.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 6,
+    "nombre": "Cosmopolitan",
+    "img": "https://images.pexels.com/photos/24869009/pexels-photo-24869009/free-photo-of-plato-menu-restaurante-barra.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 7,
+    "nombre": "Whiskey Sour",
+    "img": "https://images.pexels.com/photos/7809745/pexels-photo-7809745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 8,
+    "nombre": "Daiquiri",
+    "img": "https://images.pexels.com/photos/10580220/pexels-photo-10580220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 9,
+    "nombre": "Old Fashioned",
+    "img": "https://images.pexels.com/photos/28120541/pexels-photo-28120541/free-photo-of-cafe-taza-copa-beber.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 10,
+    "nombre": "Negroni",
+    "img": "https://images.pexels.com/photos/27851286/pexels-photo-27851286/free-photo-of-alcohol-barra-bar-coctel.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 11,
+    "nombre": "Martini",
+    "img": "https://images.pexels.com/photos/2531195/pexels-photo-2531195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 12,
+    "nombre": "Tequila Sunrise",
+    "img": "https://images.pexels.com/photos/7269747/pexels-photo-7269747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 13,
+    "nombre": "Gin Tonic",
+    "img": "https://images.pexels.com/photos/616834/pexels-photo-616834.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 14,
+    "nombre": "Sazerac",
+    "img": "https://media.istockphoto.com/id/1150343903/es/foto/c%C3%B3ctel-con-amargo-y-whisky-de-centeno-servido-lim%C3%B3n-twist.jpg?b=1&s=612x612&w=0&k=20&c=oO3U5WQnAM6XMHh8Ss_BBMdLRKFGf6hvjlUwUvpuMtw="
+  },
+  {
+    "id": 15,
+    "nombre": "Sidecar",
+    "img": "https://images.pexels.com/photos/27215758/pexels-photo-27215758/free-photo-of-zarza.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 16,
+    "nombre": "Bellini",
+    "img": "https://media.istockphoto.com/id/824488726/es/foto/mimosa-de-dulce-burbujeante-bellini-de-durazno.jpg?b=1&s=612x612&w=0&k=20&c=d_bc4uoYzknQ6z18mNSDVtJyJ9fMI-L3JjDGT8pv4Qk="
+  },
+  {
+    "id": 17,
+    "nombre": "Pisco Sour",
+    "img": "https://images.pexels.com/photos/17320910/pexels-photo-17320910/free-photo-of-comida-resfriado-frio-restaurante.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 18,
+    "nombre": "Caipirinha",
+    "img": "https://media.istockphoto.com/id/928262414/es/foto/verano-fresco-caipirinha-cocktail-con-splash.jpg?b=1&s=612x612&w=0&k=20&c=SNRJlQcNqkMsOrLyGyrUppL3s0I2X2gqLVlSWgkPPz8="
+  },
+  {
+    "id": 19,
+    "nombre": "Moscow Mule",
+    "img": "https://images.pexels.com/photos/19297798/pexels-photo-19297798/free-photo-of-bebida-frutal-ii.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 20,
+    "nombre": "Mai Tai",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodlRZ_7rjY0zmxc7uP6sWmiL4nbIBcYbrHg&s"
+  },
+  {
+    "id": 21,
+    "nombre": "Amaretto Sour",
+    "img": "https://3catsfoodie.com/wp-content/uploads/2023/05/0AA43564-7AF9-4025-B7BA-7393766F69FA_1_201_a.jpeg"
+  },
+  {
+    "id": 22,
+    "nombre": "Cuba Libre",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd7tf1Zf9FeodcLRuWSf_61UJPzlc4jV2iRw&s"
+  },
+  {
+    "id": 23,
+    "nombre": "Tom Collins",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknwm7zYlKdNFHHhkVUqBe6wMslYomgTh3Kw&s"
+  },
+  {
+    "id": 24,
+    "nombre": "Aperol Spritz",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFLVGm7He2Okh7wDeSsF1hTC-azZsbFUmPw&s"
+  },
+  {
+    "id": 25,
+    "nombre": "Ramos Gin Fizz",
+    "img": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/03_22_Ramos_Gin_Fizz_Cocktail_Credit_Tyler_Zielinski_1920x1280-scaled-1.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "French 75",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gg4exJUs4ynWyCpbtrh6PhhoTmzjxJXB-w&s"
+  },
+  {
+    "id": 27,
+    "nombre": "Paloma",
+    "img": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/04_23_Paloma_HERO_Stocksy_4620231_1920x1280.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Dark 'n' Stormy",
+    "img": "https://elcoctelero.com/wp-content/uploads/2020/07/coctel-dark-n-stormy.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "Mai Tai",
+    "img": "https://cuberspremium.com/wp-content/uploads/2024/07/cocktail-mai-tai.jpg"
+  },
+  {
+    "id": 30,
+    "nombre": "Zombie",
+    "img": "https://images.pexels.com/photos/27275592/pexels-photo-27275592/free-photo-of-verano-barra-bar-barman.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+]

@@ -1,153 +1,152 @@
 [
-    {
-      "id": 1,
-      "nombre": "Bruschetta",
-      "img": "https://example.com/images/bruschetta.jpg"
-    },
-    {
-      "id": 2,
-      "nombre": "Hummus con pan de pita",
-      "img": "https://example.com/images/hummus.jpg"
-    },
-    {
-      "id": 3,
-      "nombre": "Rollos de primavera",
-      "img": "https://example.com/images/rollos-primavera.jpg"
-    },
-    {
-      "id": 4,
-      "nombre": "Guacamole con totopos",
-      "img": "https://example.com/images/guacamole.jpg"
-    },
-    {
-      "id": 5,
-      "nombre": "Alitas de pollo",
-      "img": "https://example.com/images/alitas.jpg"
-    },
-    {
-      "id": 6,
-      "nombre": "Ceviche",
-      "img": "https://example.com/images/ceviche.jpg"
-    },
-    {
-      "id": 7,
-      "nombre": "Queso fundido",
-      "img": "https://example.com/images/queso-fundido.jpg"
-    },
-    {
-      "id": 8,
-      "nombre": "Empanadas",
-      "img": "https://example.com/images/empanadas.jpg"
-    },
-    {
-      "id": 9,
-      "nombre": "Tacos de camarón",
-      "img": "https://example.com/images/tacos-camaron.jpg"
-    },
-    {
-      "id": 10,
-      "nombre": "Samosas",
-      "img": "https://example.com/images/samosas.jpg"
-    },
-    {
-      "id": 11,
-      "nombre": "Champiñones al ajillo",
-      "img": "https://example.com/images/champinones.jpg"
-    },
-    {
-      "id": 12,
-      "nombre": "Tempura de verduras",
-      "img": "https://example.com/images/tempura.jpg"
-    },
-    {
-      "id": 13,
-      "nombre": "Croquetas",
-      "img": "https://example.com/images/croquetas.jpg"
-    },
-    {
-      "id": 14,
-      "nombre": "Crostini con tapenade",
-      "img": "https://example.com/images/crostini.jpg"
-    },
-    {
-      "id": 15,
-      "nombre": "Pinchos morunos",
-      "img": "https://example.com/images/pinchos-morunos.jpg"
-    },
-    {
-      "id": 16,
-      "nombre": "Calamares a la romana",
-      "img": "https://example.com/images/calamares.jpg"
-    },
-    {
-      "id": 17,
-      "nombre": "Tortilla española",
-      "img": "https://example.com/images/tortilla-espanola.jpg"
-    },
-    {
-      "id": 18,
-      "nombre": "Hush puppies",
-      "img": "https://example.com/images/hush-puppies.jpg"
-    },
-    {
-      "id": 19,
-      "nombre": "Bocadillos de cerdo",
-      "img": "https://example.com/images/bocadillos-cerdo.jpg"
-    },
-    {
-      "id": 20,
-      "nombre": "Ceviche de pescado",
-      "img": "https://example.com/images/ceviche-pescado.jpg"
-    },
-    {
-      "id": 21,
-      "nombre": "Rellenos de espinacas y queso",
-      "img": "https://example.com/images/rellenos-espinacas.jpg"
-    },
-    {
-      "id": 22,
-      "nombre": "Nachos con queso",
-      "img": "https://example.com/images/nachos-queso.jpg"
-    },
-    {
-      "id": 23,
-      "nombre": "Papas bravas",
-      "img": "https://example.com/images/papas-bravas.jpg"
-    },
-    {
-      "id": 24,
-      "nombre": "Pimientos rellenos",
-      "img": "https://example.com/images/pimientos-rellenos.jpg"
-    },
-    {
-      "id": 25,
-      "nombre": "Ensalada caprese",
-      "img": "https://example.com/images/ensalada-caprese.jpg"
-    },
-    {
-      "id": 26,
-      "nombre": "Tzatziki con pan",
-      "img": "https://example.com/images/tzatziki.jpg"
-    },
-    {
-      "id": 27,
-      "nombre": "Tarta de cebolla",
-      "img": "https://example.com/images/tarta-cebolla.jpg"
-    },
-    {
-      "id": 28,
-      "nombre": "Rollos de calabacín",
-      "img": "https://example.com/images/rollos-calabacin.jpg"
-    },
-    {
-      "id": 29,
-      "nombre": "Raviolis de espinacas",
-      "img": "https://example.com/images/raviolis-espinacas.jpg"
-    },
-    {
-      "id": 30,
-      "nombre": "Canelones rellenos",
-      "img": "https://example.com/images/canelones-rellenos.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "nombre": "Bruschetta",
+    "img": "https://images.pexels.com/photos/4969892/pexels-photo-4969892.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 2,
+    "nombre": "Hummus con pan de pita",
+    "img": "https://images.pexels.com/photos/14930616/pexels-photo-14930616.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 3,
+    "nombre": "Rollos de primavera",
+    "img": "https://images.pexels.com/photos/6646369/pexels-photo-6646369.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 4,
+    "nombre": "Guacamole con totopos",
+    "img": "https://vidapicante.com/wp-content/uploads/2023/01/tortillas-con-guacamole.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Alitas de pollo",
+    "img": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 6,
+    "nombre": "Ceviche",
+    "img": "https://media.istockphoto.com/id/166211228/es/foto/ceviche-con-lima.jpg?b=1&s=612x612&w=0&k=20&c=--8ZdOrdlG6po_tUPYI_5aNLRIeVvWfp5v2Jdviq7qQ="
+  },
+  {
+    "id": 7,
+    "nombre": "Queso fundido",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8rdWR8BGalxigBP3mOKJR1U89nNK_49wuA&s"
+  },
+  {
+    "id": 8,
+    "nombre": "Empanadas",
+    "img": "https://assets.elgourmet.com/wp-content/uploads/2023/10/EMPANADAS-1-1024x683.jpg.webp"
+  },
+  {
+    "id": 9,
+    "nombre": "Tacos de camarón",
+    "img": "https://unareceta.com/wp-content/uploads/2015/07/tacos-con-camaron.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Samosas",
+    "img": "https://therecipecritic.com/wp-content/uploads/2023/12/samosa-2-1200x1799.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Champiñones al ajillo",
+    "img": "https://www.gourmet.cl/wp-content/uploads/2022/08/champinones-al-ajillo-ajustada-web-570x458.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Tempura de verduras",
+    "img": "https://www.vegrecetas.com/wp-content/uploads/tempura-de-verduras.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Croquetas",
+    "img": "https://images.pexels.com/photos/27609407/pexels-photo-27609407/free-photo-of-comida-plato-restaurante-cena.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 14,
+    "nombre": "Crostini con tapenade",
+    "img": "https://images.pexels.com/photos/6126315/pexels-photo-6126315.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 15,
+    "nombre": "Pinchos morunos",
+    "img": "https://mellerware.com/cdn/shop/articles/23._Pinchos_Morunos_-_FOTO_3_fcbd721d-0a2a-4b36-ac4b-74fac04136db_1024x.jpg?v=1657657662"
+  },
+  {
+    "id": 16,
+    "nombre": "Calamares a la romana",
+    "img": "https://images.pexels.com/photos/17321123/pexels-photo-17321123/free-photo-of-comida-sano-vegetales-verduras.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 17,
+    "nombre": "Tortilla española",
+    "img": "https://images.pexels.com/photos/4765652/pexels-photo-4765652.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 18,
+    "nombre": "Hush puppies",
+    "img": "https://www.allrecipes.com/thmb/hoSnDn3spX7HYxjv-aLnJrS_yQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8145785-a8612841920042dbb5fe906b5f82e440.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Bocadillos de cerdo",
+    "img": "https://www.naiz.eus/media/asset_publics/resources/000/901/353/original/bocadillo.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Ceviche de pescado",
+    "img": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/e27c310d66805447a62e25cbcd696442.jpg"
+  },
+  {
+    "id": 21,
+    "nombre": "Rellenos de espinacas y queso",
+    "img": "https://www.vidactual.com/rcpmaker/wp-content/uploads/2018/10/Canelones-rellenos-de-espinaca-y-queso-ricotta.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Nachos con queso",
+    "img": "https://images.pexels.com/photos/27897601/pexels-photo-27897601/free-photo-of-comida-plato-restaurante-cena.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 23,
+    "nombre": "Papas bravas",
+    "img": "https://tn.com.ar/resizer/uiMcZMrlZnF0BYDKO7GgYE3-cDw=/arc-anglerfish-arc2-prod-artear/public/ECK6PZI5AJCQLC3OFYIX5MVWLY.jpeg"
+  },
+  {
+    "id": 24,
+    "nombre": "Pimientos rellenos",
+    "img": "https://images.pexels.com/photos/19359972/pexels-photo-19359972/free-photo-of-almuerzo-comida-gurme-sibarita.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 25,
+    "nombre": "Ensalada caprese",
+    "img": "https://images.pexels.com/photos/15735983/pexels-photo-15735983/free-photo-of-salada-de-salmao.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 26,
+    "nombre": "Tzatziki con pan",
+    "img": "https://images.pexels.com/photos/7214484/pexels-photo-7214484.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 27,
+    "nombre": "Tarta de cebolla",
+    "img": "https://resizer.glanacion.com/resizer/v2/tarta-de-cebolla-y-JBTTCKF4P5EDPKX5IAMFYZK6VI.jpg?auth=101ee1a1e056a32b88e1a1f2b0ec89de7c3ad458bd02c45ccd85e7b349e8b52f&width=768&height=520&quality=70&smart=true"
+  },
+  {
+    "id": 28,
+    "nombre": "Rollos de calabacín",
+    "img": "https://content-cocina.lecturas.com/medio/2023/07/21/rollitos-de-calabacin-rellenos-de-gambas_2b882d01_1200x630.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "Raviolis de espinacas",
+    "img": "https://www.comedera.com/wp-content/uploads/2022/08/raviolis-de-queso-y-espinacas.jpg"
+  },
+  {
+    "id": 30,
+    "nombre": "Canelones rellenos",
+    "img": "https://vivirmejor.mx/wp-content/uploads/2023/08/Canelones-rellenos-1-2.jpg.webp"
+  }
+]
