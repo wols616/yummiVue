@@ -28,26 +28,8 @@
           ></button>
         </div>
         <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img
-              src="https://c.files.bbci.co.uk/DBBF/production/_105055265_bandejapaisa.jpg"
-              class="d-block w-75 m-auto"
-              alt="..."
-            />
-          </div>
-          <div class="carousel-item">
-            <img
-              src="https://imagenes.20minutos.es/files/image_640_auto/uploads/imagenes/2023/01/03/20-carnitas-mexicanas.jpeg"
-              class="d-block w-75 m-auto"
-              alt="..."
-            />
-          </div>
-          <div class="carousel-item">
-            <img
-              src="https://www.numar.net/wp-content/uploads/2022/10/plato-saludable.jpg"
-              class="d-block w-75 m-auto"
-              alt="..."
-            />
+          <div v-for="(item, index) in this.trendingRand" :key="item.id" :class="['carousel-item', {active: index === 0}]">
+            <img :src="item.img" class="d-block w-75 m-auto" @click="abrirReceta(item.id, this.trending)" style="cursor: pointer;" alt="..." />
           </div>
         </div>
         <button
@@ -73,14 +55,14 @@
 
     <section>
       <h1>Bebidas</h1>
-      <ImgSlider :json-dato="cardsBebidas"/>
+      <ImgSlider :json-dato="cardsBebidas" />
       <h1>Postres</h1>
-      <ImgSlider :json-dato="cardsPostres"/>
+      <ImgSlider :json-dato="cardsPostres" />
       <h1>Entradas</h1>
-      <ImgSlider :json-dato="cardsEntradas"/>
+      <ImgSlider :json-dato="cardsEntradas" />
     </section>
   </div>
-  <FooterComponent/>
+  <FooterComponent />
 </template>
 
 <script>
@@ -90,20 +72,45 @@ import cardsBebidas from "../json/cardsBebidas.json";
 import cardsPostres from "../json/cardsPostres.json";
 import cardsEntradas from "../json/cardsEntradas.json";
 import FooterComponent from "./FooterComponent.vue";
+import trending from "../json/trending.json";
 
 export default {
   name: "HomeComponent",
-  data(){
-    return{
+  data() {
+    return {
       cardsBebidas,
       cardsPostres,
-      cardsEntradas
+      cardsEntradas,
+      trending,
+      trendingRand: [],
+    };
+  },
+  methods: {
+    obtenerDatosAleatorios(array, cantidad) {
+      let arrayCopia = array.slice();
+
+      for (let i = arrayCopia.length - 1; i > 0; i--) {
+        let j = Math.floor(Math.random() * (i + 1));
+        let temp = arrayCopia[i];
+        arrayCopia[i] = arrayCopia[j];
+        arrayCopia[j] = temp;
+      }
+      return arrayCopia.slice(0, cantidad);
+    },
+    abrirReceta(idReceta, json){
+      this.$router.push({
+        name: 'RecetaComponent', params: {id: idReceta},
+        query: {data: JSON.stringify(json)}
+      });
     }
+  },
+  mounted() {
+    this.trendingRand = this.obtenerDatosAleatorios(this.trending, 3);
   },
   components: {
     NavbarComponent2,
     ImgSlider,
-    FooterComponent
+    FooterComponent,
   },
 };
 </script>
@@ -111,19 +118,19 @@ export default {
 <style>
 .carousel-inner img {
   width: 100%;
-  height: 50vh; 
-  object-fit: cover; 
+  height: 50vh;
+  object-fit: cover;
 }
 
 .carousel-control-prev,
 .carousel-control-next {
   display: flex;
-  align-items: center; 
-  height: 100%; 
+  align-items: center;
+  height: 100%;
 }
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  filter: invert(1); 
+  filter: invert(1);
 }
 </style>

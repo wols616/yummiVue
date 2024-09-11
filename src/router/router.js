@@ -3,6 +3,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import IniciarSesion from '@/components/IniciarSesion.vue';
 import BienvenidaComponent from '@/components/BienvenidaComponent.vue';
 import HomeComponent from '@/components/HomeComponent.vue';
+import RecetaComponent from '@/components/RecetaComponent.vue';
 
 const routes = [
   {
@@ -19,6 +20,12 @@ const routes = [
     path: '/home',
     name: 'HomeComponent',
     component: HomeComponent
+  },
+  {
+    path: '/receta/:id',
+    name: 'RecetaComponent',
+    component: RecetaComponent,
+    props: true
   }
 ];
 

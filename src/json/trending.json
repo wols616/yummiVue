@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "nombre": "Crepas con frutas",
+      "img": "https://d1uz88p17r663j.cloudfront.net/original/1d60de0ee6338c8da2cf15ef09bde6b5_crepes_con_frutas_y_choco_avellanas8.jpg",
+      "descripcion": "Deliciosas crepas rellenas de frutas frescas y acompañadas de chocolate y avellanas.",
+      "pasos": [
+        "Batir los huevos, la leche y la harina hasta obtener una mezcla homogénea.",
+        "Calentar una sartén y agregar una pequeña cantidad de mezcla para formar una crepa.",
+        "Cocinar por ambos lados hasta que esté dorada.",
+        "Rellenar con frutas frescas y decorar con chocolate y avellanas."
+      ],
+      "tiempoPreparacion": "30 minutos",
+      "porciones": 4,
+      "ingredientes": [
+        "Huevos",
+        "Leche",
+        "Harina",
+        "Frutas frescas",
+        "Chocolate",
+        "Avellanas"
+      ],
+      "categoria": "Desayuno",
+      "dificultad": "Fácil",
+      "notas": "Puedes sustituir el chocolate por sirope de frutas para una versión más ligera."
+    },
+    {
+      "id": 2,
+      "nombre": "Ceviche de pescado",
+      "img": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/e27c310d66805447a62e25cbcd696442.jpg",
+      "descripcion": "Un ceviche fresco de pescado marinado en jugo de limón, acompañado de cebolla y cilantro.",
+      "pasos": [
+        "Cortar el pescado en cubos pequeños.",
+        "Exprimir el jugo de varios limones sobre el pescado y dejar marinar.",
+        "Añadir cebolla, cilantro y tomate picado.",
+        "Servir con aguacate o galletas saladas."
+      ],
+      "tiempoPreparacion": "20 minutos",
+      "porciones": 2,
+      "ingredientes": [
+        "Pescado",
+        "Limón",
+        "Cebolla",
+        "Cilantro",
+        "Tomate",
+        "Aguacate"
+      ],
+      "categoria": "Entrante",
+      "dificultad": "Fácil",
+      "notas": "Puedes añadir un poco de picante si te gusta el ceviche más condimentado."
+    },
+    {
+      "id": 3,
+      "nombre": "Tacos de camarón",
+      "img": "https://unareceta.com/wp-content/uploads/2015/07/tacos-con-camaron.jpg",
+      "descripcion": "Tacos crujientes rellenos de camarones sazonados con especias y acompañados de salsa fresca.",
+      "pasos": [
+        "Marinar los camarones con jugo de limón, ajo y especias.",
+        "Cocinar los camarones en una sartén hasta que estén dorados.",
+        "Calentar las tortillas de maíz.",
+        "Rellenar las tortillas con los camarones y añadir salsa fresca y aguacate."
+      ],
+      "tiempoPreparacion": "25 minutos",
+      "porciones": 3,
+      "ingredientes": [
+        "Camarones",
+        "Jugo de limón",
+        "Ajo",
+        "Especias",
+        "Tortillas de maíz",
+        "Salsa fresca",
+        "Aguacate"
+      ],
+      "categoria": "Cena",
+      "dificultad": "Intermedio",
+      "notas": "Puedes añadir un poco de cilantro fresco para darle más sabor."
+    }
+  ]
+  

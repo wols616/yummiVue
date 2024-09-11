@@ -2,151 +2,663 @@
   {
     "id": 1,
     "nombre": "Mojito",
-    "img": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Cóctel refrescante a base de ron, menta, azúcar, lima y soda.",
+    "ingredientes": [
+      "Ron blanco",
+      "Azúcar",
+      "Lima",
+      "Hojas de menta",
+      "Soda",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso, machacar las hojas de menta con el azúcar y el jugo de lima.",
+      "Agregar hielo al vaso.",
+      "Verter el ron blanco y completar con soda.",
+      "Mezclar bien y decorar con una ramita de menta y una rodaja de lima."
+    ],
+    "notas": "Puedes ajustar la cantidad de azúcar y lima según tu gusto. Utiliza menta fresca para el mejor sabor."
   },
   {
     "id": 2,
     "nombre": "Margarita",
-    "img": "https://images.pexels.com/photos/17612835/pexels-photo-17612835/free-photo-of-comida-resfriado-frio-sano.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/17612835/pexels-photo-17612835/free-photo-of-comida-resfriado-frio-sano.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Cóctel clásico mexicano a base de tequila, triple sec y lima, con borde de sal.",
+    "ingredientes": [
+      "Tequila",
+      "Triple sec",
+      "Jugo de lima",
+      "Sal (para el borde del vaso)",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "Frotar el borde del vaso con una rodaja de lima y sumergirlo en sal para escarchar.",
+      "En una coctelera, mezclar tequila, triple sec y jugo de lima con hielo.",
+      "Agitar bien y colar en el vaso escarchado.",
+      "Decorar con una rodaja de lima."
+    ],
+    "notas": "Para un toque extra, puedes añadir un poco de jarabe de agave o un trozo de chile en la mezcla."
   },
   {
     "id": 3,
     "nombre": "Piña Colada",
-    "img": "https://images.pexels.com/photos/24870656/pexels-photo-24870656/free-photo-of-vacaciones-relajacion-verano-alcohol.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/24870656/pexels-photo-24870656/free-photo-of-vacaciones-relajacion-verano-alcohol.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Cóctel tropical a base de ron, piña y crema de coco, ideal para disfrutar en la playa.",
+    "ingredientes": [
+      "Ron blanco",
+      "Jugo de piña",
+      "Crema de coco",
+      "Hielo",
+      "Rodaja de piña (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una licuadora, combinar ron, jugo de piña, crema de coco y hielo.",
+      "Licuar hasta obtener una mezcla suave y espesa.",
+      "Servir en un vaso alto y decorar con una rodaja de piña y una cereza."
+    ],
+    "notas": "Para una versión sin alcohol, puedes omitir el ron y añadir más jugo de piña."
   },
   {
     "id": 4,
     "nombre": "Bloody Mary",
-    "img": "https://images.pexels.com/photos/5946676/pexels-photo-5946676.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/5946676/pexels-photo-5946676.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Cóctel salado con vodka, jugo de tomate y especias, ideal para un brunch.",
+    "ingredientes": [
+      "Vodka",
+      "Jugo de tomate",
+      "Jugo de limón",
+      "Salsa Worcestershire",
+      "Tabasco",
+      "Sal",
+      "Pimienta",
+      "Apio (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una coctelera, combinar vodka, jugo de tomate, jugo de limón, salsa Worcestershire, Tabasco, sal y pimienta.",
+      "Agitar suavemente y colar en un vaso con hielo.",
+      "Decorar con una ramita de apio y una rodaja de limón."
+    ],
+    "notas": "Puedes ajustar el nivel de picante y especias a tu gusto."
   },
   {
     "id": 5,
     "nombre": "Mai Tai",
-    "img": "https://images.pexels.com/photos/27246473/pexels-photo-27246473/free-photo-of-bebidas-textura-vaso-cristal.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "img": "https://images.pexels.com/photos/27246473/pexels-photo-27246473/free-photo-of-bebidas-textura-vaso-cristal.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Cóctel exótico con ron, curaçao y almendra, con un toque de limón y granadina.",
+    "ingredientes": [
+      "Ron blanco",
+      "Ron oscuro",
+      "Curaçao",
+      "Sirope de almendra",
+      "Jugo de limón",
+      "Granadina",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una coctelera, combinar ron blanco, ron oscuro, curaçao, sirope de almendra y jugo de limón con hielo.",
+      "Agitar bien y colar en un vaso con hielo.",
+      "Agregar un toque de granadina por encima y decorar con una rodaja de piña y una cereza."
+    ],
+    "notas": "El Mai Tai es ideal para servir en una fiesta tropical o como un refresco veraniego."
   },
   {
     "id": 6,
     "nombre": "Cosmopolitan",
-    "img": "https://images.pexels.com/photos/24869009/pexels-photo-24869009/free-photo-of-plato-menu-restaurante-barra.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/24869009/pexels-photo-24869009/free-photo-of-plato-menu-restaurante-barra.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Cóctel elegante con vodka, triple sec, jugo de lima y arándano.",
+    "ingredientes": [
+      "Vodka",
+      "Triple sec",
+      "Jugo de lima",
+      "Jugo de arándano",
+      "Hielo",
+      "Cáscara de lima (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una coctelera, mezclar vodka, triple sec, jugo de lima y jugo de arándano con hielo.",
+      "Agitar bien y colar en una copa de cóctel fría.",
+      "Decorar con una cáscara de lima o una cereza."
+    ],
+    "notas": "Asegúrate de colar bien para evitar trozos de hielo en el cóctel."
   },
   {
     "id": 7,
     "nombre": "Whiskey Sour",
-    "img": "https://images.pexels.com/photos/7809745/pexels-photo-7809745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "img": "https://images.pexels.com/photos/7809745/pexels-photo-7809745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Cóctel clásico con whisky, jugo de limón y azúcar, con un toque de angostura.",
+    "ingredientes": [
+      "Whisky",
+      "Jugo de limón",
+      "Azúcar",
+      "Angostura",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una coctelera, combinar whisky, jugo de limón, azúcar y hielo.",
+      "Agitar bien y colar en un vaso con hielo.",
+      "Agregar unas gotas de angostura por encima y decorar con una rodaja de limón."
+    ],
+    "notas": "Puedes ajustar la cantidad de azúcar según tu preferencia. Añadir un huevo batido le da una textura más suave."
   },
   {
     "id": 8,
     "nombre": "Daiquiri",
-    "img": "https://images.pexels.com/photos/10580220/pexels-photo-10580220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "img": "https://images.pexels.com/photos/10580220/pexels-photo-10580220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Cóctel refrescante con ron, jugo de limón y azúcar, servido en una copa de cóctel.",
+    "ingredientes": [
+      "Ron blanco",
+      "Jugo de limón",
+      "Azúcar",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una coctelera, mezclar ron, jugo de limón, azúcar y hielo.",
+      "Agitar bien y colar en una copa de cóctel fría.",
+      "Decorar con una rodaja de limón."
+    ],
+    "notas": "Para una versión de fresa, añade fresas frescas al licuar la mezcla."
   },
   {
     "id": 9,
     "nombre": "Old Fashioned",
-    "img": "https://images.pexels.com/photos/28120541/pexels-photo-28120541/free-photo-of-cafe-taza-copa-beber.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "img": "https://images.pexels.com/photos/28120541/pexels-photo-28120541/free-photo-of-cafe-taza-copa-beber.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Cóctel clásico de whisky con azúcar, angostura y un toque de naranja.",
+    "ingredientes": [
+      "Whisky",
+      "Azúcar",
+      "Angostura",
+      "Rodaja de naranja",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "Colocar un cubo de azúcar en un vaso y añadir unas gotas de angostura.",
+      "Añadir un poco de agua y mezclar hasta disolver el azúcar.",
+      "Agregar hielo al vaso y verter el whisky.",
+      "Revolver bien y decorar con una rodaja de naranja y una cereza."
+    ],
+    "notas": "Puedes ajustar la cantidad de azúcar y angostura según tu gusto."
   },
   {
     "id": 10,
     "nombre": "Negroni",
-    "img": "https://images.pexels.com/photos/27851286/pexels-photo-27851286/free-photo-of-alcohol-barra-bar-coctel.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/27851286/pexels-photo-27851286/free-photo-of-alcohol-barra-bar-coctel.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Cóctel amargo con ginebra, vermut y Campari, ideal para un aperitivo.",
+    "ingredientes": [
+      "Ginebra",
+      "Vermut rojo",
+      "Campari",
+      "Hielo",
+      "Rodaja de naranja (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso mezclador, combinar ginebra, vermut y Campari con hielo.",
+      "Revolver bien y colar en un vaso bajo con hielo.",
+      "Decorar con una rodaja de naranja."
+    ],
+    "notas": "Puedes ajustar las proporciones de vermut y Campari según tu preferencia por el amargor."
   },
   {
     "id": 11,
     "nombre": "Martini",
-    "img": "https://images.pexels.com/photos/2531195/pexels-photo-2531195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "img": "https://images.pexels.com/photos/2531195/pexels-photo-2531195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Cóctel clásico y elegante a base de ginebra y vermut, adornado con una aceituna.",
+    "ingredientes": [
+      "Ginebra",
+      "Vermut seco",
+      "Aceituna (para decorar)",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso mezclador, combinar ginebra y vermut seco con hielo.",
+      "Revolver bien y colar en una copa de cóctel fría.",
+      "Decorar con una aceituna."
+    ],
+    "notas": "Puedes ajustar la proporción de vermut según tu preferencia. También puedes optar por un Martini seco si reduces la cantidad de vermut."
   },
   {
     "id": 12,
     "nombre": "Tequila Sunrise",
-    "img": "https://images.pexels.com/photos/7269747/pexels-photo-7269747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "img": "https://images.pexels.com/photos/7269747/pexels-photo-7269747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Cóctel vibrante y colorido con tequila, jugo de naranja y granadina.",
+    "ingredientes": [
+      "Tequila",
+      "Jugo de naranja",
+      "Granadina",
+      "Hielo",
+      "Rodaja de naranja (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso con hielo, verter el tequila y luego el jugo de naranja.",
+      "Agregar la granadina lentamente para que se asiente en el fondo.",
+      "Decorar con una rodaja de naranja."
+    ],
+    "notas": "No revuelvas el cóctel después de agregar la granadina para mantener el efecto de gradiente."
   },
   {
     "id": 13,
     "nombre": "Gin Tonic",
-    "img": "https://images.pexels.com/photos/616834/pexels-photo-616834.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/616834/pexels-photo-616834.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Cóctel refrescante y burbujeante con ginebra y tónica, ideal para cualquier ocasión.",
+    "ingredientes": [
+      "Ginebra",
+      "Agua tónica",
+      "Rodaja de limón",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso alto, agregar hielo.",
+      "Verter la ginebra y completar con agua tónica.",
+      "Decorar con una rodaja de limón."
+    ],
+    "notas": "Puedes experimentar con diferentes tipos de ginebra y agua tónica para encontrar tu combinación favorita."
   },
   {
     "id": 14,
     "nombre": "Sazerac",
-    "img": "https://media.istockphoto.com/id/1150343903/es/foto/c%C3%B3ctel-con-amargo-y-whisky-de-centeno-servido-lim%C3%B3n-twist.jpg?b=1&s=612x612&w=0&k=20&c=oO3U5WQnAM6XMHh8Ss_BBMdLRKFGf6hvjlUwUvpuMtw="
+    "img": "https://media.istockphoto.com/id/1150343903/es/foto/c%C3%B3ctel-con-amargo-y-whisky-de-centeno-servido-lim%C3%B3n-twist.jpg?b=1&s=612x612&w=0&k=20&c=oO3U5WQnAM6XMHh8Ss_BBMdLRKFGf6hvjlUwUvpuMtw=",
+    "descripcion": "Cóctel tradicional de Nueva Orleans con whisky de centeno y un toque de absenta.",
+    "ingredientes": [
+      "Whisky de centeno",
+      "Azúcar",
+      "Angostura",
+      "Absenta",
+      "Hielo",
+      "Cáscara de limón (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "10 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso, disolver el azúcar con unas gotas de angostura.",
+      "Añadir hielo y verter el whisky de centeno.",
+      "En otro vaso, agregar un poco de absenta, agitar y desechar el exceso.",
+      "Colar la mezcla de whisky en el vaso preparado con absenta.",
+      "Decorar con una cáscara de limón."
+    ],
+    "notas": "El Sazerac es conocido por su sabor distintivo y puede ser más fuerte debido al absenta."
   },
   {
     "id": 15,
     "nombre": "Sidecar",
-    "img": "https://images.pexels.com/photos/27215758/pexels-photo-27215758/free-photo-of-zarza.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/27215758/pexels-photo-27215758/free-photo-of-zarza.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Cóctel clásico con coñac, triple sec y jugo de limón, servido en una copa escarchada.",
+    "ingredientes": [
+      "Coñac",
+      "Triple sec",
+      "Jugo de limón",
+      "Azúcar (para escarchar el vaso)",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "Escarchar el borde de la copa con azúcar.",
+      "En una coctelera, mezclar coñac, triple sec y jugo de limón con hielo.",
+      "Agitar bien y colar en la copa escarchada."
+    ],
+    "notas": "Puedes ajustar la cantidad de triple sec y limón según tu preferencia de dulzura y acidez."
   },
   {
     "id": 16,
     "nombre": "Bellini",
-    "img": "https://media.istockphoto.com/id/824488726/es/foto/mimosa-de-dulce-burbujeante-bellini-de-durazno.jpg?b=1&s=612x612&w=0&k=20&c=d_bc4uoYzknQ6z18mNSDVtJyJ9fMI-L3JjDGT8pv4Qk="
+    "img": "https://media.istockphoto.com/id/824488726/es/foto/mimosa-de-dulce-burbujeante-bellini-de-durazno.jpg?b=1&s=612x612&w=0&k=20&c=d_bc4uoYzknQ6z18mNSDVtJyJ9fMI-L3JjDGT8pv4Qk=",
+    "descripcion": "Cóctel burbujeante y afrutado con puré de durazno y champán.",
+    "ingredientes": [
+      "Purés de durazno",
+      "Champán",
+      "Azúcar (opcional)",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una copa de champán, verter el puré de durazno.",
+      "Agregar champán con cuidado para no hacer demasiadas burbujas.",
+      "Si es necesario, añadir azúcar al gusto."
+    ],
+    "notas": "El Bellini se sirve mejor frío y puede ser un excelente cóctel para celebraciones."
   },
   {
     "id": 17,
     "nombre": "Pisco Sour",
-    "img": "https://images.pexels.com/photos/17320910/pexels-photo-17320910/free-photo-of-comida-resfriado-frio-restaurante.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/17320910/pexels-photo-17320910/free-photo-of-comida-resfriado-frio-restaurante.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Cóctel peruano a base de pisco, jugo de limón y clara de huevo, con un toque de amargo.",
+    "ingredientes": [
+      "Pisco",
+      "Jugo de limón",
+      "Azúcar",
+      "Clara de huevo",
+      "Amargo",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "10 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una coctelera, combinar pisco, jugo de limón, azúcar y clara de huevo con hielo.",
+      "Agitar bien hasta que la mezcla esté espumosa.",
+      "Colar en un vaso frío y añadir unas gotas de amargo por encima."
+    ],
+    "notas": "Asegúrate de agitar bien para obtener una espuma ligera. Puedes omitir el amargo si prefieres un sabor más suave."
   },
   {
     "id": 18,
     "nombre": "Caipirinha",
-    "img": "https://media.istockphoto.com/id/928262414/es/foto/verano-fresco-caipirinha-cocktail-con-splash.jpg?b=1&s=612x612&w=0&k=20&c=SNRJlQcNqkMsOrLyGyrUppL3s0I2X2gqLVlSWgkPPz8="
+    "img": "https://media.istockphoto.com/id/928262414/es/foto/verano-fresco-caipirinha-cocktail-con-splash.jpg?b=1&s=612x612&w=0&k=20&c=SNRJlQcNqkMsOrLyGyrUppL3s0I2X2gqLVlSWgkPPz8=",
+    "descripcion": "Cóctel brasileño refrescante hecho con cachaça, azúcar y lima.",
+    "ingredientes": [
+      "Cachaça",
+      "Lima",
+      "Azúcar",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "Cortar la lima en trozos y colocar en un vaso.",
+      "Añadir azúcar y machacar bien para liberar el jugo de la lima.",
+      "Agregar hielo y verter la cachaça.",
+      "Mezclar bien."
+    ],
+    "notas": "Puedes ajustar la cantidad de azúcar según tu preferencia. También puedes probar con diferentes frutas para variar el sabor."
   },
   {
     "id": 19,
     "nombre": "Moscow Mule",
-    "img": "https://images.pexels.com/photos/19297798/pexels-photo-19297798/free-photo-of-bebida-frutal-ii.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "img": "https://images.pexels.com/photos/19297798/pexels-photo-19297798/free-photo-of-bebida-frutal-ii.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Cóctel picante y refrescante con vodka, jengibre y lima, servido en una taza de cobre.",
+    "ingredientes": [
+      "Vodka",
+      "Jengibre (cerveza de jengibre)",
+      "Jugo de lima",
+      "Hielo",
+      "Rodaja de lima (para decorar)",
+      "Ramita de menta (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una taza de cobre, agregar hielo.",
+      "Verter el vodka y el jugo de lima.",
+      "Completar con cerveza de jengibre.",
+      "Mezclar y decorar con una rodaja de lima y una ramita de menta."
+    ],
+    "notas": "Este cóctel se sirve mejor en una taza de cobre para mantenerlo bien frío."
   },
   {
     "id": 20,
     "nombre": "Mai Tai",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodlRZ_7rjY0zmxc7uP6sWmiL4nbIBcYbrHg&s"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodlRZ_7rjY0zmxc7uP6sWmiL4nbIBcYbrHg&s",
+    "descripcion": "Cóctel tropical con ron, curaçao y almendra, adornado con frutas y una sombrilla.",
+    "ingredientes": [
+      "Ron blanco",
+      "Ron oscuro",
+      "Curaçao",
+      "Jugo de limón",
+      "Almendra (sirope de orgeat)",
+      "Hielo",
+      "Frutas y sombrilla (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "10 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una coctelera, combinar ron blanco, ron oscuro, curaçao, jugo de limón y sirope de almendra con hielo.",
+      "Agitar bien y colar en un vaso con hielo.",
+      "Decorar con frutas y una sombrilla."
+    ],
+    "notas": "Puedes ajustar el equilibrio entre los rones según tu preferencia de sabor. También puedes añadir frutas frescas para una presentación más colorida."
   },
   {
     "id": 21,
     "nombre": "Amaretto Sour",
-    "img": "https://3catsfoodie.com/wp-content/uploads/2023/05/0AA43564-7AF9-4025-B7BA-7393766F69FA_1_201_a.jpeg"
+    "img": "https://3catsfoodie.com/wp-content/uploads/2023/05/0AA43564-7AF9-4025-B7BA-7393766F69FA_1_201_a.jpeg",
+    "descripcion": "Cóctel agridulce con amaretto, jugo de limón y un toque de azúcar.",
+    "ingredientes": [
+      "Amaretto",
+      "Jugo de limón",
+      "Azúcar",
+      "Clara de huevo",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una coctelera, combinar amaretto, jugo de limón, azúcar y clara de huevo con hielo.",
+      "Agitar bien hasta obtener una mezcla espumosa.",
+      "Colar en un vaso con hielo."
+    ],
+    "notas": "Puedes ajustar la cantidad de azúcar según tu preferencia. La clara de huevo añade una textura cremosa al cóctel."
   },
   {
     "id": 22,
     "nombre": "Cuba Libre",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd7tf1Zf9FeodcLRuWSf_61UJPzlc4jV2iRw&s"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd7tf1Zf9FeodcLRuWSf_61UJPzlc4jV2iRw&s",
+    "descripcion": "Cóctel clásico con ron, cola y un toque de limón.",
+    "ingredientes": [
+      "Ron blanco",
+      "Cola",
+      "Jugo de limón",
+      "Hielo",
+      "Rodaja de limón (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso con hielo, verter el ron y el jugo de limón.",
+      "Completar con cola.",
+      "Mezclar bien y decorar con una rodaja de limón."
+    ],
+    "notas": "Puedes usar ron oscuro si prefieres un sabor más robusto. Ajusta la cantidad de cola según tu gusto."
   },
   {
     "id": 23,
     "nombre": "Tom Collins",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknwm7zYlKdNFHHhkVUqBe6wMslYomgTh3Kw&s"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknwm7zYlKdNFHHhkVUqBe6wMslYomgTh3Kw&s",
+    "descripcion": "Cóctel refrescante con ginebra, jugo de limón y soda de club.",
+    "ingredientes": [
+      "Ginebra",
+      "Jugo de limón",
+      "Soda de club",
+      "Azúcar",
+      "Hielo",
+      "Rodaja de limón (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso con hielo, combinar ginebra, jugo de limón y azúcar.",
+      "Mezclar bien y completar con soda de club.",
+      "Decorar con una rodaja de limón."
+    ],
+    "notas": "Puedes ajustar la cantidad de azúcar según tu preferencia de dulzura. El Tom Collins se sirve mejor frío."
   },
   {
     "id": 24,
     "nombre": "Aperol Spritz",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFLVGm7He2Okh7wDeSsF1hTC-azZsbFUmPw&s"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFLVGm7He2Okh7wDeSsF1hTC-azZsbFUmPw&s",
+    "descripcion": "Cóctel refrescante y burbujeante con Aperol, prosecco y soda de club.",
+    "ingredientes": [
+      "Aperol",
+      "Prosecco",
+      "Soda de club",
+      "Hielo",
+      "Rodaja de naranja (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso con hielo, combinar Aperol y prosecco.",
+      "Completar con soda de club.",
+      "Mezclar suavemente y decorar con una rodaja de naranja."
+    ],
+    "notas": "El Aperol Spritz es ideal para el verano y se sirve mejor bien frío."
   },
   {
     "id": 25,
     "nombre": "Ramos Gin Fizz",
-    "img": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/03_22_Ramos_Gin_Fizz_Cocktail_Credit_Tyler_Zielinski_1920x1280-scaled-1.jpg"
+    "img": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/03_22_Ramos_Gin_Fizz_Cocktail_Credit_Tyler_Zielinski_1920x1280-scaled-1.jpg",
+    "descripcion": "Cóctel espumoso y cremoso con ginebra, jugo de limón, clara de huevo y soda.",
+    "ingredientes": [
+      "Ginebra",
+      "Jugo de limón",
+      "Clara de huevo",
+      "Crema de leche",
+      "Soda",
+      "Azúcar",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "10 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una coctelera, combinar ginebra, jugo de limón, clara de huevo, crema de leche, azúcar y hielo.",
+      "Agitar bien durante varios minutos para lograr una buena espuma.",
+      "Colar en un vaso frío y completar con soda."
+    ],
+    "notas": "El Ramos Gin Fizz requiere un buen agitado para obtener una espuma ligera y cremosa. Puedes ajustar la cantidad de azúcar según tu preferencia."
   },
   {
     "id": 26,
     "nombre": "French 75",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gg4exJUs4ynWyCpbtrh6PhhoTmzjxJXB-w&s"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gg4exJUs4ynWyCpbtrh6PhhoTmzjxJXB-w&s",
+    "descripcion": "Cóctel elegante con ginebra, champán, jugo de limón y azúcar.",
+    "ingredientes": [
+      "Ginebra",
+      "Champán",
+      "Jugo de limón",
+      "Azúcar",
+      "Hielo"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En una coctelera, combinar ginebra, jugo de limón y azúcar con hielo.",
+      "Agitar bien y colar en una copa de champán.",
+      "Completar con champán y mezclar suavemente."
+    ],
+    "notas": "El French 75 es perfecto para celebraciones y ocasiones especiales. Sirve bien frío."
   },
   {
     "id": 27,
     "nombre": "Paloma",
-    "img": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/04_23_Paloma_HERO_Stocksy_4620231_1920x1280.jpg"
+    "img": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/04_23_Paloma_HERO_Stocksy_4620231_1920x1280.jpg",
+    "descripcion": "Cóctel mexicano refrescante con tequila, jugo de toronja y soda.",
+    "ingredientes": [
+      "Tequila",
+      "Jugo de toronja",
+      "Soda",
+      "Azúcar",
+      "Hielo",
+      "Rodaja de toronja (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso con hielo, verter el tequila y el jugo de toronja.",
+      "Completar con soda.",
+      "Mezclar bien y decorar con una rodaja de toronja."
+    ],
+    "notas": "Puedes ajustar la cantidad de azúcar según tu preferencia. La Paloma es ideal para días calurosos."
   },
   {
     "id": 28,
     "nombre": "Dark 'n' Stormy",
-    "img": "https://elcoctelero.com/wp-content/uploads/2020/07/coctel-dark-n-stormy.jpg"
-  },
-  {
-    "id": 29,
-    "nombre": "Mai Tai",
-    "img": "https://cuberspremium.com/wp-content/uploads/2024/07/cocktail-mai-tai.jpg"
-  },
-  {
-    "id": 30,
-    "nombre": "Zombie",
-    "img": "https://images.pexels.com/photos/27275592/pexels-photo-27275592/free-photo-of-verano-barra-bar-barman.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://elcoctelero.com/wp-content/uploads/2020/07/coctel-dark-n-stormy.jpg",
+    "descripcion": "Cóctel picante y refrescante con ron oscuro y cerveza de jengibre.",
+    "ingredientes": [
+      "Ron oscuro",
+      "Cerveza de jengibre",
+      "Jugo de limón",
+      "Hielo",
+      "Rodaja de limón (para decorar)"
+    ],
+    "categoria": "Cóctel",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "5 minutos",
+    "porciones": "1 porción",
+    "pasos": [
+      "En un vaso con hielo, verter el ron oscuro y el jugo de limón.",
+      "Completar con cerveza de jengibre.",
+      "Mezclar suavemente y decorar con una rodaja de limón."
+    ],
+    "notas": "El Dark 'n' Stormy se sirve mejor frío y puede ser ajustado a tu gusto añadiendo más o menos cerveza de jengibre."
   }
 ]

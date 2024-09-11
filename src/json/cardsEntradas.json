@@ -2,151 +2,689 @@
   {
     "id": 1,
     "nombre": "Bruschetta",
-    "img": "https://images.pexels.com/photos/4969892/pexels-photo-4969892.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/4969892/pexels-photo-4969892.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Tostadas de pan con tomate, albahaca y ajo.",
+    "ingredientes": [
+      "Pan",
+      "Tomate",
+      "Albahaca",
+      "Ajo",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "15 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Tostar las rebanadas de pan.",
+      "Frotar el pan con un diente de ajo.",
+      "Mezclar el tomate picado con albahaca, aceite de oliva, sal y pimienta.",
+      "Colocar la mezcla sobre las rebanadas de pan."
+    ],
+    "notas": "Puedes añadir queso rallado para un extra sabor."
   },
   {
     "id": 2,
     "nombre": "Hummus con pan de pita",
-    "img": "https://images.pexels.com/photos/14930616/pexels-photo-14930616.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/14930616/pexels-photo-14930616.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Dip de garbanzos acompañado con pan de pita.",
+    "ingredientes": [
+      "Garbanzos",
+      "Tahini",
+      "Ajo",
+      "Limón",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta",
+      "Pan de pita"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "10 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Mezclar los garbanzos, tahini, ajo, limón y aceite de oliva en una licuadora.",
+      "Procesar hasta obtener una mezcla suave.",
+      "Sazonar con sal y pimienta.",
+      "Servir con pan de pita."
+    ],
+    "notas": "Puedes ajustar el ajo y limón al gusto."
   },
   {
     "id": 3,
     "nombre": "Rollos de primavera",
-    "img": "https://images.pexels.com/photos/6646369/pexels-photo-6646369.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/6646369/pexels-photo-6646369.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Rollos rellenos de verduras frescas y fideos.",
+    "ingredientes": [
+      "Papel de arroz",
+      "Verduras frescas",
+      "Fideos",
+      "Salsa de soya",
+      "Salsa de maní"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "30 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Remojar el papel de arroz en agua tibia.",
+      "Rellenar con verduras frescas y fideos.",
+      "Enrollar y servir con salsa de soya y salsa de maní."
+    ],
+    "notas": "Asegúrate de no llenar demasiado el papel de arroz para evitar que se rompa."
   },
   {
     "id": 4,
     "nombre": "Guacamole con totopos",
-    "img": "https://vidapicante.com/wp-content/uploads/2023/01/tortillas-con-guacamole.jpg"
+    "img": "https://vidapicante.com/wp-content/uploads/2023/01/tortillas-con-guacamole.jpg",
+    "descripcion": "Aguacate triturado con cebolla, cilantro y limón, acompañado de totopos.",
+    "ingredientes": [
+      "Aguacate",
+      "Cebolla",
+      "Cilantro",
+      "Limón",
+      "Sal",
+      "Totopos"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "10 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Triturar el aguacate y mezclar con cebolla, cilantro, y jugo de limón.",
+      "Sazonar con sal.",
+      "Servir con totopos."
+    ],
+    "notas": "El guacamole es mejor si se consume inmediatamente."
   },
   {
     "id": 5,
     "nombre": "Alitas de pollo",
-    "img": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Alitas de pollo marinadas y fritas.",
+    "ingredientes": [
+      "Alitas de pollo",
+      "Salsa barbacoa",
+      "Especias",
+      "Aceite"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "45 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Marinar las alitas con salsa barbacoa y especias.",
+      "Freír en aceite caliente hasta dorar."
+    ],
+    "notas": "Puedes servirlas con una salsa adicional si lo deseas."
   },
   {
     "id": 6,
     "nombre": "Ceviche",
-    "img": "https://media.istockphoto.com/id/166211228/es/foto/ceviche-con-lima.jpg?b=1&s=612x612&w=0&k=20&c=--8ZdOrdlG6po_tUPYI_5aNLRIeVvWfp5v2Jdviq7qQ="
+    "img": "https://media.istockphoto.com/id/166211228/es/foto/ceviche-con-lima.jpg?b=1&s=612x612&w=0&k=20&c=--8ZdOrdlG6po_tUPYI_5aNLRIeVvWfp5v2Jdviq7qQ=",
+    "descripcion": "Pescado crudo marinado en jugo de lima con cebolla y cilantro.",
+    "ingredientes": [
+      "Pescado",
+      "Jugo de lima",
+      "Cebolla",
+      "Cilantro",
+      "Chiles",
+      "Sal"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "20 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Marinar el pescado en jugo de lima.",
+      "Añadir cebolla, cilantro, chiles y sal al gusto.",
+      "Servir frío."
+    ],
+    "notas": "El ceviche debe servirse inmediatamente para mantener la frescura."
   },
   {
     "id": 7,
     "nombre": "Queso fundido",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8rdWR8BGalxigBP3mOKJR1U89nNK_49wuA&s"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8rdWR8BGalxigBP3mOKJR1U89nNK_49wuA&s",
+    "descripcion": "Queso derretido servido con tortillas o pan.",
+    "ingredientes": [
+      "Queso",
+      "Tortillas",
+      "Pan"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "15 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Derretir el queso en un sartén o en el horno.",
+      "Servir con tortillas o pan."
+    ],
+    "notas": "Puedes añadir chiles o especias al queso para darle más sabor."
   },
   {
     "id": 8,
     "nombre": "Empanadas",
-    "img": "https://assets.elgourmet.com/wp-content/uploads/2023/10/EMPANADAS-1-1024x683.jpg.webp"
+    "img": "https://assets.elgourmet.com/wp-content/uploads/2023/10/EMPANADAS-1-1024x683.jpg.webp",
+    "descripcion": "Empanadas rellenas de carne, pollo o vegetales.",
+    "ingredientes": [
+      "Masa para empanadas",
+      "Carne",
+      "Pollo",
+      "Vegetales",
+      "Especias"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "1 hora",
+    "porciones": "8 porciones",
+    "pasos": [
+      "Rellenar la masa con carne, pollo o vegetales.",
+      "Sellar las empanadas y hornear o freír hasta dorar."
+    ],
+    "notas": "Puedes preparar las empanadas con anticipación y congelarlas."
   },
   {
     "id": 9,
     "nombre": "Tacos de camarón",
-    "img": "https://unareceta.com/wp-content/uploads/2015/07/tacos-con-camaron.jpg"
+    "img": "https://unareceta.com/wp-content/uploads/2015/07/tacos-con-camaron.jpg",
+    "descripcion": "Tacos rellenos de camarón a la parrilla con salsas frescas.",
+    "ingredientes": [
+      "Camarón",
+      "Tortillas",
+      "Cebolla",
+      "Cilantro",
+      "Salsa",
+      "Limón"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "20 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Asar el camarón a la parrilla.",
+      "Colocar el camarón en las tortillas con cebolla, cilantro y salsa.",
+      "Exprimir limón por encima antes de servir."
+    ],
+    "notas": "Puedes marinar los camarones antes de asarlos para un sabor adicional."
   },
   {
     "id": 10,
     "nombre": "Samosas",
-    "img": "https://therecipecritic.com/wp-content/uploads/2023/12/samosa-2-1200x1799.jpg"
+    "img": "https://therecipecritic.com/wp-content/uploads/2023/12/samosa-2-1200x1799.jpg",
+    "descripcion": "Empanadillas rellenas de carne o vegetales, fritas o horneadas.",
+    "ingredientes": [
+      "Masa para samosas",
+      "Carne",
+      "Vegetales",
+      "Especias"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "1 hora",
+    "porciones": "12 porciones",
+    "pasos": [
+      "Rellenar la masa con carne o vegetales y especias.",
+      "Formar las samosas y freír o hornear hasta dorar."
+    ],
+    "notas": "Puedes utilizar masa comprada o hacerla desde cero."
   },
   {
     "id": 11,
     "nombre": "Champiñones al ajillo",
-    "img": "https://www.gourmet.cl/wp-content/uploads/2022/08/champinones-al-ajillo-ajustada-web-570x458.jpg"
+    "img": "https://www.gourmet.cl/wp-content/uploads/2022/08/champinones-al-ajillo-ajustada-web-570x458.jpg",
+    "descripcion": "Champiñones salteados con ajo y perejil.",
+    "ingredientes": [
+      "Champiñones",
+      "Ajo",
+      "Perejil",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "20 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Limpiar y cortar los champiñones.",
+      "Calentar aceite de oliva en una sartén.",
+      "Añadir ajo picado y saltear hasta que esté dorado.",
+      "Agregar los champiñones y cocinar hasta que estén tiernos.",
+      "Sazonar con sal, pimienta y perejil fresco antes de servir."
+    ],
+    "notas": "Sirve caliente como aperitivo o acompañamiento."
   },
   {
     "id": 12,
     "nombre": "Tempura de verduras",
-    "img": "https://www.vegrecetas.com/wp-content/uploads/tempura-de-verduras.jpg"
+    "img": "https://www.vegrecetas.com/wp-content/uploads/tempura-de-verduras.jpg",
+    "descripcion": "Verduras rebozadas y fritas en una masa ligera de tempura.",
+    "ingredientes": [
+      "Verduras variadas",
+      "Harina de tempura",
+      "Agua fría",
+      "Aceite para freír",
+      "Salsa para tempura"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "30 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Preparar la masa de tempura mezclando harina con agua fría.",
+      "Rebozar las verduras en la masa.",
+      "Freír las verduras en aceite caliente hasta que estén doradas y crujientes.",
+      "Escurrir sobre papel absorbente y servir con salsa para tempura."
+    ],
+    "notas": "Mantén el aceite a la temperatura adecuada para obtener una textura crujiente."
   },
   {
     "id": 13,
     "nombre": "Croquetas",
-    "img": "https://images.pexels.com/photos/27609407/pexels-photo-27609407/free-photo-of-comida-plato-restaurante-cena.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/27609407/pexels-photo-27609407/free-photo-of-comida-plato-restaurante-cena.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Pequeñas bolitas rebozadas y fritas, rellenas de bechamel y otros ingredientes.",
+    "ingredientes": [
+      "Bechamel",
+      "Jamón",
+      "Queso",
+      "Pan rallado",
+      "Huevos",
+      "Aceite para freír"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "1 hora",
+    "porciones": "12 porciones",
+    "pasos": [
+      "Preparar la bechamel y enfriarla.",
+      "Mezclar con jamón y queso.",
+      "Formar bolitas y rebozar en huevo batido y pan rallado.",
+      "Freír en aceite caliente hasta dorar."
+    ],
+    "notas": "Puedes preparar la mezcla con antelación y congelar las croquetas para freírlas cuando las necesites."
   },
   {
     "id": 14,
     "nombre": "Crostini con tapenade",
-    "img": "https://images.pexels.com/photos/6126315/pexels-photo-6126315.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/6126315/pexels-photo-6126315.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Tostadas de pan acompañadas de tapenade, una pasta de aceitunas.",
+    "ingredientes": [
+      "Pan",
+      "Aceitunas",
+      "Alcaparras",
+      "Ajo",
+      "Aceite de oliva"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "20 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Tostar las rebanadas de pan.",
+      "Preparar la tapenade triturando aceitunas, alcaparras, ajo y aceite de oliva.",
+      "Untar la tapenade sobre las tostadas de pan."
+    ],
+    "notas": "Puedes hacer la tapenade con antelación y conservarla en la nevera."
   },
   {
     "id": 15,
     "nombre": "Pinchos morunos",
-    "img": "https://mellerware.com/cdn/shop/articles/23._Pinchos_Morunos_-_FOTO_3_fcbd721d-0a2a-4b36-ac4b-74fac04136db_1024x.jpg?v=1657657662"
+    "img": "https://mellerware.com/cdn/shop/articles/23._Pinchos_Morunos_-_FOTO_3_fcbd721d-0a2a-4b36-ac4b-74fac04136db_1024x.jpg?v=1657657662",
+    "descripcion": "Brochetas de carne marinadas con especias morunas y asadas a la parrilla.",
+    "ingredientes": [
+      "Carne de cerdo o cordero",
+      "Especias morunas",
+      "Aceite de oliva",
+      "Pimientos",
+      "Cebolla"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "1 hora",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Marinar la carne con especias morunas y aceite de oliva.",
+      "Ensartar la carne en brochetas alternando con pimientos y cebolla.",
+      "Asar en la parrilla hasta que la carne esté bien cocida."
+    ],
+    "notas": "Asegúrate de que la carne esté bien marinada para obtener el mejor sabor."
   },
   {
     "id": 16,
     "nombre": "Calamares a la romana",
-    "img": "https://images.pexels.com/photos/17321123/pexels-photo-17321123/free-photo-of-comida-sano-vegetales-verduras.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/17321123/pexels-photo-17321123/free-photo-of-comida-sano-vegetales-verduras.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Calamares rebozados y fritos hasta que estén crujientes.",
+    "ingredientes": [
+      "Calamares",
+      "Harina",
+      "Huevo",
+      "Pan rallado",
+      "Aceite para freír",
+      "Limón"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "30 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Limpiar y cortar los calamares en anillos.",
+      "Rebozar los calamares en harina, huevo batido y pan rallado.",
+      "Freír en aceite caliente hasta dorar.",
+      "Servir con gajos de limón."
+    ],
+    "notas": "Puedes servirlos con una salsa de alioli para acompañar."
   },
   {
     "id": 17,
     "nombre": "Tortilla española",
-    "img": "https://images.pexels.com/photos/4765652/pexels-photo-4765652.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/4765652/pexels-photo-4765652.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Tortilla de patata con cebolla, cocida en una sartén.",
+    "ingredientes": [
+      "Patatas",
+      "Cebolla",
+      "Huevos",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "categoria": "Plato principal",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "40 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Pelar y cortar las patatas en rodajas finas.",
+      "Freír las patatas y cebolla en aceite de oliva hasta que estén tiernas.",
+      "Batir los huevos y mezclar con las patatas y cebolla.",
+      "Cocinar la mezcla en una sartén hasta que esté dorada por ambos lados."
+    ],
+    "notas": "La tortilla puede servirse caliente o a temperatura ambiente."
   },
   {
     "id": 18,
     "nombre": "Hush puppies",
-    "img": "https://www.allrecipes.com/thmb/hoSnDn3spX7HYxjv-aLnJrS_yQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8145785-a8612841920042dbb5fe906b5f82e440.jpg"
+    "img": "https://www.allrecipes.com/thmb/hoSnDn3spX7HYxjv-aLnJrS_yQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8145785-a8612841920042dbb5fe906b5f82e440.jpg",
+    "descripcion": "Bolitas de masa de maíz fritas, típicas de la cocina sureña de EE.UU.",
+    "ingredientes": [
+      "Harina de maíz",
+      "Harina de trigo",
+      "Leche",
+      "Cebolla",
+      "Huevos",
+      "Aceite para freír"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "30 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Mezclar harina de maíz, harina de trigo, leche, cebolla picada y huevos.",
+      "Formar bolitas con la mezcla.",
+      "Freír en aceite caliente hasta que estén doradas y crujientes."
+    ],
+    "notas": "Sirve caliente con una salsa agridulce para acompañar."
   },
   {
     "id": 19,
     "nombre": "Bocadillos de cerdo",
-    "img": "https://www.naiz.eus/media/asset_publics/resources/000/901/353/original/bocadillo.jpg"
+    "img": "https://www.naiz.eus/media/asset_publics/resources/000/901/353/original/bocadillo.jpg",
+    "descripcion": "Bocadillos rellenos de cerdo, típicos de la cocina española.",
+    "ingredientes": [
+      "Pan",
+      "Cerdo",
+      "Pimientos",
+      "Cebolla",
+      "Salsa"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "30 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Cocinar el cerdo y desmenuzarlo.",
+      "Rellenar el pan con el cerdo, pimientos y cebolla.",
+      "Agregar salsa al gusto y servir."
+    ],
+    "notas": "Puedes usar diferentes tipos de pan y salsas según tu preferencia."
   },
   {
     "id": 20,
     "nombre": "Ceviche de pescado",
-    "img": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/e27c310d66805447a62e25cbcd696442.jpg"
+    "img": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/e27c310d66805447a62e25cbcd696442.jpg",
+    "descripcion": "Pescado marinado en jugo de limón con cebolla, cilantro y chiles.",
+    "ingredientes": [
+      "Pescado",
+      "Jugo de limón",
+      "Cebolla",
+      "Cilantro",
+      "Chiles",
+      "Sal"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "1 hora",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Cortar el pescado en cubos pequeños.",
+      "Marinar el pescado en jugo de limón durante 30 minutos.",
+      "Agregar cebolla, cilantro, chiles y sal al gusto.",
+      "Servir frío como aperitivo."
+    ],
+    "notas": "Asegúrate de usar pescado fresco para obtener el mejor sabor."
   },
   {
     "id": 21,
     "nombre": "Rellenos de espinacas y queso",
-    "img": "https://www.vidactual.com/rcpmaker/wp-content/uploads/2018/10/Canelones-rellenos-de-espinaca-y-queso-ricotta.jpg"
+    "img": "https://www.vidactual.com/rcpmaker/wp-content/uploads/2018/10/Canelones-rellenos-de-espinaca-y-queso-ricotta.jpg",
+    "descripcion": "Canelones rellenos de espinacas y queso ricotta, cubiertos con salsa de tomate.",
+    "ingredientes": [
+      "Canelones",
+      "Espinacas",
+      "Queso ricotta",
+      "Salsa de tomate",
+      "Queso rallado",
+      "Ajo",
+      "Aceite de oliva"
+    ],
+    "categoria": "Plato principal",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "1 hora",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Cocinar los canelones según las instrucciones del paquete.",
+      "Saltear las espinacas con ajo en aceite de oliva hasta que estén tiernas.",
+      "Mezclar las espinacas con queso ricotta.",
+      "Rellenar los canelones con la mezcla de espinacas y queso.",
+      "Colocar los canelones en una fuente para hornear y cubrir con salsa de tomate y queso rallado.",
+      "Hornear a 180°C durante 20 minutos o hasta que el queso esté dorado."
+    ],
+    "notas": "Puedes usar salsa de tomate casera o comprada. También puedes agregar un poco de queso parmesano para más sabor."
   },
   {
     "id": 22,
     "nombre": "Nachos con queso",
-    "img": "https://images.pexels.com/photos/27897601/pexels-photo-27897601/free-photo-of-comida-plato-restaurante-cena.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/27897601/pexels-photo-27897601/free-photo-of-comida-plato-restaurante-cena.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Tortilla de maíz cubierta con queso derretido y acompañada de salsa.",
+    "ingredientes": [
+      "Tortilla de maíz",
+      "Queso cheddar",
+      "Salsa",
+      "Jalapeños",
+      "Guacamole",
+      "Crema agria"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "15 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Precalentar el horno a 180°C.",
+      "Colocar las tortillas de maíz en una bandeja para hornear.",
+      "Cubrir las tortillas con queso cheddar rallado.",
+      "Hornear durante 10 minutos o hasta que el queso esté derretido.",
+      "Agregar salsa, jalapeños, guacamole y crema agria por encima antes de servir."
+    ],
+    "notas": "Puedes personalizar los nachos agregando carne molida o frijoles antes de hornear."
   },
   {
     "id": 23,
     "nombre": "Papas bravas",
-    "img": "https://tn.com.ar/resizer/uiMcZMrlZnF0BYDKO7GgYE3-cDw=/arc-anglerfish-arc2-prod-artear/public/ECK6PZI5AJCQLC3OFYIX5MVWLY.jpeg"
+    "img": "https://tn.com.ar/resizer/uiMcZMrlZnF0BYDKO7GgYE3-cDw=/arc-anglerfish-arc2-prod-artear/public/ECK6PZI5AJCQLC3OFYIX5MVWLY.jpeg",
+    "descripcion": "Papas fritas servidas con una salsa picante de tomate.",
+    "pasos": [
+      "Papas",
+      "Aceite para freír",
+      "Salsa brava",
+      "Sal"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "30 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Pelar y cortar las papas en cubos.",
+      "Freír las papas en aceite caliente hasta que estén doradas y crujientes.",
+      "Escurrir el exceso de aceite y sazonar con sal.",
+      "Servir las papas con salsa brava por encima."
+    ],
+    "notas": "Puedes ajustar el nivel de picante de la salsa brava según tu preferencia."
   },
   {
     "id": 24,
     "nombre": "Pimientos rellenos",
-    "img": "https://images.pexels.com/photos/19359972/pexels-photo-19359972/free-photo-of-almuerzo-comida-gurme-sibarita.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/19359972/pexels-photo-19359972/free-photo-of-almuerzo-comida-gurme-sibarita.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Pimientos rellenos de carne, arroz o vegetales y cocidos al horno.",
+    "pasos": [
+      "Pimientos",
+      "Carne molida",
+      "Arroz",
+      "Cebolla",
+      "Tomate",
+      "Especias",
+      "Aceite de oliva"
+    ],
+    "categoria": "Plato principal",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "1 hora",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Precalentar el horno a 180°C.",
+      "Cocinar el arroz y la carne molida con cebolla y tomate.",
+      "Rellenar los pimientos con la mezcla de carne y arroz.",
+      "Colocar los pimientos rellenos en una fuente para hornear y rociar con aceite de oliva.",
+      "Hornear durante 30 minutos o hasta que los pimientos estén tiernos."
+    ],
+    "notas": "Puedes variar el relleno según tu gusto, usando diferentes tipos de carne o agregando más vegetales."
   },
   {
     "id": 25,
     "nombre": "Ensalada caprese",
-    "img": "https://images.pexels.com/photos/15735983/pexels-photo-15735983/free-photo-of-salada-de-salmao.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/15735983/pexels-photo-15735983/free-photo-of-salada-de-salmao.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Ensalada italiana con tomate, mozzarella, albahaca y aceite de oliva.",
+    "ingredientes": [
+      "Tomates",
+      "Mozzarella",
+      "Albahaca",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "categoria": "Ensalada",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "10 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Cortar los tomates y la mozzarella en rodajas.",
+      "Alternar las rodajas de tomate y mozzarella en un plato.",
+      "Agregar hojas de albahaca por encima.",
+      "Rociar con aceite de oliva y sazonar con sal y pimienta al gusto."
+    ],
+    "notas": "Puedes agregar un toque de balsámico para más sabor."
   },
   {
     "id": 26,
     "nombre": "Tzatziki con pan",
-    "img": "https://images.pexels.com/photos/7214484/pexels-photo-7214484.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "img": "https://images.pexels.com/photos/7214484/pexels-photo-7214484.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "descripcion": "Salsa griega de yogur con pepino y ajo, acompañada de pan.",
+    "ingredientes": [
+      "Yogur griego",
+      "Pepino",
+      "Ajo",
+      "Aceite de oliva",
+      "Eneldo",
+      "Sal",
+      "Pimienta",
+      "Pan"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Fácil",
+    "tiempoPreparacion": "15 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Rallar el pepino y escurrir el exceso de agua.",
+      "Mezclar el yogur con el pepino rallado, ajo picado, eneldo, aceite de oliva, sal y pimienta.",
+      "Servir el tzatziki con pan fresco o pita."
+    ],
+    "notas": "El tzatziki se puede preparar con antelación y mantener en el refrigerador hasta que lo necesites."
   },
   {
     "id": 27,
     "nombre": "Tarta de cebolla",
-    "img": "https://resizer.glanacion.com/resizer/v2/tarta-de-cebolla-y-JBTTCKF4P5EDPKX5IAMFYZK6VI.jpg?auth=101ee1a1e056a32b88e1a1f2b0ec89de7c3ad458bd02c45ccd85e7b349e8b52f&width=768&height=520&quality=70&smart=true"
+    "img": "https://resizer.glanacion.com/resizer/v2/tarta-de-cebolla-y-JBTTCKF4P5EDPKX5IAMFYZK6VI.jpg?auth=101ee1a1e056a32b88e1a1f2b0ec89de7c3ad458bd02c45ccd85e7b349e8b52f&width=768&height=520&quality=70&smart=true",
+    "descripcion": "Tarta salada con cebolla caramelizada y queso.",
+    "ingredientes": [
+      "Masa para tarta",
+      "Cebolla",
+      "Queso",
+      "Huevos",
+      "Crema de leche",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "categoria": "Plato principal",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "1 hora",
+    "porciones": "6 porciones",
+    "pasos": [
+      "Precalentar el horno a 180°C.",
+      "Caramelizar las cebollas en aceite de oliva hasta que estén doradas.",
+      "En un bol, mezclar los huevos con crema de leche, sal y pimienta.",
+      "Extender la masa en un molde para tarta y cubrir con las cebollas caramelizadas.",
+      "Verter la mezcla de huevo y crema sobre las cebollas.",
+      "Hornear durante 30-40 minutos o hasta que la tarta esté dorada y firme."
+    ],
+    "notas": "La tarta puede servirse caliente o fría, y es ideal para acompañar con una ensalada."
   },
   {
     "id": 28,
     "nombre": "Rollos de calabacín",
-    "img": "https://content-cocina.lecturas.com/medio/2023/07/21/rollitos-de-calabacin-rellenos-de-gambas_2b882d01_1200x630.jpg"
-  },
-  {
-    "id": 29,
-    "nombre": "Raviolis de espinacas",
-    "img": "https://www.comedera.com/wp-content/uploads/2022/08/raviolis-de-queso-y-espinacas.jpg"
-  },
-  {
-    "id": 30,
-    "nombre": "Canelones rellenos",
-    "img": "https://vivirmejor.mx/wp-content/uploads/2023/08/Canelones-rellenos-1-2.jpg.webp"
+    "img": "https://content-cocina.lecturas.com/medio/2023/07/21/rollitos-de-calabacin-rellenos-de-gambas_2b882d01_1200x630.jpg",
+    "descripcion": "Rollos de calabacín rellenos de gambas, cocidos al horno.",
+    "ingredientes": [
+      "Calabacín",
+      "Gambas",
+      "Queso crema",
+      "Ajo",
+      "Perejil",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "categoria": "Aperitivo",
+    "dificultad": "Intermedio",
+    "tiempoPreparacion": "45 minutos",
+    "porciones": "4 porciones",
+    "pasos": [
+      "Cortar el calabacín en rodajas finas y asarlas ligeramente.",
+      "Mezclar las gambas picadas con queso crema, ajo picado, perejil, sal y pimienta.",
+      "Rellenar cada rodaja de calabacín con la mezcla de gambas.",
+      "Enrollar las rodajas y asegurarlas con palillos.",
+      "Colocar los rollos en una fuente para hornear y rociar con aceite de oliva.",
+      "Hornear a 180°C durante 20-25 minutos."
+    ],
+    "notas": "Puedes añadir más especias o hierbas a la mezcla de gambas según tu gusto."
   }
 ]
