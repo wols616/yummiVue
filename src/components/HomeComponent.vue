@@ -55,11 +55,11 @@
 
     <section>
       <h1>Bebidas</h1>
-      <ImgSlider :json-dato="cardsBebidas" />
+      <ImgSlider :json-dato="'bebidas'" />
       <h1>Postres</h1>
-      <ImgSlider :json-dato="cardsPostres" />
+      <ImgSlider :json-dato="'postres'" />
       <h1>Entradas</h1>
-      <ImgSlider :json-dato="cardsEntradas" />
+      <ImgSlider :json-dato="'entradas'" />
     </section>
   </div>
   <FooterComponent />
@@ -68,9 +68,6 @@
 <script>
 import NavbarComponent2 from "./NavbarComponent2.vue";
 import ImgSlider from "./ImgSlider.vue";
-import cardsBebidas from "../../public/json/cardsBebidas.json";
-import cardsPostres from "../../public/json/cardsPostres.json";
-import cardsEntradas from "../../public/json/cardsEntradas.json";
 import FooterComponent from "./FooterComponent.vue";
 import trending from "../../public/json/trending.json";
 
@@ -79,9 +76,6 @@ export default {
   name: "HomeComponent",
   data() {
     return {
-      cardsBebidas,
-      cardsPostres,
-      cardsEntradas,
       trending,
       trendingRand: [],
     };

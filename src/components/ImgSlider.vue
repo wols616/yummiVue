@@ -10,7 +10,7 @@
           alt=""
           class="grow-fade-image"
           :class="{ 'initial-load': isInitialLoad }"
-          @click="abrirReceta(item.id, tarjetaComida)"
+          @click="abrirReceta(item.idReceta, tarjetaComida)"
         />
       </transition>
     </div>
@@ -19,15 +19,17 @@
 </template>
 
 <script>
+import axios from 'axios';
+
 export default {
   name: "BienvenidaComponent",
   data() {
     return {
-      tarjetaComida: this.jsonDato,
+      tarjetaComida: [],
       tarjetaComidaRand: [],
       indice: 0,
       showImages: false,
-      isInitialLoad: true,
+      isInitialLoad: true
     };
   },
   methods: {
@@ -69,10 +71,24 @@ export default {
         name: 'RecetaComponent', params: {id: idReceta},
         query: {data: JSON.stringify(json)}
       });
+    },
+    async obtenerComida(){
+      try{
+        const response = await axios.get(`http://localhost:3000/api/${this.jsonDato}`);
+
+        return response.data;
+
+      }catch (error){
+        console.error('Error al hacer la solicitud', error);
+      }
     }
   },
   mounted() {
-    this.actualizarImagenes();
+    this.obtenerComida().then(data=>{
+      this.tarjetaComida = data;
+      this.actualizarImagenes();
+
+    })
   },
   props: {
     jsonDato: {

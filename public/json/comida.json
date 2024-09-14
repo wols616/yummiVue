@@ -1,0 +1,2561 @@
+[
+    {
+        "idReceta": 1,
+        "nombre": "Burritos al pastor",
+        "img": "https://platerio.com/wp-content/uploads/2021/07/Tacos-pastor-frontal2.jpg",
+        "descripcion": "Deliciosos burritos rellenos de carne al pastor con piña.",
+        "ingredientes": [
+            "Carne de cerdo",
+            "Piña",
+            "Tortilla de harina",
+            "Cebolla",
+            "Cilantro",
+            "Salsa al gusto"
+        ],
+        "categoria": "Mexicana",
+        "dificultad": "Media",
+        "tiempoPreparacion": "45 minutos",
+        "porciones": 4,
+        "pasos": [
+            "Marinar la carne",
+            "Cocinar la carne al pastor",
+            "Montar los burritos",
+            "Servir con salsa"
+        ],
+        "notas": "Puedes acompañarlos con guacamole.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 2,
+        "nombre": "Pasta con jitomates",
+        "img": "https://lh6.googleusercontent.com/proxy/SpZb_8ODOaZSM1ds0FPEiYMFBQbBBAiIOq9JinO0UEJ-KMs1xXstQFuOSekRwoAfKgkNWE0sEdBQEBktVYB3-7EOWNlwDqkOpg2XBAYU92n_PMgmv0yfu8Xo0VEv4pcSkHmUTbEc",
+        "descripcion": "Pasta ligera con jitomates frescos y albahaca.",
+        "ingredientes": [
+            "Pasta",
+            "Jitomates",
+            "Ajo",
+            "Albahaca",
+            "Aceite de oliva",
+            "Queso parmesano"
+        ],
+        "categoria": "Italiana",
+        "dificultad": "Baja",
+        "tiempoPreparacion": "30 minutos",
+        "porciones": 2,
+        "pasos": [
+            "Cocer la pasta",
+            "Saltear el ajo y jitomates",
+            "Mezclar con la pasta y la albahaca",
+            "Servir con queso parmesano"
+        ],
+        "notas": "Agregar pimienta al gusto para resaltar el sabor.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 3,
+        "nombre": "Pollo con salsa Chipotle",
+        "img": "https://www.recetasnestle.com.mx/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/12d24ee4e31c5c0c41ea1007c0e0185e.png?itok=AORtSZFu",
+        "descripcion": "Pollo en una cremosa y picante salsa de chipotle.",
+        "ingredientes": [
+            "Pechugas de pollo",
+            "Chile chipotle",
+            "Crema",
+            "Ajo",
+            "Cebolla"
+        ],
+        "categoria": "Mexicana",
+        "dificultad": "Media",
+        "tiempoPreparacion": "40 minutos",
+        "porciones": 4,
+        "pasos": [
+            "Cocinar el pollo",
+            "Preparar la salsa de chipotle",
+            "Mezclar y cocinar",
+            "Servir caliente"
+        ],
+        "notas": "Servir con arroz blanco.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 4,
+        "nombre": "Ensalada César",
+        "img": "https://www.gourmet.cl/wp-content/uploads/2016/09/Ensalada_C%C3%A9sar-web-553x458.jpg",
+        "descripcion": "Clásica ensalada César con crutones y aderezo especial.",
+        "ingredientes": [
+            "Lechuga romana",
+            "Crutones",
+            "Queso parmesano",
+            "Aderezo César",
+            "Pollo (opcional)"
+        ],
+        "categoria": "Ensaladas",
+        "dificultad": "Baja",
+        "tiempoPreparacion": "15 minutos",
+        "porciones": 2,
+        "pasos": [
+            "Lavar y cortar la lechuga",
+            "Preparar el aderezo",
+            "Montar la ensalada con crutones y queso",
+            "Añadir el aderezo"
+        ],
+        "notas": "Puedes agregar tiras de pollo a la plancha.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 5,
+        "nombre": "Tacos de carnitas",
+        "img": "https://cielitorosado.com/wp-content/uploads/2022/11/CARNITAS-sm.jpg",
+        "descripcion": "Tacos crujientes de carnitas con cilantro y cebolla.",
+        "ingredientes": [
+            "Carnitas",
+            "Tortillas de maíz",
+            "Cilantro",
+            "Cebolla",
+            "Salsa"
+        ],
+        "categoria": "Mexicana",
+        "dificultad": "Baja",
+        "tiempoPreparacion": "30 minutos",
+        "porciones": 4,
+        "pasos": [
+            "Calentar las carnitas",
+            "Montar los tacos",
+            "Añadir cilantro y cebolla",
+            "Servir con salsa"
+        ],
+        "notas": "Puedes acompañar con limón.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 6,
+        "nombre": "Sushi de salmón",
+        "img": "https://www.oliveradatenea.com/wp-content/uploads/2023/06/Sushi-rolls-de-salmon-y-Olivada-Olivera-dAtenea.jpg",
+        "descripcion": "Rollos de sushi con salmón fresco y aguacate.",
+        "ingredientes": [
+            "Salmón",
+            "Arroz para sushi",
+            "Alga nori",
+            "Aguacate",
+            "Salsa de soya"
+        ],
+        "categoria": "Japonesa",
+        "dificultad": "Alta",
+        "tiempoPreparacion": "60 minutos",
+        "porciones": 3,
+        "pasos": [
+            "Cocinar el arroz",
+            "Montar los rollos de sushi",
+            "Cortar el sushi",
+            "Servir con salsa de soya"
+        ],
+        "notas": "Usa un cuchillo afilado para cortar los rollos.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 7,
+        "nombre": "Hamburguesa con queso",
+        "img": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/5b57547a8825f9fac531c7c39ab1e00e/Derivates/1536354e54be6f02ff4b3e9ede6e8e7ea487ab3d.jpg",
+        "descripcion": "Hamburguesa jugosa con queso derretido y aderezos.",
+        "ingredientes": [
+            "Carne de res",
+            "Queso",
+            "Pan de hamburguesa",
+            "Lechuga",
+            "Tomate",
+            "Cebolla"
+        ],
+        "categoria": "Americana",
+        "dificultad": "Baja",
+        "tiempoPreparacion": "25 minutos",
+        "porciones": 1,
+        "pasos": [
+            "Cocinar la carne",
+            "Montar la hamburguesa con los ingredientes",
+            "Servir"
+        ],
+        "notas": "Acompañar con papas fritas.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 8,
+        "nombre": "Pizza Margherita",
+        "img": "https://au.ooni.com/cdn/shop/articles/20220211142645-margherita-9920.jpg?crop=center&height=800&v=1662539926&width=800",
+        "descripcion": "Pizza clásica Margherita con albahaca fresca y mozzarella.",
+        "ingredientes": [
+            "Masa de pizza",
+            "Tomate",
+            "Queso mozzarella",
+            "Albahaca",
+            "Aceite de oliva"
+        ],
+        "categoria": "Italiana",
+        "dificultad": "Media",
+        "tiempoPreparacion": "40 minutos",
+        "porciones": 2,
+        "pasos": [
+            "Preparar la masa",
+            "Añadir los ingredientes",
+            "Hornear la pizza",
+            "Servir caliente"
+        ],
+        "notas": "Usa albahaca fresca para un mejor sabor.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 9,
+        "nombre": "Quesadillas de queso",
+        "img": "https://www.vvsupremo.com/wp-content/uploads/2015/11/900X570_Two-Cheese-Quesadillas.jpg",
+        "descripcion": "Quesadillas simples y deliciosas con queso derretido.",
+        "ingredientes": [
+            "Tortillas de maíz",
+            "Queso"
+        ],
+        "categoria": "Mexicana",
+        "dificultad": "Baja",
+        "tiempoPreparacion": "10 minutos",
+        "porciones": 2,
+        "pasos": [
+            "Colocar queso en la tortilla",
+            "Calentar hasta que se derrita",
+            "Servir caliente"
+        ],
+        "notas": "Puedes añadir otros ingredientes como jamón o champiñones.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 10,
+        "nombre": "Paella",
+        "img": "https://www.nestleprofessional-latam.com/sites/default/files/styles/np_recipe_detail/public/2022-07/paella.png?itok=CBvKkcsa",
+        "descripcion": "Tradicional paella española con mariscos y azafrán.",
+        "ingredientes": [
+            "Arroz",
+            "Azafrán",
+            "Mariscos",
+            "Pimiento",
+            "Ajo",
+            "Caldo de pescado"
+        ],
+        "categoria": "Española",
+        "dificultad": "Alta",
+        "tiempoPreparacion": "90 minutos",
+        "porciones": 6,
+        "pasos": [
+            "Preparar el caldo",
+            "Cocinar los mariscos",
+            "Cocinar el arroz con el azafrán",
+            "Montar y servir"
+        ],
+        "notas": "Usa una paellera para mejores resultados.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 11,
+        "nombre": "Fajitas de res",
+        "img": "https://www.cocinamalher.com/sites/default/files/2021-10/Malher_web_1234.jpg",
+        "descripcion": "Fajitas de res jugosas con pimientos y cebolla.",
+        "ingredientes": [
+            "Carne de res",
+            "Pimientos",
+            "Cebolla",
+            "Tortillas de harina",
+            "Salsa"
+        ],
+        "categoria": "Mexicana",
+        "dificultad": "Media",
+        "tiempoPreparacion": "30 minutos",
+        "porciones": 4,
+        "pasos": [
+            "Cortar y cocinar la carne",
+            "Saltear los pimientos y cebolla",
+            "Servir con tortillas",
+            "Acompañar con salsa"
+        ],
+        "notas": "Puedes marinar la carne para mayor sabor.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 12,
+        "nombre": "Ceviche de camarón",
+        "img": "https://i0.wp.com/recetaskwa.com/wp-content/uploads/2023/09/ceviche_camaron.jpg?ssl=1",
+        "descripcion": "Fresco ceviche de camarón con limón y cilantro.",
+        "ingredientes": [
+            "Camarones",
+            "Limón",
+            "Cilantro",
+            "Cebolla",
+            "Jitomate",
+            "Aguacate"
+        ],
+        "categoria": "Mariscos",
+        "dificultad": "Baja",
+        "tiempoPreparacion": "20 minutos",
+        "porciones": 4,
+        "pasos": [
+            "Cocer los camarones",
+            "Mezclar con los ingredientes",
+            "Servir frío"
+        ],
+        "notas": "Sirve con tostadas o galletas saladas.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 13,
+        "nombre": "Chiles en nogada",
+        "img": "https://www.aceitesdeolivadeespana.com/sites/default/files/recetas/chiles_en_nogada.jpeg",
+        "descripcion": "Chiles poblanos rellenos de picadillo y cubiertos con salsa de nogada.",
+        "ingredientes": [
+            "Chiles poblanos",
+            "Picadillo",
+            "Nuez",
+            "Crema",
+            "Granada"
+        ],
+        "categoria": "Mexicana",
+        "dificultad": "Alta",
+        "tiempoPreparacion": "90 minutos",
+        "porciones": 4,
+        "pasos": [
+            "Asar los chiles",
+            "Preparar el relleno",
+            "Hacer la salsa de nogada",
+            "Montar y servir con granada"
+        ],
+        "notas": "Este platillo es típico de las fiestas patrias.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 14,
+        "nombre": "Tacos de barbacoa",
+        "img": "https://web.didiglobal.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fn7hs0hadu6ro%2F21wyWFAA9XsAURXPsDxmfN%2F083e59f1c9b177aa4fb7e39ff7e11103%2Fdeliciosos-tacos-de-barbacoa.jpg&w=1920&q=75",
+        "descripcion": "Tacos de barbacoa con cebolla y cilantro.",
+        "ingredientes": [
+            "Carne de barbacoa",
+            "Tortillas de maíz",
+            "Cilantro",
+            "Cebolla",
+            "Salsa"
+        ],
+        "categoria": "Mexicana",
+        "dificultad": "Media",
+        "tiempoPreparacion": "60 minutos",
+        "porciones": 6,
+        "pasos": [
+            "Calentar la barbacoa",
+            "Montar los tacos",
+            "Añadir cilantro y cebolla",
+            "Servir con salsa"
+        ],
+        "notas": "Acompañar con un caldo de barbacoa.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 15,
+        "nombre": "Lasaña boloñesa",
+        "img": "https://www.gourmet.cl/wp-content/uploads/2016/09/iStock-505754880-1-570x458.jpg",
+        "descripcion": "Lasaña tradicional con salsa boloñesa y bechamel.",
+        "ingredientes": [
+            "Pasta para lasaña",
+            "Carne molida",
+            "Salsa de tomate",
+            "Queso mozzarella",
+            "Bechamel"
+        ],
+        "categoria": "Italiana",
+        "dificultad": "Media",
+        "tiempoPreparacion": "60 minutos",
+        "porciones": 4,
+        "pasos": [
+            "Preparar la salsa boloñesa",
+            "Montar la lasaña",
+            "Hornear",
+            "Servir caliente"
+        ],
+        "notas": "Puedes congelar porciones para disfrutarlas después.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 16,
+        "nombre": "Empanadas de carne",
+        "img": "https://assets.unileversolutions.com/recipes-v2/237001.jpg",
+        "descripcion": "Empanadas rellenas de carne sazonada y horneadas hasta dorarse.",
+        "ingredientes": [
+            "Harina",
+            "Carne molida",
+            "Cebolla",
+            "Huevo",
+            "Especias"
+        ],
+        "categoria": "Latina",
+        "dificultad": "Media",
+        "tiempoPreparacion": "45 minutos",
+        "porciones": 8,
+        "pasos": [
+            "Preparar la masa",
+            "Cocinar el relleno",
+            "Formar las empanadas",
+            "Hornear hasta dorar"
+        ],
+        "notas": "Puedes freírlas en lugar de hornearlas si prefieres.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 17,
+        "nombre": "Sopa de tortilla",
+        "img": "https://img-global.cpcdn.com/recipes/5f26b844e2aa608f/400x400cq70/photo.jpg",
+        "descripcion": "Sopa tradicional mexicana con tiras de tortilla crujientes.",
+        "ingredientes": [
+            "Tortillas de maíz",
+            "Caldo de pollo",
+            "Tomate",
+            "Chile",
+            "Aguacate",
+            "Queso panela"
+        ],
+        "categoria": "Mexicana",
+        "dificultad": "Baja",
+        "tiempoPreparacion": "30 minutos",
+        "porciones": 4,
+        "pasos": [
+            "Freír las tiras de tortilla",
+            "Preparar el caldo",
+            "Servir con aguacate y queso",
+            "Añadir las tiras de tortilla"
+        ],
+        "notas": "Sirve con crema y chile al gusto.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 18,
+        "nombre": "Churrasco",
+        "img": "https://carniceriaangel.com/wp-content/uploads/2023/02/recetas-churrasco.jpeg",
+        "descripcion": "Jugoso churrasco asado acompañado de papas y chimichurri.",
+        "ingredientes": [
+            "Churrasco de res",
+            "Papas",
+            "Ajo",
+            "Perejil",
+            "Aceite de oliva"
+        ],
+        "categoria": "Latina",
+        "dificultad": "Media",
+        "tiempoPreparacion": "40 minutos",
+        "porciones": 4,
+        "pasos": [
+            "Asar el churrasco",
+            "Preparar las papas",
+            "Hacer el chimichurri",
+            "Servir todo junto"
+        ],
+        "notas": "Asegúrate de no sobrecocinar la carne para mantenerla jugosa.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 19,
+        "nombre": "Tarta de chocolate",
+        "img": "https://badun.nestle.es/imgserver/v1/80/1290x742/6641251d07e6-tarta-de-chocolate.jpg",
+        "descripcion": "Tarta de chocolate rica y cremosa con una base crujiente.",
+        "ingredientes": [
+            "Chocolate",
+            "Harina",
+            "Huevos",
+            "Mantequilla",
+            "Azúcar"
+        ],
+        "categoria": "Postres",
+        "dificultad": "Media",
+        "tiempoPreparacion": "90 minutos",
+        "porciones": 8,
+        "pasos": [
+            "Preparar la base",
+            "Hacer el relleno de chocolate",
+            "Hornear la tarta",
+            "Dejar enfriar y servir"
+        ],
+        "notas": "Se puede acompañar con helado de vainilla.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 20,
+        "nombre": "Tamales",
+        "img": "https://assets.unileversolutions.com/recipes-v2/232218.jpg",
+        "descripcion": "Tradicionales tamales rellenos de carne, salsa, o frijoles.",
+        "ingredientes": [
+            "Harina de maíz",
+            "Carne o frijoles",
+            "Hojas de maíz",
+            "Salsa",
+            "Especias"
+        ],
+        "categoria": "Mexicana",
+        "dificultad": "Alta",
+        "tiempoPreparacion": "120 minutos",
+        "porciones": 12,
+        "pasos": [
+            "Preparar la masa",
+            "Rellenar las hojas de maíz",
+            "Cocer los tamales al vapor",
+            "Servir calientes"
+        ],
+        "notas": "Los tamales pueden congelarse para disfrutarse más tarde.",
+        "tipo": "inicio"
+    },
+    {
+        "idReceta": 21,
+        "nombre": "Mojito",
+        "img": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Cóctel refrescante a base de ron, menta, azúcar, lima y soda.",
+        "ingredientes": [
+            "Ron blanco",
+            "Azúcar",
+            "Lima",
+            "Hojas de menta",
+            "Soda",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso, machacar las hojas de menta con el azúcar y el jugo de lima.",
+            "Agregar hielo al vaso.",
+            "Verter el ron blanco y completar con soda.",
+            "Mezclar bien y decorar con una ramita de menta y una rodaja de lima."
+        ],
+        "notas": "Puedes ajustar la cantidad de azúcar y lima según tu gusto. Utiliza menta fresca para el mejor sabor.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 22,
+        "nombre": "Margarita",
+        "img": "https://images.pexels.com/photos/17612835/pexels-photo-17612835/free-photo-of-comida-resfriado-frio-sano.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Cóctel clásico mexicano a base de tequila, triple sec y lima, con borde de sal.",
+        "ingredientes": [
+            "Tequila",
+            "Triple sec",
+            "Jugo de lima",
+            "Sal (para el borde del vaso)",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "Frotar el borde del vaso con una rodaja de lima y sumergirlo en sal para escarchar.",
+            "En una coctelera, mezclar tequila, triple sec y jugo de lima con hielo.",
+            "Agitar bien y colar en el vaso escarchado.",
+            "Decorar con una rodaja de lima."
+        ],
+        "notas": "Para un toque extra, puedes añadir un poco de jarabe de agave o un trozo de chile en la mezcla.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 23,
+        "nombre": "Piña Colada",
+        "img": "https://images.pexels.com/photos/24870656/pexels-photo-24870656/free-photo-of-vacaciones-relajacion-verano-alcohol.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Cóctel tropical a base de ron, piña y crema de coco, ideal para disfrutar en la playa.",
+        "ingredientes": [
+            "Ron blanco",
+            "Jugo de piña",
+            "Crema de coco",
+            "Hielo",
+            "Rodaja de piña (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una licuadora, combinar ron, jugo de piña, crema de coco y hielo.",
+            "Licuar hasta obtener una mezcla suave y espesa.",
+            "Servir en un vaso alto y decorar con una rodaja de piña y una cereza."
+        ],
+        "notas": "Para una versión sin alcohol, puedes omitir el ron y añadir más jugo de piña.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 24,
+        "nombre": "Bloody Mary",
+        "img": "https://images.pexels.com/photos/5946676/pexels-photo-5946676.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Cóctel salado con vodka, jugo de tomate y especias, ideal para un brunch.",
+        "ingredientes": [
+            "Vodka",
+            "Jugo de tomate",
+            "Jugo de limón",
+            "Salsa Worcestershire",
+            "Tabasco",
+            "Sal",
+            "Pimienta",
+            "Apio (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una coctelera, combinar vodka, jugo de tomate, jugo de limón, salsa Worcestershire, Tabasco, sal y pimienta.",
+            "Agitar suavemente y colar en un vaso con hielo.",
+            "Decorar con una ramita de apio y una rodaja de limón."
+        ],
+        "notas": "Puedes ajustar el nivel de picante y especias a tu gusto.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 25,
+        "nombre": "Mai Tai",
+        "img": "https://images.pexels.com/photos/27246473/pexels-photo-27246473/free-photo-of-bebidas-textura-vaso-cristal.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "descripcion": "Cóctel exótico con ron, curaçao y almendra, con un toque de limón y granadina.",
+        "ingredientes": [
+            "Ron blanco",
+            "Ron oscuro",
+            "Curaçao",
+            "Sirope de almendra",
+            "Jugo de limón",
+            "Granadina",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una coctelera, combinar ron blanco, ron oscuro, curaçao, sirope de almendra y jugo de limón con hielo.",
+            "Agitar bien y colar en un vaso con hielo.",
+            "Agregar un toque de granadina por encima y decorar con una rodaja de piña y una cereza."
+        ],
+        "notas": "El Mai Tai es ideal para servir en una fiesta tropical o como un refresco veraniego.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 26,
+        "nombre": "Cosmopolitan",
+        "img": "https://images.pexels.com/photos/24869009/pexels-photo-24869009/free-photo-of-plato-menu-restaurante-barra.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Cóctel elegante con vodka, triple sec, jugo de lima y arándano.",
+        "ingredientes": [
+            "Vodka",
+            "Triple sec",
+            "Jugo de lima",
+            "Jugo de arándano",
+            "Hielo",
+            "Cáscara de lima (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una coctelera, mezclar vodka, triple sec, jugo de lima y jugo de arándano con hielo.",
+            "Agitar bien y colar en una copa de cóctel fría.",
+            "Decorar con una cáscara de lima o una cereza."
+        ],
+        "notas": "Asegúrate de colar bien para evitar trozos de hielo en el cóctel.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 27,
+        "nombre": "Whiskey Sour",
+        "img": "https://images.pexels.com/photos/7809745/pexels-photo-7809745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "descripcion": "Cóctel clásico con whisky, jugo de limón y azúcar, con un toque de angostura.",
+        "ingredientes": [
+            "Whisky",
+            "Jugo de limón",
+            "Azúcar",
+            "Angostura",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una coctelera, combinar whisky, jugo de limón, azúcar y hielo.",
+            "Agitar bien y colar en un vaso con hielo.",
+            "Agregar unas gotas de angostura por encima y decorar con una rodaja de limón."
+        ],
+        "notas": "Puedes ajustar la cantidad de azúcar según tu preferencia. Añadir un huevo batido le da una textura más suave.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 28,
+        "nombre": "Daiquiri",
+        "img": "https://images.pexels.com/photos/10580220/pexels-photo-10580220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "descripcion": "Cóctel refrescante con ron, jugo de limón y azúcar, servido en una copa de cóctel.",
+        "ingredientes": [
+            "Ron blanco",
+            "Jugo de limón",
+            "Azúcar",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una coctelera, mezclar ron, jugo de limón, azúcar y hielo.",
+            "Agitar bien y colar en una copa de cóctel fría.",
+            "Decorar con una rodaja de limón."
+        ],
+        "notas": "Para una versión de fresa, añade fresas frescas al licuar la mezcla.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 29,
+        "nombre": "Old Fashioned",
+        "img": "https://images.pexels.com/photos/28120541/pexels-photo-28120541/free-photo-of-cafe-taza-copa-beber.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "descripcion": "Cóctel clásico de whisky con azúcar, angostura y un toque de naranja.",
+        "ingredientes": [
+            "Whisky",
+            "Azúcar",
+            "Angostura",
+            "Rodaja de naranja",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "Colocar un cubo de azúcar en un vaso y añadir unas gotas de angostura.",
+            "Añadir un poco de agua y mezclar hasta disolver el azúcar.",
+            "Agregar hielo al vaso y verter el whisky.",
+            "Revolver bien y decorar con una rodaja de naranja y una cereza."
+        ],
+        "notas": "Puedes ajustar la cantidad de azúcar y angostura según tu gusto.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 30,
+        "nombre": "Negroni",
+        "img": "https://images.pexels.com/photos/27851286/pexels-photo-27851286/free-photo-of-alcohol-barra-bar-coctel.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Cóctel amargo con ginebra, vermut y Campari, ideal para un aperitivo.",
+        "ingredientes": [
+            "Ginebra",
+            "Vermut rojo",
+            "Campari",
+            "Hielo",
+            "Rodaja de naranja (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso mezclador, combinar ginebra, vermut y Campari con hielo.",
+            "Revolver bien y colar en un vaso bajo con hielo.",
+            "Decorar con una rodaja de naranja."
+        ],
+        "notas": "Puedes ajustar las proporciones de vermut y Campari según tu preferencia por el amargor.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 31,
+        "nombre": "Martini",
+        "img": "https://images.pexels.com/photos/2531195/pexels-photo-2531195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "descripcion": "Cóctel clásico y elegante a base de ginebra y vermut, adornado con una aceituna.",
+        "ingredientes": [
+            "Ginebra",
+            "Vermut seco",
+            "Aceituna (para decorar)",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso mezclador, combinar ginebra y vermut seco con hielo.",
+            "Revolver bien y colar en una copa de cóctel fría.",
+            "Decorar con una aceituna."
+        ],
+        "notas": "Puedes ajustar la proporción de vermut según tu preferencia. También puedes optar por un Martini seco si reduces la cantidad de vermut.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 32,
+        "nombre": "Tequila Sunrise",
+        "img": "https://images.pexels.com/photos/7269747/pexels-photo-7269747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "descripcion": "Cóctel vibrante y colorido con tequila, jugo de naranja y granadina.",
+        "ingredientes": [
+            "Tequila",
+            "Jugo de naranja",
+            "Granadina",
+            "Hielo",
+            "Rodaja de naranja (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso con hielo, verter el tequila y luego el jugo de naranja.",
+            "Agregar la granadina lentamente para que se asiente en el fondo.",
+            "Decorar con una rodaja de naranja."
+        ],
+        "notas": "No revuelvas el cóctel después de agregar la granadina para mantener el efecto de gradiente.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 33,
+        "nombre": "Gin Tonic",
+        "img": "https://images.pexels.com/photos/616834/pexels-photo-616834.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Cóctel refrescante y burbujeante con ginebra y tónica, ideal para cualquier ocasión.",
+        "ingredientes": [
+            "Ginebra",
+            "Agua tónica",
+            "Rodaja de limón",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso alto, agregar hielo.",
+            "Verter la ginebra y completar con agua tónica.",
+            "Decorar con una rodaja de limón."
+        ],
+        "notas": "Puedes experimentar con diferentes tipos de ginebra y agua tónica para encontrar tu combinación favorita.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 34,
+        "nombre": "Sazerac",
+        "img": "https://media.istockphoto.com/id/1150343903/es/foto/c%C3%B3ctel-con-amargo-y-whisky-de-centeno-servido-lim%C3%B3n-twist.jpg?b=1&s=612x612&w=0&k=20&c=oO3U5WQnAM6XMHh8Ss_BBMdLRKFGf6hvjlUwUvpuMtw=",
+        "descripcion": "Cóctel tradicional de Nueva Orleans con whisky de centeno y un toque de absenta.",
+        "ingredientes": [
+            "Whisky de centeno",
+            "Azúcar",
+            "Angostura",
+            "Absenta",
+            "Hielo",
+            "Cáscara de limón (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "10 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso, disolver el azúcar con unas gotas de angostura.",
+            "Añadir hielo y verter el whisky de centeno.",
+            "En otro vaso, agregar un poco de absenta, agitar y desechar el exceso.",
+            "Colar la mezcla de whisky en el vaso preparado con absenta.",
+            "Decorar con una cáscara de limón."
+        ],
+        "notas": "El Sazerac es conocido por su sabor distintivo y puede ser más fuerte debido al absenta.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 35,
+        "nombre": "Sidecar",
+        "img": "https://images.pexels.com/photos/27215758/pexels-photo-27215758/free-photo-of-zarza.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Cóctel clásico con coñac, triple sec y jugo de limón, servido en una copa escarchada.",
+        "ingredientes": [
+            "Coñac",
+            "Triple sec",
+            "Jugo de limón",
+            "Azúcar (para escarchar el vaso)",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "Escarchar el borde de la copa con azúcar.",
+            "En una coctelera, mezclar coñac, triple sec y jugo de limón con hielo.",
+            "Agitar bien y colar en la copa escarchada."
+        ],
+        "notas": "Puedes ajustar la cantidad de triple sec y limón según tu preferencia de dulzura y acidez.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 36,
+        "nombre": "Bellini",
+        "img": "https://media.istockphoto.com/id/824488726/es/foto/mimosa-de-dulce-burbujeante-bellini-de-durazno.jpg?b=1&s=612x612&w=0&k=20&c=d_bc4uoYzknQ6z18mNSDVtJyJ9fMI-L3JjDGT8pv4Qk=",
+        "descripcion": "Cóctel burbujeante y afrutado con puré de durazno y champán.",
+        "ingredientes": [
+            "Purés de durazno",
+            "Champán",
+            "Azúcar (opcional)",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una copa de champán, verter el puré de durazno.",
+            "Agregar champán con cuidado para no hacer demasiadas burbujas.",
+            "Si es necesario, añadir azúcar al gusto."
+        ],
+        "notas": "El Bellini se sirve mejor frío y puede ser un excelente cóctel para celebraciones.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 37,
+        "nombre": "Pisco Sour",
+        "img": "https://images.pexels.com/photos/17320910/pexels-photo-17320910/free-photo-of-comida-resfriado-frio-restaurante.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Cóctel peruano a base de pisco, jugo de limón y clara de huevo, con un toque de amargo.",
+        "ingredientes": [
+            "Pisco",
+            "Jugo de limón",
+            "Azúcar",
+            "Clara de huevo",
+            "Amargo",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "10 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una coctelera, combinar pisco, jugo de limón, azúcar y clara de huevo con hielo.",
+            "Agitar bien hasta que la mezcla esté espumosa.",
+            "Colar en un vaso frío y añadir unas gotas de amargo por encima."
+        ],
+        "notas": "Asegúrate de agitar bien para obtener una espuma ligera. Puedes omitir el amargo si prefieres un sabor más suave.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 38,
+        "nombre": "Caipirinha",
+        "img": "https://media.istockphoto.com/id/928262414/es/foto/verano-fresco-caipirinha-cocktail-con-splash.jpg?b=1&s=612x612&w=0&k=20&c=SNRJlQcNqkMsOrLyGyrUppL3s0I2X2gqLVlSWgkPPz8=",
+        "descripcion": "Cóctel brasileño refrescante hecho con cachaça, azúcar y lima.",
+        "ingredientes": [
+            "Cachaça",
+            "Lima",
+            "Azúcar",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "Cortar la lima en trozos y colocar en un vaso.",
+            "Añadir azúcar y machacar bien para liberar el jugo de la lima.",
+            "Agregar hielo y verter la cachaça.",
+            "Mezclar bien."
+        ],
+        "notas": "Puedes ajustar la cantidad de azúcar según tu preferencia. También puedes probar con diferentes frutas para variar el sabor.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 39,
+        "nombre": "Moscow Mule",
+        "img": "https://images.pexels.com/photos/19297798/pexels-photo-19297798/free-photo-of-bebida-frutal-ii.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "descripcion": "Cóctel picante y refrescante con vodka, jengibre y lima, servido en una taza de cobre.",
+        "ingredientes": [
+            "Vodka",
+            "Jengibre (cerveza de jengibre)",
+            "Jugo de lima",
+            "Hielo",
+            "Rodaja de lima (para decorar)",
+            "Ramita de menta (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una taza de cobre, agregar hielo.",
+            "Verter el vodka y el jugo de lima.",
+            "Completar con cerveza de jengibre.",
+            "Mezclar y decorar con una rodaja de lima y una ramita de menta."
+        ],
+        "notas": "Este cóctel se sirve mejor en una taza de cobre para mantenerlo bien frío.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 40,
+        "nombre": "Mai Tai",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodlRZ_7rjY0zmxc7uP6sWmiL4nbIBcYbrHg&s",
+        "descripcion": "Cóctel tropical con ron, curaçao y almendra, adornado con frutas y una sombrilla.",
+        "ingredientes": [
+            "Ron blanco",
+            "Ron oscuro",
+            "Curaçao",
+            "Jugo de limón",
+            "Almendra (sirope de orgeat)",
+            "Hielo",
+            "Frutas y sombrilla (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "10 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una coctelera, combinar ron blanco, ron oscuro, curaçao, jugo de limón y sirope de almendra con hielo.",
+            "Agitar bien y colar en un vaso con hielo.",
+            "Decorar con frutas y una sombrilla."
+        ],
+        "notas": "Puedes ajustar el equilibrio entre los rones según tu preferencia de sabor. También puedes añadir frutas frescas para una presentación más colorida.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 41,
+        "nombre": "Amaretto Sour",
+        "img": "https://3catsfoodie.com/wp-content/uploads/2023/05/0AA43564-7AF9-4025-B7BA-7393766F69FA_1_201_a.jpeg",
+        "descripcion": "Cóctel agridulce con amaretto, jugo de limón y un toque de azúcar.",
+        "ingredientes": [
+            "Amaretto",
+            "Jugo de limón",
+            "Azúcar",
+            "Clara de huevo",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una coctelera, combinar amaretto, jugo de limón, azúcar y clara de huevo con hielo.",
+            "Agitar bien hasta obtener una mezcla espumosa.",
+            "Colar en un vaso con hielo."
+        ],
+        "notas": "Puedes ajustar la cantidad de azúcar según tu preferencia. La clara de huevo añade una textura cremosa al cóctel.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 42,
+        "nombre": "Cuba Libre",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd7tf1Zf9FeodcLRuWSf_61UJPzlc4jV2iRw&s",
+        "descripcion": "Cóctel clásico con ron, cola y un toque de limón.",
+        "ingredientes": [
+            "Ron blanco",
+            "Cola",
+            "Jugo de limón",
+            "Hielo",
+            "Rodaja de limón (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso con hielo, verter el ron y el jugo de limón.",
+            "Completar con cola.",
+            "Mezclar bien y decorar con una rodaja de limón."
+        ],
+        "notas": "Puedes usar ron oscuro si prefieres un sabor más robusto. Ajusta la cantidad de cola según tu gusto.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 43,
+        "nombre": "Tom Collins",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknwm7zYlKdNFHHhkVUqBe6wMslYomgTh3Kw&s",
+        "descripcion": "Cóctel refrescante con ginebra, jugo de limón y soda de club.",
+        "ingredientes": [
+            "Ginebra",
+            "Jugo de limón",
+            "Soda de club",
+            "Azúcar",
+            "Hielo",
+            "Rodaja de limón (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso con hielo, combinar ginebra, jugo de limón y azúcar.",
+            "Mezclar bien y completar con soda de club.",
+            "Decorar con una rodaja de limón."
+        ],
+        "notas": "Puedes ajustar la cantidad de azúcar según tu preferencia de dulzura. El Tom Collins se sirve mejor frío.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 44,
+        "nombre": "Aperol Spritz",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFLVGm7He2Okh7wDeSsF1hTC-azZsbFUmPw&s",
+        "descripcion": "Cóctel refrescante y burbujeante con Aperol, prosecco y soda de club.",
+        "ingredientes": [
+            "Aperol",
+            "Prosecco",
+            "Soda de club",
+            "Hielo",
+            "Rodaja de naranja (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso con hielo, combinar Aperol y prosecco.",
+            "Completar con soda de club.",
+            "Mezclar suavemente y decorar con una rodaja de naranja."
+        ],
+        "notas": "El Aperol Spritz es ideal para el verano y se sirve mejor bien frío.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 45,
+        "nombre": "Ramos Gin Fizz",
+        "img": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/03_22_Ramos_Gin_Fizz_Cocktail_Credit_Tyler_Zielinski_1920x1280-scaled-1.jpg",
+        "descripcion": "Cóctel espumoso y cremoso con ginebra, jugo de limón, clara de huevo y soda.",
+        "ingredientes": [
+            "Ginebra",
+            "Jugo de limón",
+            "Clara de huevo",
+            "Crema de leche",
+            "Soda",
+            "Azúcar",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "10 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una coctelera, combinar ginebra, jugo de limón, clara de huevo, crema de leche, azúcar y hielo.",
+            "Agitar bien durante varios minutos para lograr una buena espuma.",
+            "Colar en un vaso frío y completar con soda."
+        ],
+        "notas": "El Ramos Gin Fizz requiere un buen agitado para obtener una espuma ligera y cremosa. Puedes ajustar la cantidad de azúcar según tu preferencia.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 46,
+        "nombre": "French 75",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gg4exJUs4ynWyCpbtrh6PhhoTmzjxJXB-w&s",
+        "descripcion": "Cóctel elegante con ginebra, champán, jugo de limón y azúcar.",
+        "ingredientes": [
+            "Ginebra",
+            "Champán",
+            "Jugo de limón",
+            "Azúcar",
+            "Hielo"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En una coctelera, combinar ginebra, jugo de limón y azúcar con hielo.",
+            "Agitar bien y colar en una copa de champán.",
+            "Completar con champán y mezclar suavemente."
+        ],
+        "notas": "El French 75 es perfecto para celebraciones y ocasiones especiales. Sirve bien frío.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 47,
+        "nombre": "Paloma",
+        "img": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/04_23_Paloma_HERO_Stocksy_4620231_1920x1280.jpg",
+        "descripcion": "Cóctel mexicano refrescante con tequila, jugo de toronja y soda.",
+        "ingredientes": [
+            "Tequila",
+            "Jugo de toronja",
+            "Soda",
+            "Azúcar",
+            "Hielo",
+            "Rodaja de toronja (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso con hielo, verter el tequila y el jugo de toronja.",
+            "Completar con soda.",
+            "Mezclar bien y decorar con una rodaja de toronja."
+        ],
+        "notas": "Puedes ajustar la cantidad de azúcar según tu preferencia. La Paloma es ideal para días calurosos.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 48,
+        "nombre": "Dark 'n' Stormy",
+        "img": "https://elcoctelero.com/wp-content/uploads/2020/07/coctel-dark-n-stormy.jpg",
+        "descripcion": "Cóctel picante y refrescante con ron oscuro y cerveza de jengibre.",
+        "ingredientes": [
+            "Ron oscuro",
+            "Cerveza de jengibre",
+            "Jugo de limón",
+            "Hielo",
+            "Rodaja de limón (para decorar)"
+        ],
+        "categoria": "Cóctel",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "5 minutos",
+        "porciones": "1 porción",
+        "pasos": [
+            "En un vaso con hielo, verter el ron oscuro y el jugo de limón.",
+            "Completar con cerveza de jengibre.",
+            "Mezclar suavemente y decorar con una rodaja de limón."
+        ],
+        "notas": "El Dark 'n' Stormy se sirve mejor frío y puede ser ajustado a tu gusto añadiendo más o menos cerveza de jengibre.",
+        "tipo": "bebida"
+    },
+    {
+        "idReceta": 49,
+        "nombre": "Bruschetta",
+        "img": "https://images.pexels.com/photos/4969892/pexels-photo-4969892.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Tostadas de pan con tomate, albahaca y ajo.",
+        "ingredientes": [
+            "Pan",
+            "Tomate",
+            "Albahaca",
+            "Ajo",
+            "Aceite de oliva",
+            "Sal",
+            "Pimienta"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "15 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Tostar las rebanadas de pan.",
+            "Frotar el pan con un diente de ajo.",
+            "Mezclar el tomate picado con albahaca, aceite de oliva, sal y pimienta.",
+            "Colocar la mezcla sobre las rebanadas de pan."
+        ],
+        "notas": "Puedes añadir queso rallado para un extra sabor.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 50,
+        "nombre": "Hummus con pan de pita",
+        "img": "https://images.pexels.com/photos/14930616/pexels-photo-14930616.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Dip de garbanzos acompañado con pan de pita.",
+        "ingredientes": [
+            "Garbanzos",
+            "Tahini",
+            "Ajo",
+            "Limón",
+            "Aceite de oliva",
+            "Sal",
+            "Pimienta",
+            "Pan de pita"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "10 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Mezclar los garbanzos, tahini, ajo, limón y aceite de oliva en una licuadora.",
+            "Procesar hasta obtener una mezcla suave.",
+            "Sazonar con sal y pimienta.",
+            "Servir con pan de pita."
+        ],
+        "notas": "Puedes ajustar el ajo y limón al gusto.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 51,
+        "nombre": "Rollos de primavera",
+        "img": "https://images.pexels.com/photos/6646369/pexels-photo-6646369.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Rollos rellenos de verduras frescas y fideos.",
+        "ingredientes": [
+            "Papel de arroz",
+            "Verduras frescas",
+            "Fideos",
+            "Salsa de soya",
+            "Salsa de maní"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "30 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Remojar el papel de arroz en agua tibia.",
+            "Rellenar con verduras frescas y fideos.",
+            "Enrollar y servir con salsa de soya y salsa de maní."
+        ],
+        "notas": "Asegúrate de no llenar demasiado el papel de arroz para evitar que se rompa.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 52,
+        "nombre": "Guacamole con totopos",
+        "img": "https://vidapicante.com/wp-content/uploads/2023/01/tortillas-con-guacamole.jpg",
+        "descripcion": "Aguacate triturado con cebolla, cilantro y limón, acompañado de totopos.",
+        "ingredientes": [
+            "Aguacate",
+            "Cebolla",
+            "Cilantro",
+            "Limón",
+            "Sal",
+            "Totopos"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "10 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Triturar el aguacate y mezclar con cebolla, cilantro, y jugo de limón.",
+            "Sazonar con sal.",
+            "Servir con totopos."
+        ],
+        "notas": "El guacamole es mejor si se consume inmediatamente.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 53,
+        "nombre": "Alitas de pollo",
+        "img": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Alitas de pollo marinadas y fritas.",
+        "ingredientes": [
+            "Alitas de pollo",
+            "Salsa barbacoa",
+            "Especias",
+            "Aceite"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "45 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Marinar las alitas con salsa barbacoa y especias.",
+            "Freír en aceite caliente hasta dorar."
+        ],
+        "notas": "Puedes servirlas con una salsa adicional si lo deseas.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 54,
+        "nombre": "Ceviche",
+        "img": "https://media.istockphoto.com/id/166211228/es/foto/ceviche-con-lima.jpg?b=1&s=612x612&w=0&k=20&c=--8ZdOrdlG6po_tUPYI_5aNLRIeVvWfp5v2Jdviq7qQ=",
+        "descripcion": "Pescado crudo marinado en jugo de lima con cebolla y cilantro.",
+        "ingredientes": [
+            "Pescado",
+            "Jugo de lima",
+            "Cebolla",
+            "Cilantro",
+            "Chiles",
+            "Sal"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "20 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Marinar el pescado en jugo de lima.",
+            "Añadir cebolla, cilantro, chiles y sal al gusto.",
+            "Servir frío."
+        ],
+        "notas": "El ceviche debe servirse inmediatamente para mantener la frescura.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 55,
+        "nombre": "Queso fundido",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8rdWR8BGalxigBP3mOKJR1U89nNK_49wuA&s",
+        "descripcion": "Queso derretido servido con tortillas o pan.",
+        "ingredientes": [
+            "Queso",
+            "Tortillas",
+            "Pan"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "15 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Derretir el queso en un sartén o en el horno.",
+            "Servir con tortillas o pan."
+        ],
+        "notas": "Puedes añadir chiles o especias al queso para darle más sabor.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 56,
+        "nombre": "Empanadas",
+        "img": "https://assets.elgourmet.com/wp-content/uploads/2023/10/EMPANADAS-1-1024x683.jpg.webp",
+        "descripcion": "Empanadas rellenas de carne, pollo o vegetales.",
+        "ingredientes": [
+            "Masa para empanadas",
+            "Carne",
+            "Pollo",
+            "Vegetales",
+            "Especias"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "1 hora",
+        "porciones": "8 porciones",
+        "pasos": [
+            "Rellenar la masa con carne, pollo o vegetales.",
+            "Sellar las empanadas y hornear o freír hasta dorar."
+        ],
+        "notas": "Puedes preparar las empanadas con anticipación y congelarlas.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 57,
+        "nombre": "Tacos de camarón",
+        "img": "https://unareceta.com/wp-content/uploads/2015/07/tacos-con-camaron.jpg",
+        "descripcion": "Tacos rellenos de camarón a la parrilla con salsas frescas.",
+        "ingredientes": [
+            "Camarón",
+            "Tortillas",
+            "Cebolla",
+            "Cilantro",
+            "Salsa",
+            "Limón"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "20 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Asar el camarón a la parrilla.",
+            "Colocar el camarón en las tortillas con cebolla, cilantro y salsa.",
+            "Exprimir limón por encima antes de servir."
+        ],
+        "notas": "Puedes marinar los camarones antes de asarlos para un sabor adicional.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 58,
+        "nombre": "Samosas",
+        "img": "https://therecipecritic.com/wp-content/uploads/2023/12/samosa-2-1200x1799.jpg",
+        "descripcion": "Empanadillas rellenas de carne o vegetales, fritas o horneadas.",
+        "ingredientes": [
+            "Masa para samosas",
+            "Carne",
+            "Vegetales",
+            "Especias"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "1 hora",
+        "porciones": "12 porciones",
+        "pasos": [
+            "Rellenar la masa con carne o vegetales y especias.",
+            "Formar las samosas y freír o hornear hasta dorar."
+        ],
+        "notas": "Puedes utilizar masa comprada o hacerla desde cero.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 59,
+        "nombre": "Champiñones al ajillo",
+        "img": "https://www.gourmet.cl/wp-content/uploads/2022/08/champinones-al-ajillo-ajustada-web-570x458.jpg",
+        "descripcion": "Champiñones salteados con ajo y perejil.",
+        "ingredientes": [
+            "Champiñones",
+            "Ajo",
+            "Perejil",
+            "Aceite de oliva",
+            "Sal",
+            "Pimienta"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "20 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Limpiar y cortar los champiñones.",
+            "Calentar aceite de oliva en una sartén.",
+            "Añadir ajo picado y saltear hasta que esté dorado.",
+            "Agregar los champiñones y cocinar hasta que estén tiernos.",
+            "Sazonar con sal, pimienta y perejil fresco antes de servir."
+        ],
+        "notas": "Sirve caliente como aperitivo o acompañamiento.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 60,
+        "nombre": "Tempura de verduras",
+        "img": "https://www.vegrecetas.com/wp-content/uploads/tempura-de-verduras.jpg",
+        "descripcion": "Verduras rebozadas y fritas en una masa ligera de tempura.",
+        "ingredientes": [
+            "Verduras variadas",
+            "Harina de tempura",
+            "Agua fría",
+            "Aceite para freír",
+            "Salsa para tempura"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "30 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Preparar la masa de tempura mezclando harina con agua fría.",
+            "Rebozar las verduras en la masa.",
+            "Freír las verduras en aceite caliente hasta que estén doradas y crujientes.",
+            "Escurrir sobre papel absorbente y servir con salsa para tempura."
+        ],
+        "notas": "Mantén el aceite a la temperatura adecuada para obtener una textura crujiente.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 61,
+        "nombre": "Croquetas",
+        "img": "https://images.pexels.com/photos/27609407/pexels-photo-27609407/free-photo-of-comida-plato-restaurante-cena.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Pequeñas bolitas rebozadas y fritas, rellenas de bechamel y otros ingredientes.",
+        "ingredientes": [
+            "Bechamel",
+            "Jamón",
+            "Queso",
+            "Pan rallado",
+            "Huevos",
+            "Aceite para freír"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "1 hora",
+        "porciones": "12 porciones",
+        "pasos": [
+            "Preparar la bechamel y enfriarla.",
+            "Mezclar con jamón y queso.",
+            "Formar bolitas y rebozar en huevo batido y pan rallado.",
+            "Freír en aceite caliente hasta dorar."
+        ],
+        "notas": "Puedes preparar la mezcla con antelación y congelar las croquetas para freírlas cuando las necesites.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 62,
+        "nombre": "Crostini con tapenade",
+        "img": "https://images.pexels.com/photos/6126315/pexels-photo-6126315.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Tostadas de pan acompañadas de tapenade, una pasta de aceitunas.",
+        "ingredientes": [
+            "Pan",
+            "Aceitunas",
+            "Alcaparras",
+            "Ajo",
+            "Aceite de oliva"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "20 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Tostar las rebanadas de pan.",
+            "Preparar la tapenade triturando aceitunas, alcaparras, ajo y aceite de oliva.",
+            "Untar la tapenade sobre las tostadas de pan."
+        ],
+        "notas": "Puedes hacer la tapenade con antelación y conservarla en la nevera.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 63,
+        "nombre": "Pinchos morunos",
+        "img": "https://mellerware.com/cdn/shop/articles/23._Pinchos_Morunos_-_FOTO_3_fcbd721d-0a2a-4b36-ac4b-74fac04136db_1024x.jpg?v=1657657662",
+        "descripcion": "Brochetas de carne marinadas con especias morunas y asadas a la parrilla.",
+        "ingredientes": [
+            "Carne de cerdo o cordero",
+            "Especias morunas",
+            "Aceite de oliva",
+            "Pimientos",
+            "Cebolla"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "1 hora",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Marinar la carne con especias morunas y aceite de oliva.",
+            "Ensartar la carne en brochetas alternando con pimientos y cebolla.",
+            "Asar en la parrilla hasta que la carne esté bien cocida."
+        ],
+        "notas": "Asegúrate de que la carne esté bien marinada para obtener el mejor sabor.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 64,
+        "nombre": "Calamares a la romana",
+        "img": "https://images.pexels.com/photos/17321123/pexels-photo-17321123/free-photo-of-comida-sano-vegetales-verduras.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Calamares rebozados y fritos hasta que estén crujientes.",
+        "ingredientes": [
+            "Calamares",
+            "Harina",
+            "Huevo",
+            "Pan rallado",
+            "Aceite para freír",
+            "Limón"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "30 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Limpiar y cortar los calamares en anillos.",
+            "Rebozar los calamares en harina, huevo batido y pan rallado.",
+            "Freír en aceite caliente hasta dorar.",
+            "Servir con gajos de limón."
+        ],
+        "notas": "Puedes servirlos con una salsa de alioli para acompañar.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 65,
+        "nombre": "Tortilla española",
+        "img": "https://images.pexels.com/photos/4765652/pexels-photo-4765652.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Tortilla de patata con cebolla, cocida en una sartén.",
+        "ingredientes": [
+            "Patatas",
+            "Cebolla",
+            "Huevos",
+            "Aceite de oliva",
+            "Sal",
+            "Pimienta"
+        ],
+        "categoria": "Plato principal",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "40 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Pelar y cortar las patatas en rodajas finas.",
+            "Freír las patatas y cebolla en aceite de oliva hasta que estén tiernas.",
+            "Batir los huevos y mezclar con las patatas y cebolla.",
+            "Cocinar la mezcla en una sartén hasta que esté dorada por ambos lados."
+        ],
+        "notas": "La tortilla puede servirse caliente o a temperatura ambiente.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 66,
+        "nombre": "Hush puppies",
+        "img": "https://www.allrecipes.com/thmb/hoSnDn3spX7HYxjv-aLnJrS_yQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8145785-a8612841920042dbb5fe906b5f82e440.jpg",
+        "descripcion": "Bolitas de masa de maíz fritas, típicas de la cocina sureña de EE.UU.",
+        "ingredientes": [
+            "Harina de maíz",
+            "Harina de trigo",
+            "Leche",
+            "Cebolla",
+            "Huevos",
+            "Aceite para freír"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "30 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Mezclar harina de maíz, harina de trigo, leche, cebolla picada y huevos.",
+            "Formar bolitas con la mezcla.",
+            "Freír en aceite caliente hasta que estén doradas y crujientes."
+        ],
+        "notas": "Sirve caliente con una salsa agridulce para acompañar.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 67,
+        "nombre": "Bocadillos de cerdo",
+        "img": "https://www.naiz.eus/media/asset_publics/resources/000/901/353/original/bocadillo.jpg",
+        "descripcion": "Bocadillos rellenos de cerdo, típicos de la cocina española.",
+        "ingredientes": [
+            "Pan",
+            "Cerdo",
+            "Pimientos",
+            "Cebolla",
+            "Salsa"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "30 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Cocinar el cerdo y desmenuzarlo.",
+            "Rellenar el pan con el cerdo, pimientos y cebolla.",
+            "Agregar salsa al gusto y servir."
+        ],
+        "notas": "Puedes usar diferentes tipos de pan y salsas según tu preferencia.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 68,
+        "nombre": "Ceviche de pescado",
+        "img": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/e27c310d66805447a62e25cbcd696442.jpg",
+        "descripcion": "Pescado marinado en jugo de limón con cebolla, cilantro y chiles.",
+        "ingredientes": [
+            "Pescado",
+            "Jugo de limón",
+            "Cebolla",
+            "Cilantro",
+            "Chiles",
+            "Sal"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "1 hora",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Cortar el pescado en cubos pequeños.",
+            "Marinar el pescado en jugo de limón durante 30 minutos.",
+            "Agregar cebolla, cilantro, chiles y sal al gusto.",
+            "Servir frío como aperitivo."
+        ],
+        "notas": "Asegúrate de usar pescado fresco para obtener el mejor sabor.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 69,
+        "nombre": "Rellenos de espinacas y queso",
+        "img": "https://www.vidactual.com/rcpmaker/wp-content/uploads/2018/10/Canelones-rellenos-de-espinaca-y-queso-ricotta.jpg",
+        "descripcion": "Canelones rellenos de espinacas y queso ricotta, cubiertos con salsa de tomate.",
+        "ingredientes": [
+            "Canelones",
+            "Espinacas",
+            "Queso ricotta",
+            "Salsa de tomate",
+            "Queso rallado",
+            "Ajo",
+            "Aceite de oliva"
+        ],
+        "categoria": "Plato principal",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "1 hora",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Cocinar los canelones según las instrucciones del paquete.",
+            "Saltear las espinacas con ajo en aceite de oliva hasta que estén tiernas.",
+            "Mezclar las espinacas con queso ricotta.",
+            "Rellenar los canelones con la mezcla de espinacas y queso.",
+            "Colocar los canelones en una fuente para hornear y cubrir con salsa de tomate y queso rallado.",
+            "Hornear a 180°C durante 20 minutos o hasta que el queso esté dorado."
+        ],
+        "notas": "Puedes usar salsa de tomate casera o comprada. También puedes agregar un poco de queso parmesano para más sabor.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 70,
+        "nombre": "Nachos con queso",
+        "img": "https://images.pexels.com/photos/27897601/pexels-photo-27897601/free-photo-of-comida-plato-restaurante-cena.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Tortilla de maíz cubierta con queso derretido y acompañada de salsa.",
+        "ingredientes": [
+            "Tortilla de maíz",
+            "Queso cheddar",
+            "Salsa",
+            "Jalapeños",
+            "Guacamole",
+            "Crema agria"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "15 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Precalentar el horno a 180°C.",
+            "Colocar las tortillas de maíz en una bandeja para hornear.",
+            "Cubrir las tortillas con queso cheddar rallado.",
+            "Hornear durante 10 minutos o hasta que el queso esté derretido.",
+            "Agregar salsa, jalapeños, guacamole y crema agria por encima antes de servir."
+        ],
+        "notas": "Puedes personalizar los nachos agregando carne molida o frijoles antes de hornear.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 71,
+        "nombre": "Papas bravas",
+        "img": "https://tn.com.ar/resizer/uiMcZMrlZnF0BYDKO7GgYE3-cDw=/arc-anglerfish-arc2-prod-artear/public/ECK6PZI5AJCQLC3OFYIX5MVWLY.jpeg",
+        "descripcion": "Papas fritas servidas con una salsa picante de tomate.",
+        "ingredientes": [
+            "Papas",
+            "Aceite para freír",
+            "Salsa brava",
+            "Sal"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "30 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Pelar y cortar las papas en cubos.",
+            "Freír las papas en aceite caliente hasta que estén doradas y crujientes.",
+            "Escurrir el exceso de aceite y sazonar con sal.",
+            "Servir las papas con salsa brava por encima."
+        ],
+        "notas": "Puedes ajustar el nivel de picante de la salsa brava según tu preferencia.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 72,
+        "nombre": "Pimientos rellenos",
+        "img": "https://images.pexels.com/photos/19359972/pexels-photo-19359972/free-photo-of-almuerzo-comida-gurme-sibarita.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Pimientos rellenos de carne, arroz o vegetales y cocidos al horno.",
+        "ingredientes": [
+            "Pimientos",
+            "Carne molida",
+            "Arroz",
+            "Cebolla",
+            "Tomate",
+            "Especias",
+            "Aceite de oliva"
+        ],
+        "categoria": "Plato principal",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "1 hora",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Precalentar el horno a 180°C.",
+            "Cocinar el arroz y la carne molida con cebolla y tomate.",
+            "Rellenar los pimientos con la mezcla de carne y arroz.",
+            "Colocar los pimientos rellenos en una fuente para hornear y rociar con aceite de oliva.",
+            "Hornear durante 30 minutos o hasta que los pimientos estén tiernos."
+        ],
+        "notas": "Puedes variar el relleno según tu gusto, usando diferentes tipos de carne o agregando más vegetales.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 73,
+        "nombre": "Ensalada caprese",
+        "img": "https://images.pexels.com/photos/15735983/pexels-photo-15735983/free-photo-of-salada-de-salmao.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Ensalada italiana con tomate, mozzarella, albahaca y aceite de oliva.",
+        "ingredientes": [
+            "Tomates",
+            "Mozzarella",
+            "Albahaca",
+            "Aceite de oliva",
+            "Sal",
+            "Pimienta"
+        ],
+        "categoria": "Ensalada",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "10 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Cortar los tomates y la mozzarella en rodajas.",
+            "Alternar las rodajas de tomate y mozzarella en un plato.",
+            "Agregar hojas de albahaca por encima.",
+            "Rociar con aceite de oliva y sazonar con sal y pimienta al gusto."
+        ],
+        "notas": "Puedes agregar un toque de balsámico para más sabor.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 74,
+        "nombre": "Tzatziki con pan",
+        "img": "https://images.pexels.com/photos/7214484/pexels-photo-7214484.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "descripcion": "Salsa griega de yogur con pepino y ajo, acompañada de pan.",
+        "ingredientes": [
+            "Yogur griego",
+            "Pepino",
+            "Ajo",
+            "Aceite de oliva",
+            "Eneldo",
+            "Sal",
+            "Pimienta",
+            "Pan"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Fácil",
+        "tiempoPreparacion": "15 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Rallar el pepino y escurrir el exceso de agua.",
+            "Mezclar el yogur con el pepino rallado, ajo picado, eneldo, aceite de oliva, sal y pimienta.",
+            "Servir el tzatziki con pan fresco o pita."
+        ],
+        "notas": "El tzatziki se puede preparar con antelación y mantener en el refrigerador hasta que lo necesites.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 75,
+        "nombre": "Tarta de cebolla",
+        "img": "https://resizer.glanacion.com/resizer/v2/tarta-de-cebolla-y-JBTTCKF4P5EDPKX5IAMFYZK6VI.jpg?auth=101ee1a1e056a32b88e1a1f2b0ec89de7c3ad458bd02c45ccd85e7b349e8b52f&width=768&height=520&quality=70&smart=true",
+        "descripcion": "Tarta salada con cebolla caramelizada y queso.",
+        "ingredientes": [
+            "Masa para tarta",
+            "Cebolla",
+            "Queso",
+            "Huevos",
+            "Crema de leche",
+            "Aceite de oliva",
+            "Sal",
+            "Pimienta"
+        ],
+        "categoria": "Plato principal",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "1 hora",
+        "porciones": "6 porciones",
+        "pasos": [
+            "Precalentar el horno a 180°C.",
+            "Caramelizar las cebollas en aceite de oliva hasta que estén doradas.",
+            "En un bol, mezclar los huevos con crema de leche, sal y pimienta.",
+            "Extender la masa en un molde para tarta y cubrir con las cebollas caramelizadas.",
+            "Verter la mezcla de huevo y crema sobre las cebollas.",
+            "Hornear durante 30-40 minutos o hasta que la tarta esté dorada y firme."
+        ],
+        "notas": "La tarta puede servirse caliente o fría, y es ideal para acompañar con una ensalada.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 76,
+        "nombre": "Rollos de calabacín",
+        "img": "https://content-cocina.lecturas.com/medio/2023/07/21/rollitos-de-calabacin-rellenos-de-gambas_2b882d01_1200x630.jpg",
+        "descripcion": "Rollos de calabacín rellenos de gambas, cocidos al horno.",
+        "ingredientes": [
+            "Calabacín",
+            "Gambas",
+            "Queso crema",
+            "Ajo",
+            "Perejil",
+            "Aceite de oliva",
+            "Sal",
+            "Pimienta"
+        ],
+        "categoria": "Aperitivo",
+        "dificultad": "Intermedio",
+        "tiempoPreparacion": "45 minutos",
+        "porciones": "4 porciones",
+        "pasos": [
+            "Cortar el calabacín en rodajas finas y asarlas ligeramente.",
+            "Mezclar las gambas picadas con queso crema, ajo picado, perejil, sal y pimienta.",
+            "Rellenar cada rodaja de calabacín con la mezcla de gambas.",
+            "Enrollar las rodajas y asegurarlas con palillos.",
+            "Colocar los rollos en una fuente para hornear y rociar con aceite de oliva.",
+            "Hornear a 180°C durante 20-25 minutos."
+        ],
+        "notas": "Puedes añadir más especias o hierbas a la mezcla de gambas según tu gusto.",
+        "tipo": "entrada"
+    },
+    {
+        "idReceta": 77,
+        "nombre": "Tarta de queso",
+        "img": "https://recetasdecocina.elmundo.es/wp-content/uploads/2022/11/tarta-queso-horno-receta.jpg",
+        "descripcion": "Deliciosa tarta de queso con una textura cremosa y un sabor suave.",
+        "pasos": [
+            "Precalentar el horno a 180°C.",
+            "Mezclar queso crema con azúcar y huevos hasta obtener una mezcla suave.",
+            "Verter la mezcla en una base de galleta.",
+            "Hornear durante 50 minutos o hasta que esté firme."
+        ],
+        "tiempoPreparacion": "1 hora",
+        "porciones": 8,
+        "ingredientes": [
+            "Queso crema",
+            "Azúcar",
+            "Huevos",
+            "Base de galleta"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Dejar enfriar completamente antes de servir.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 78,
+        "nombre": "Brownies",
+        "img": "https://www.inspiredtaste.net/wp-content/uploads/2024/01/Brownies-Recipe-Video.jpg",
+        "descripcion": "Brownies ricos y fudgy, perfectos para un antojo dulce.",
+        "pasos": [
+            "Precalentar el horno a 180°C.",
+            "Derretir mantequilla y chocolate juntos.",
+            "Mezclar con azúcar, huevos y harina.",
+            "Verter en un molde y hornear durante 25 minutos."
+        ],
+        "tiempoPreparacion": "45 minutos",
+        "porciones": 12,
+        "ingredientes": [
+            "Mantequilla",
+            "Chocolate",
+            "Azúcar",
+            "Huevos",
+            "Harina"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "No hornear en exceso para mantener los brownies fudgy.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 79,
+        "nombre": "Tiramisú",
+        "img": "https://recetasdecocina.elmundo.es/wp-content/uploads/2022/08/tiramisu-postre-italiano.jpg",
+        "descripcion": "Postre italiano con capas de bizcochos empapados en café y una crema suave de mascarpone.",
+        "pasos": [
+            "Preparar café y dejar enfriar.",
+            "Mezclar mascarpone con azúcar y huevos.",
+            "Sumergir los bizcochos en café y colocar en capas.",
+            "Cubrir con la mezcla de mascarpone y refrigerar."
+        ],
+        "tiempoPreparacion": "4 horas",
+        "porciones": 6,
+        "ingredientes": [
+            "Bizcochos",
+            "Café",
+            "Mascarpone",
+            "Azúcar",
+            "Huevos"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Dejar reposar por varias horas para que los sabores se mezclen bien.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 80,
+        "nombre": "Macarons",
+        "img": "https://stylesweet.com/wp-content/uploads/2023/01/Pastelmacarons_featured.jpg",
+        "descripcion": "Dulces franceses delicados con una textura ligera y relleno de ganache.",
+        "pasos": [
+            "Batir claras de huevo con azúcar hasta obtener picos firmes.",
+            "Incorporar cuidadosamente la harina de almendra.",
+            "Formar pequeños círculos en una bandeja.",
+            "Hornear durante 15 minutos y dejar enfriar antes de rellenar."
+        ],
+        "tiempoPreparacion": "2 horas",
+        "porciones": 20,
+        "ingredientes": [
+            "Claras de huevo",
+            "Azúcar",
+            "Harina de almendra",
+            "Ganache para relleno"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Difícil",
+        "notas": "Asegúrate de que las claras de huevo estén a temperatura ambiente.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 81,
+        "nombre": "Cheesecake de frambuesa",
+        "img": "https://editorialtelevisa.brightspotcdn.com/dims4/default/4bbedbd/2147483647/strip/true/crop/672x672+283+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fae%2Fd3%2F0b1bc9ff4eaabe56b4b600327b3a%2Fcheesecake-de-frambuesa.jpeg",
+        "descripcion": "Cheesecake con una deliciosa capa de frambuesa sobre una base de galleta.",
+        "pasos": [
+            "Precalentar el horno a 180°C.",
+            "Mezclar queso crema, azúcar y huevos.",
+            "Verter sobre una base de galleta.",
+            "Hornear durante 45 minutos y enfriar antes de servir.",
+            "Cubrir con puré de frambuesa."
+        ],
+        "tiempoPreparacion": "1 hora 15 minutos",
+        "porciones": 8,
+        "ingredientes": [
+            "Queso crema",
+            "Azúcar",
+            "Huevos",
+            "Base de galleta",
+            "Frambuesas para el puré"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Enfriar en el refrigerador durante al menos 4 horas antes de servir.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 82,
+        "nombre": "Panna cotta",
+        "img": "https://static01.nyt.com/images/2023/08/10/multimedia/LH-Panna-Cotta-wczm/LH-Panna-Cotta-wczm-superJumbo.jpg",
+        "descripcion": "Postre italiano cremoso con una textura suave y un sabor delicado.",
+        "pasos": [
+            "Calentar crema y azúcar hasta que se disuelva el azúcar.",
+            "Disolver gelatina en agua caliente y añadir a la mezcla de crema.",
+            "Verter en moldes y refrigerar hasta que cuaje."
+        ],
+        "tiempoPreparacion": "4 horas",
+        "porciones": 4,
+        "ingredientes": [
+            "Crema",
+            "Azúcar",
+            "Gelatina",
+            "Esencia de vainilla"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "Servir con una salsa de frutas o un coulis para más sabor.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 83,
+        "nombre": "Mousse de chocolate",
+        "img": "https://d1uz88p17r663j.cloudfront.net/original/405e0bb344ede9f3e2384ac9cf8e41ee_mousse-classica-chocolate-receitas-nestle.jpg",
+        "descripcion": "Mousse ligera y cremosa con un intenso sabor a chocolate.",
+        "pasos": [
+            "Derretir chocolate y dejar enfriar un poco.",
+            "Batir claras de huevo hasta que estén firmes.",
+            "Incorporar el chocolate derretido con cuidado.",
+            "Refrigerar por al menos 2 horas antes de servir."
+        ],
+        "tiempoPreparacion": "2 horas 30 minutos",
+        "porciones": 4,
+        "ingredientes": [
+            "Chocolate",
+            "Claras de huevo",
+            "Azúcar",
+            "Crema"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "Asegúrate de que el chocolate no esté demasiado caliente al mezclarlo.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 84,
+        "nombre": "Copa de frutas",
+        "img": "https://content-cocina.lecturas.com/medio/2021/04/09/copa-de-frutas-con-nata_c22accbb_900x900.jpg",
+        "descripcion": "Una refrescante copa de frutas frescas con crema batida.",
+        "pasos": [
+            "Lavar y cortar las frutas en trozos pequeños.",
+            "Montar crema y añadir un poco de azúcar al gusto.",
+            "Servir las frutas en copas y cubrir con crema batida."
+        ],
+        "tiempoPreparacion": "15 minutos",
+        "porciones": 4,
+        "ingredientes": [
+            "Frutas variadas",
+            "Crema",
+            "Azúcar"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "Puedes utilizar frutas de temporada para una mejor frescura.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 85,
+        "nombre": "Flan",
+        "img": "https://d1uz88p17r663j.cloudfront.net/original/fcef366cb9f5135bc254be335da4862c_49._Flan_de_Caramelo_1.jpg",
+        "descripcion": "Flan cremoso con una suave capa de caramelo.",
+        "pasos": [
+            "Preparar el caramelo y verter en el fondo de los moldes.",
+            "Mezclar leche, huevos y azúcar.",
+            "Verter la mezcla sobre el caramelo.",
+            "Hornear al baño María hasta que esté firme."
+        ],
+        "tiempoPreparacion": "1 hora 30 minutos",
+        "porciones": 6,
+        "ingredientes": [
+            "Leche",
+            "Huevos",
+            "Azúcar",
+            "Caramelo"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Dejar enfriar completamente antes de desmoldar.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 86,
+        "nombre": "Tarta de manzana",
+        "img": "https://imag.bonviveur.com/tarta-de-manzana.jpg",
+        "descripcion": "Tarta con relleno de manzana y una masa crujiente.",
+        "pasos": [
+            "Preparar la masa y colocar en un molde.",
+            "Mezclar manzanas con azúcar y canela.",
+            "Rellenar la masa con la mezcla de manzana.",
+            "Hornear hasta que esté dorada."
+        ],
+        "tiempoPreparacion": "1 hora 15 minutos",
+        "porciones": 8,
+        "ingredientes": [
+            "Manzanas",
+            "Azúcar",
+            "Canela",
+            "Masa para tarta"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Puedes añadir un poco de mantequilla sobre el relleno para más sabor.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 87,
+        "nombre": "Galletas con chispas de chocolate",
+        "img": "https://www.gourmet.cl/wp-content/uploads/2018/02/Galletas-2-1-570x458.jpg",
+        "descripcion": "Galletas suaves y masticables con chispas de chocolate.",
+        "pasos": [
+            "Mezclar mantequilla, azúcar y huevos.",
+            "Añadir harina y chispas de chocolate.",
+            "Formar bolitas y hornear durante 10 minutos."
+        ],
+        "tiempoPreparacion": "30 minutos",
+        "porciones": 24,
+        "ingredientes": [
+            "Mantequilla",
+            "Azúcar",
+            "Huevos",
+            "Harina",
+            "Chispas de chocolate"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "Dejar enfriar un poco antes de comer para una mejor textura.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 88,
+        "nombre": "Crumble de manzana",
+        "img": "https://es.cravingsjournal.com/wp-content/uploads/2018/03/crocante-o-crumble-de-manzana-1.jpg",
+        "descripcion": "Postre con manzanas y una cobertura crujiente de avena.",
+        "pasos": [
+            "Mezclar manzanas con azúcar y canela.",
+            "Colocar en un molde y cubrir con una mezcla de avena y mantequilla.",
+            "Hornear hasta que esté dorado y crujiente."
+        ],
+        "tiempoPreparacion": "1 hora",
+        "porciones": 6,
+        "ingredientes": [
+            "Manzanas",
+            "Azúcar",
+            "Canela",
+            "Avena",
+            "Mantequilla"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "Servir caliente con una bola de helado si se desea.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 89,
+        "nombre": "Gelatina de frutas",
+        "img": "https://d1uz88p17r663j.cloudfront.net/original/ac0ef76c83e0aa7a13f0f81fb4f72f73_gelatina_con_frutas_y_la_lechera4.jpg",
+        "descripcion": "Gelatina fresca con trozos de frutas.",
+        "pasos": [
+            "Preparar la gelatina según las instrucciones del paquete.",
+            "Añadir trozos de frutas a la gelatina.",
+            "Verter en moldes y refrigerar hasta que cuaje."
+        ],
+        "tiempoPreparacion": "4 horas",
+        "porciones": 6,
+        "ingredientes": [
+            "Gelatina",
+            "Frutas variadas",
+            "Agua"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "Puedes utilizar cualquier fruta de tu elección.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 90,
+        "nombre": "Pastel de zanahoria",
+        "img": "https://peopleenespanol.com/thmb/yy2sl47SGlJH0dIZGZqADJ3FggQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pastel-de-zanahoria-con-nuez-2000-41c58bf044c0418d8694ffb720d29e85.jpg",
+        "descripcion": "Pastel de zanahoria húmedo y especiado con nueces.",
+        "pasos": [
+            "Mezclar zanahorias ralladas con azúcar y especias.",
+            "Incorporar harina, levadura y nueces.",
+            "Verter en un molde y hornear durante 40 minutos."
+        ],
+        "tiempoPreparacion": "1 hora 10 minutos",
+        "porciones": 10,
+        "ingredientes": [
+            "Zanahorias",
+            "Azúcar",
+            "Especias",
+            "Harina",
+            "Nueces"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Puedes añadir un glaseado de queso crema si lo deseas.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 91,
+        "nombre": "Pudín de chía",
+        "img": "https://www.finedininglovers.com/es/sites/g/files/xknfdk1706/files/styles/recipes_1200_800_fallback/public/2023-06/Pudin%20de%20ch%C3%ADa%20%28Chia%20Pudding%29.jpg?itok=0bRxQJzf",
+        "descripcion": "Pudín saludable hecho con semillas de chía y leche.",
+        "pasos": [
+            "Mezclar semillas de chía con leche y azúcar.",
+            "Refrigerar durante la noche.",
+            "Añadir frutas frescas o frutos secos antes de servir."
+        ],
+        "tiempoPreparacion": "10 minutos + reposo",
+        "porciones": 4,
+        "ingredientes": [
+            "Semillas de chía",
+            "Leche",
+            "Azúcar",
+            "Frutas o frutos secos (opcional)"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "Dejar reposar al menos 4 horas para obtener la textura adecuada.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 92,
+        "nombre": "Cinnamon rolls",
+        "img": "https://www.allrecipes.com/thmb/VxNNFRBxh5G9osvtKw9J6T5PKsw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9175447-d4cafe297e4746bfbe97e485ee057a0e.jpg",
+        "descripcion": "Rollos de canela tiernos y dulces con un glaseado de queso crema.",
+        "pasos": [
+            "Preparar la masa y dejar reposar.",
+            "Extender la masa y espolvorear con azúcar y canela.",
+            "Enrollar y cortar en porciones.",
+            "Hornear y cubrir con glaseado."
+        ],
+        "tiempoPreparacion": "2 horas",
+        "porciones": 12,
+        "ingredientes": [
+            "Masa para rollos",
+            "Azúcar",
+            "Canela",
+            "Glaseado de queso crema"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Servir tibios para disfrutar el glaseado derretido.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 93,
+        "nombre": "Tarta de limón",
+        "img": "https://imag.bonviveur.com/tarta-de-limon-sin-horno.jpg",
+        "descripcion": "Tarta refrescante de limón con una base crujiente.",
+        "pasos": [
+            "Preparar la base y colocar en un molde.",
+            "Mezclar jugo de limón con leche condensada y crema.",
+            "Verter sobre la base y refrigerar."
+        ],
+        "tiempoPreparacion": "4 horas",
+        "porciones": 8,
+        "ingredientes": [
+            "Base para tarta",
+            "Jugo de limón",
+            "Leche condensada",
+            "Crema"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "Asegúrate de que la tarta esté bien refrigerada antes de servir.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 94,
+        "nombre": "Copa de tiramisú",
+        "img": "https://content-cocina.lecturas.com/medio/2018/07/19/copa-de-tiramisu_00000000_230928160450_1200x1200.jpg",
+        "descripcion": "Postre de tiramisú servido en copas individuales.",
+        "pasos": [
+            "Preparar el tiramisú según la receta.",
+            "Servir en copas individuales y refrigerar.",
+            "Decorar con cacao en polvo antes de servir."
+        ],
+        "tiempoPreparacion": "2 horas",
+        "porciones": 4,
+        "ingredientes": [
+            "Mascarpone",
+            "Café",
+            "Bizcochos de soletilla",
+            "Cacao en polvo"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Refrigerar bien para que tome una buena textura.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 95,
+        "nombre": "Eclairs",
+        "img": "https://www.seriouseats.com/thmb/f3kx43qc--aS4-okr8VNpnSAZZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__12__20201210-choux-eclairs-vicky-wasik-16-acf615b81c2f4217857bbf80d60c28c1.jpg",
+        "descripcion": "Eclairs rellenos de crema pastelera y cubiertos con glaseado.",
+        "pasos": [
+            "Preparar la masa de eclair y hornear.",
+            "Rellenar con crema pastelera.",
+            "Cubrir con glaseado."
+        ],
+        "tiempoPreparacion": "1 hora 30 minutos",
+        "porciones": 12,
+        "ingredientes": [
+            "Masa de eclair",
+            "Crema pastelera",
+            "Glaseado"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Dejar enfriar antes de rellenar y cubrir.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 96,
+        "nombre": "Pies de fruta",
+        "img": "https://www.recetaslider.cl/wp-content/uploads/2021/06/principal_5cb62c158aa1a.jpg",
+        "descripcion": "Pequeñas tartas individuales rellenas de frutas.",
+        "pasos": [
+            "Preparar la masa y forrar los moldes.",
+            "Rellenar con frutas frescas y azúcar.",
+            "Hornear hasta que estén doradas."
+        ],
+        "tiempoPreparacion": "1 hora",
+        "porciones": 8,
+        "ingredientes": [
+            "Masa para tartas",
+            "Frutas variadas",
+            "Azúcar"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Puedes utilizar frutas de temporada para una mejor frescura.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 97,
+        "nombre": "Pavlova",
+        "img": "https://www.gourmet.cl/wp-content/uploads/2024/01/PAVLOVA.png",
+        "descripcion": "Merengue crujiente por fuera y suave por dentro con frutas frescas.",
+        "pasos": [
+            "Preparar el merengue y hornear.",
+            "Dejar enfriar y cubrir con crema y frutas."
+        ],
+        "tiempoPreparacion": "2 horas",
+        "porciones": 8,
+        "ingredientes": [
+            "Merengue",
+            "Crema",
+            "Frutas frescas"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Asegúrate de que el merengue esté completamente seco antes de decorarlo.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 98,
+        "nombre": "Tarta de chocolate",
+        "img": "https://badun.nestle.es/imgserver/v1/80/1290x742/6641251d07e6-tarta-de-chocolate.jpg",
+        "descripcion": "Tarta de chocolate rica y decadente.",
+        "pasos": [
+            "Preparar la base y el relleno de chocolate.",
+            "Hornear y dejar enfriar.",
+            "Decorar con chocolate rallado o crema."
+        ],
+        "tiempoPreparacion": "1 hora 30 minutos",
+        "porciones": 8,
+        "ingredientes": [
+            "Chocolate",
+            "Harina",
+            "Azúcar",
+            "Mantequilla",
+            "Huevos"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Dejar enfriar completamente antes de decorar.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 99,
+        "nombre": "Café affogato",
+        "img": "https://www.novachef.es/media/images/cafe-affogato.jpg",
+        "descripcion": "Café expreso servido con una bola de helado.",
+        "pasos": [
+            "Preparar el café expreso.",
+            "Servir en una taza y añadir una bola de helado."
+        ],
+        "tiempoPreparacion": "10 minutos",
+        "porciones": 1,
+        "ingredientes": [
+            "Café expreso",
+            "Helado"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "Puedes usar tu sabor de helado favorito.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 100,
+        "nombre": "Galletas de avena",
+        "img": "https://mojo.generalmills.com/api/public/content/DghZOSz42kCwArruP2Z_IA_gmi_hi_res_jpeg.jpeg?v=82b033ff&t=16e3ce250f244648bef28c5949fb99ff",
+        "descripcion": "Galletas crujientes y saludables hechas con avena.",
+        "pasos": [
+            "Mezclar avena, harina, azúcar y mantequilla.",
+            "Formar bolitas y hornear hasta dorar."
+        ],
+        "tiempoPreparacion": "40 minutos",
+        "porciones": 18,
+        "ingredientes": [
+            "Avena",
+            "Harina",
+            "Azúcar",
+            "Mantequilla"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Fácil",
+        "notas": "Puedes añadir pasas o nueces a la mezcla si lo deseas.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 101,
+        "nombre": "Mousse de frutas",
+        "img": "https://okdiario.com/img/2014/08/11/receta-de-mousse-de-frutas-sin-azucar.jpg",
+        "descripcion": "Mousse ligera y esponjosa hecha con frutas frescas.",
+        "pasos": [
+            "Preparar el puré de frutas.",
+            "Mezclar con gelatina y crema batida.",
+            "Refrigerar hasta que tome consistencia."
+        ],
+        "tiempoPreparacion": "2 horas",
+        "porciones": 6,
+        "ingredientes": [
+            "Frutas frescas",
+            "Gelatina",
+            "Crema batida"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Refrigerar por completo para obtener la textura adecuada.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 102,
+        "nombre": "Crepas con frutas",
+        "img": "https://d1uz88p17r663j.cloudfront.net/original/1d60de0ee6338c8da2cf15ef09bde6b5_crepes_con_frutas_y_choco_avellanas8.jpg",
+        "descripcion": "Crepas rellenas de frutas y acompañadas de chocolate y avellanas.",
+        "pasos": [
+            "Preparar la mezcla para crepas y cocinar en una sartén.",
+            "Rellenar con frutas y chocolate.",
+            "Enrollar y servir."
+        ],
+        "tiempoPreparacion": "45 minutos",
+        "porciones": 8,
+        "ingredientes": [
+            "Mezcla para crepas",
+            "Frutas frescas",
+            "Chocolate",
+            "Avellanas"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Servir con un poco de crema batida si lo deseas.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 103,
+        "nombre": "Pastel de tres leches",
+        "img": "https://www.laylita.com/recetas/wp-content/uploads/2018/09/1-Receta-del-tres-leches.jpg",
+        "descripcion": "Pastel húmedo empapado en una mezcla de tres tipos de leche.",
+        "pasos": [
+            "Preparar el pastel y hornear.",
+            "Mezclar las tres leches y verter sobre el pastel.",
+            "Refrigerar hasta que esté completamente empapado."
+        ],
+        "tiempoPreparacion": "2 horas 30 minutos",
+        "porciones": 10,
+        "ingredientes": [
+            "Pastel",
+            "Leche condensada",
+            "Leche evaporada",
+            "Crema de leche"
+        ],
+        "categoria": "Postre",
+        "dificultad": "Intermedio",
+        "notas": "Dejar reposar en la nevera al menos 24 horas antes de servir.",
+        "tipo": "postre"
+    },
+    {
+        "idReceta": 104,
+        "nombre": "Brioche dulce",
+        "img": "https://recetasdecocina.elmundo.es/wp-content/uploads/2022/04/pan-brioche-casero.jpg",
+        "descripcion": "Un suave y esponjoso brioche, perfecto para acompañar un café o para disfrutar en el desayuno.",
+        "pasos": [
+            "Mezclar la harina, el azúcar y la levadura en un bol.",
+            "Añadir los huevos y la mantequilla derretida, y amasar hasta obtener una masa suave.",
+            "Dejar reposar la masa en un lugar cálido hasta que duplique su tamaño.",
+            "Formar el brioche y hornear a 180°C durante 25-30 minutos."
+        ],
+        "ingredientes": [
+            "500 g de harina",
+            "100 g de azúcar",
+            "10 g de levadura seca",
+            "4 huevos",
+            "200 g de mantequilla derretida",
+            "Una pizca de sal"
+        ],
+        "categoria": "Panadería",
+        "dificultad": "Media",
+        "tiempoPreparacion": "2 horas",
+        "porciones": "8 porciones",
+        "notas": "Asegúrate de que la mantequilla esté a temperatura ambiente antes de agregarla a la masa.",
+        "tipo": "postre"
+    }
+]

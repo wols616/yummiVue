@@ -20,6 +20,62 @@ app.get('/api/usuarios', async (req, res) => {
   }
 });
 
+//Ruta para mostrar las comidas con tipo inicio (es decir las que se mostrarán en el de bienvenida)
+app.get('/api/comidaInicio', async (req, res) =>{
+  try{
+    const data = await fs.readFile(path.join(__dirname, 'public', 'json', 'comida.json'), 'utf-8');
+    const comida = JSON.parse(data);
+
+    const dataFiltrada = comida.filter(c => c.tipo === 'inicio')
+    res.json(dataFiltrada);
+
+  } catch (error){
+    res.status(500).json({error: "Error al leer el archivo de comida"});
+  }
+});
+
+//Ruta para mostrar las bebidas
+app.get('/api/bebidas', async (req, res) =>{
+  try{
+    const data = await fs.readFile(path.join(__dirname, 'public', 'json', 'comida.json'), 'utf-8');
+    const bebidas = JSON.parse(data);
+
+    const dataFiltrada = bebidas.filter(b => b.tipo === 'bebida')
+    res.json(dataFiltrada);
+
+  } catch (error){
+    res.status(500).json({error: "Error al leer el archivo de comida"});
+  }
+});
+
+//Ruta para mostrar los postres
+app.get('/api/postres', async (req, res) =>{
+  try{
+    const data = await fs.readFile(path.join(__dirname, 'public', 'json', 'comida.json'), 'utf-8');
+    const postres = JSON.parse(data);
+
+    const dataFiltrada = postres.filter(p => p.tipo === 'postre')
+    res.json(dataFiltrada);
+
+  } catch (error){
+    res.status(500).json({error: "Error al leer el archivo de comida"});
+  }
+});
+
+////Ruta para mostrar los postres
+app.get('/api/entradas', async (req, res) =>{
+  try{
+    const data = await fs.readFile(path.join(__dirname, 'public', 'json', 'comida.json'), 'utf-8');
+    const entradas = JSON.parse(data);
+
+    const dataFiltrada = entradas.filter(e => e.tipo === 'entrada')
+    res.json(dataFiltrada);
+
+  } catch (error){
+    res.status(500).json({error: "Error al leer el archivo de comida"});
+  }
+});
+
 // Ruta para agregar un nuevo usuario
 app.post('/api/usuarios', async (req, res) => {
   try {

@@ -68,17 +68,18 @@
 </template>
 
 <script>
-import cards from "../../public/json/cards.json";
 import cardsCirculares from "../../public/json/cardsCirculares.json";
 import MiFooter from "./FooterComponent.vue";
 import MiNavbar from "./NavbarComponent.vue";
+import axios from "axios";
+
 
 export default {
   name: "BienvenidaComponent",
   data() {
     return {
       imgLogo: require("../images/logo.png"),
-      tarjetasComida: cards,
+      tarjetasComida: [],
       tarjetasCirculares: cardsCirculares,
       tarjetasCircularesRand: [],
       tarjetasComidaRand: []
@@ -97,11 +98,26 @@ export default {
         arrayCopia[j] = temp;
       }
       return arrayCopia.slice(0, cantidad);
+    },
+    async obtenerComidaInicio(){
+      try{
+        const response = await axios.get('http://localhost:3000/api/comidaInicio');
+
+        return response.data;
+
+      } catch(error){
+        console.error('Error al hacer la solicitud', error);
+      }
     }
   },
   mounted(){
-    this.tarjetasCircularesRand = this.obtenerDatosAleatorios(this.tarjetasCirculares, 3);
-    this.tarjetasComidaRand = this.obtenerDatosAleatorios(this.tarjetasComida, 3)
+    this.obtenerComidaInicio().then(data => {
+      this.tarjetasComida = data;
+      this.tarjetasCircularesRand = this.obtenerDatosAleatorios(this.tarjetasCirculares, 3);
+      this.tarjetasComidaRand = this.obtenerDatosAleatorios(this.tarjetasComida, 3);
+    })
+    
+    
   },
   components: {
     MiFooter,

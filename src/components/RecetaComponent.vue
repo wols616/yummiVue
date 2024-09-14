@@ -60,7 +60,7 @@ export default {
   },
   mounted() {
     const jsonData = JSON.parse(this.$route.query.data);
-    this.receta = jsonData.find((item) => item.id === this.id);
+    this.receta = jsonData.find((item) => item.idReceta === this.id);
   },
 };
 </script>
