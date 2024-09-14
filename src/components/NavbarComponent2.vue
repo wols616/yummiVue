@@ -78,7 +78,7 @@
           <a class="nav-link" href="/recipePage">
             <i class="bi bi-person-circle fs-1"></i>
           </a>
-          <a class="nav-link" href="/">
+          <a @click="cerrarSesion" class="nav-link" href="/">
             <i class="bi bi-box-arrow-left fs-1"></i>
           </a>
         </div>
@@ -89,6 +89,12 @@
   <script>
   export default {
     name: "NavbarComponent2",
+    methods:{
+    cerrarSesion(){
+      localStorage.removeItem('usuario');
+      this.$router.push('/iniciarSesion');
+    }
+    }
   };
   </script>
   

@@ -68,8 +68,8 @@
 </template>
 
 <script>
-import cards from "../json/cards.json";
-import cardsCirculares from "../json/cardsCirculares.json";
+import cards from "../../public/json/cards.json";
+import cardsCirculares from "../../public/json/cardsCirculares.json";
 import MiFooter from "./FooterComponent.vue";
 import MiNavbar from "./NavbarComponent.vue";
 

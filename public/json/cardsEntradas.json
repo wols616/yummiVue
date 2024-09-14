@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "idReceta": 49,
     "nombre": "Bruschetta",
     "img": "https://images.pexels.com/photos/4969892/pexels-photo-4969892.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Tostadas de pan con tomate, albahaca y ajo.",
@@ -27,6 +28,7 @@
   },
   {
     "id": 2,
+    "idReceta": 50,
     "nombre": "Hummus con pan de pita",
     "img": "https://images.pexels.com/photos/14930616/pexels-photo-14930616.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Dip de garbanzos acompañado con pan de pita.",
@@ -54,6 +56,7 @@
   },
   {
     "id": 3,
+    "idReceta": 51,
     "nombre": "Rollos de primavera",
     "img": "https://images.pexels.com/photos/6646369/pexels-photo-6646369.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Rollos rellenos de verduras frescas y fideos.",
@@ -77,6 +80,7 @@
   },
   {
     "id": 4,
+    "idReceta": 52,
     "nombre": "Guacamole con totopos",
     "img": "https://vidapicante.com/wp-content/uploads/2023/01/tortillas-con-guacamole.jpg",
     "descripcion": "Aguacate triturado con cebolla, cilantro y limón, acompañado de totopos.",
@@ -101,6 +105,7 @@
   },
   {
     "id": 5,
+    "idReceta": 53,
     "nombre": "Alitas de pollo",
     "img": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Alitas de pollo marinadas y fritas.",
@@ -122,6 +127,7 @@
   },
   {
     "id": 6,
+    "idReceta": 54,
     "nombre": "Ceviche",
     "img": "https://media.istockphoto.com/id/166211228/es/foto/ceviche-con-lima.jpg?b=1&s=612x612&w=0&k=20&c=--8ZdOrdlG6po_tUPYI_5aNLRIeVvWfp5v2Jdviq7qQ=",
     "descripcion": "Pescado crudo marinado en jugo de lima con cebolla y cilantro.",
@@ -146,6 +152,7 @@
   },
   {
     "id": 7,
+    "idReceta": 55,
     "nombre": "Queso fundido",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8rdWR8BGalxigBP3mOKJR1U89nNK_49wuA&s",
     "descripcion": "Queso derretido servido con tortillas o pan.",
@@ -166,6 +173,7 @@
   },
   {
     "id": 8,
+    "idReceta": 56,
     "nombre": "Empanadas",
     "img": "https://assets.elgourmet.com/wp-content/uploads/2023/10/EMPANADAS-1-1024x683.jpg.webp",
     "descripcion": "Empanadas rellenas de carne, pollo o vegetales.",
@@ -188,6 +196,7 @@
   },
   {
     "id": 9,
+    "idReceta": 57,
     "nombre": "Tacos de camarón",
     "img": "https://unareceta.com/wp-content/uploads/2015/07/tacos-con-camaron.jpg",
     "descripcion": "Tacos rellenos de camarón a la parrilla con salsas frescas.",
@@ -212,6 +221,7 @@
   },
   {
     "id": 10,
+    "idReceta": 58,
     "nombre": "Samosas",
     "img": "https://therecipecritic.com/wp-content/uploads/2023/12/samosa-2-1200x1799.jpg",
     "descripcion": "Empanadillas rellenas de carne o vegetales, fritas o horneadas.",
@@ -233,6 +243,7 @@
   },
   {
     "id": 11,
+    "idReceta": 59,
     "nombre": "Champiñones al ajillo",
     "img": "https://www.gourmet.cl/wp-content/uploads/2022/08/champinones-al-ajillo-ajustada-web-570x458.jpg",
     "descripcion": "Champiñones salteados con ajo y perejil.",
@@ -259,6 +270,7 @@
   },
   {
     "id": 12,
+    "idReceta": 60,
     "nombre": "Tempura de verduras",
     "img": "https://www.vegrecetas.com/wp-content/uploads/tempura-de-verduras.jpg",
     "descripcion": "Verduras rebozadas y fritas en una masa ligera de tempura.",
@@ -283,6 +295,7 @@
   },
   {
     "id": 13,
+    "idReceta": 61,
     "nombre": "Croquetas",
     "img": "https://images.pexels.com/photos/27609407/pexels-photo-27609407/free-photo-of-comida-plato-restaurante-cena.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Pequeñas bolitas rebozadas y fritas, rellenas de bechamel y otros ingredientes.",
@@ -308,6 +321,7 @@
   },
   {
     "id": 14,
+    "idReceta": 62,
     "nombre": "Crostini con tapenade",
     "img": "https://images.pexels.com/photos/6126315/pexels-photo-6126315.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Tostadas de pan acompañadas de tapenade, una pasta de aceitunas.",
@@ -331,6 +345,7 @@
   },
   {
     "id": 15,
+    "idReceta": 63,
     "nombre": "Pinchos morunos",
     "img": "https://mellerware.com/cdn/shop/articles/23._Pinchos_Morunos_-_FOTO_3_fcbd721d-0a2a-4b36-ac4b-74fac04136db_1024x.jpg?v=1657657662",
     "descripcion": "Brochetas de carne marinadas con especias morunas y asadas a la parrilla.",
@@ -354,6 +369,7 @@
   },
   {
     "id": 16,
+    "idReceta": 64,
     "nombre": "Calamares a la romana",
     "img": "https://images.pexels.com/photos/17321123/pexels-photo-17321123/free-photo-of-comida-sano-vegetales-verduras.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Calamares rebozados y fritos hasta que estén crujientes.",
@@ -379,6 +395,7 @@
   },
   {
     "id": 17,
+    "idReceta": 65,
     "nombre": "Tortilla española",
     "img": "https://images.pexels.com/photos/4765652/pexels-photo-4765652.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Tortilla de patata con cebolla, cocida en una sartén.",
@@ -404,6 +421,7 @@
   },
   {
     "id": 18,
+    "idReceta": 66,
     "nombre": "Hush puppies",
     "img": "https://www.allrecipes.com/thmb/hoSnDn3spX7HYxjv-aLnJrS_yQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8145785-a8612841920042dbb5fe906b5f82e440.jpg",
     "descripcion": "Bolitas de masa de maíz fritas, típicas de la cocina sureña de EE.UU.",
@@ -428,6 +446,7 @@
   },
   {
     "id": 19,
+    "idReceta": 67,
     "nombre": "Bocadillos de cerdo",
     "img": "https://www.naiz.eus/media/asset_publics/resources/000/901/353/original/bocadillo.jpg",
     "descripcion": "Bocadillos rellenos de cerdo, típicos de la cocina española.",
@@ -451,6 +470,7 @@
   },
   {
     "id": 20,
+    "idReceta": 68,
     "nombre": "Ceviche de pescado",
     "img": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/e27c310d66805447a62e25cbcd696442.jpg",
     "descripcion": "Pescado marinado en jugo de limón con cebolla, cilantro y chiles.",
@@ -476,6 +496,7 @@
   },
   {
     "id": 21,
+    "idReceta": 69,
     "nombre": "Rellenos de espinacas y queso",
     "img": "https://www.vidactual.com/rcpmaker/wp-content/uploads/2018/10/Canelones-rellenos-de-espinaca-y-queso-ricotta.jpg",
     "descripcion": "Canelones rellenos de espinacas y queso ricotta, cubiertos con salsa de tomate.",
@@ -504,6 +525,7 @@
   },
   {
     "id": 22,
+    "idReceta": 70,
     "nombre": "Nachos con queso",
     "img": "https://images.pexels.com/photos/27897601/pexels-photo-27897601/free-photo-of-comida-plato-restaurante-cena.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Tortilla de maíz cubierta con queso derretido y acompañada de salsa.",
@@ -530,10 +552,11 @@
   },
   {
     "id": 23,
+    "idReceta": 71,
     "nombre": "Papas bravas",
     "img": "https://tn.com.ar/resizer/uiMcZMrlZnF0BYDKO7GgYE3-cDw=/arc-anglerfish-arc2-prod-artear/public/ECK6PZI5AJCQLC3OFYIX5MVWLY.jpeg",
     "descripcion": "Papas fritas servidas con una salsa picante de tomate.",
-    "pasos": [
+    "ingredientes": [
       "Papas",
       "Aceite para freír",
       "Salsa brava",
@@ -553,10 +576,11 @@
   },
   {
     "id": 24,
+    "idReceta": 72,
     "nombre": "Pimientos rellenos",
     "img": "https://images.pexels.com/photos/19359972/pexels-photo-19359972/free-photo-of-almuerzo-comida-gurme-sibarita.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Pimientos rellenos de carne, arroz o vegetales y cocidos al horno.",
-    "pasos": [
+    "ingredientes": [
       "Pimientos",
       "Carne molida",
       "Arroz",
@@ -580,6 +604,7 @@
   },
   {
     "id": 25,
+    "idReceta": 73,
     "nombre": "Ensalada caprese",
     "img": "https://images.pexels.com/photos/15735983/pexels-photo-15735983/free-photo-of-salada-de-salmao.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Ensalada italiana con tomate, mozzarella, albahaca y aceite de oliva.",
@@ -605,6 +630,7 @@
   },
   {
     "id": 26,
+    "idReceta": 74,
     "nombre": "Tzatziki con pan",
     "img": "https://images.pexels.com/photos/7214484/pexels-photo-7214484.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Salsa griega de yogur con pepino y ajo, acompañada de pan.",
@@ -631,6 +657,7 @@
   },
   {
     "id": 27,
+    "idReceta": 75,
     "nombre": "Tarta de cebolla",
     "img": "https://resizer.glanacion.com/resizer/v2/tarta-de-cebolla-y-JBTTCKF4P5EDPKX5IAMFYZK6VI.jpg?auth=101ee1a1e056a32b88e1a1f2b0ec89de7c3ad458bd02c45ccd85e7b349e8b52f&width=768&height=520&quality=70&smart=true",
     "descripcion": "Tarta salada con cebolla caramelizada y queso.",
@@ -660,6 +687,7 @@
   },
   {
     "id": 28,
+    "idReceta": 76,
     "nombre": "Rollos de calabacín",
     "img": "https://content-cocina.lecturas.com/medio/2023/07/21/rollitos-de-calabacin-rellenos-de-gambas_2b882d01_1200x630.jpg",
     "descripcion": "Rollos de calabacín rellenos de gambas, cocidos al horno.",

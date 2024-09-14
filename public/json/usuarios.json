@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "admin",
+    "apellido": "istrador",
+    "correo": "admin@gmail.com",
+    "contrasena": "123"
+  },
+  {
+    "nombre": "wilber",
+    "apellido": "rivas",
+    "correo": "1",
+    "contrasena": "1",
+    "id": 2
+  }
+]

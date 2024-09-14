@@ -68,11 +68,12 @@
 <script>
 import NavbarComponent2 from "./NavbarComponent2.vue";
 import ImgSlider from "./ImgSlider.vue";
-import cardsBebidas from "../json/cardsBebidas.json";
-import cardsPostres from "../json/cardsPostres.json";
-import cardsEntradas from "../json/cardsEntradas.json";
+import cardsBebidas from "../../public/json/cardsBebidas.json";
+import cardsPostres from "../../public/json/cardsPostres.json";
+import cardsEntradas from "../../public/json/cardsEntradas.json";
 import FooterComponent from "./FooterComponent.vue";
-import trending from "../json/trending.json";
+import trending from "../../public/json/trending.json";
+
 
 export default {
   name: "HomeComponent",

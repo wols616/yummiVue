@@ -10,7 +10,7 @@
               <button @click="redireccionarAIniciarSesion" type="button" class="btn btn-primary m-3" :style="{backgroundColor:'#FEFAE0', border:'0', color:'#BC6C25', 'font-weight':'bold'}">Iniciar Sesión</button>
             </li>
             <li class="nav-item">
-              <button @click="redirecionarAlHome" type="button" class="btn btn-primary m-3" :style="{backgroundColor:'#FEFAE0', border:'0', color:'#BC6C25', 'font-weight':'bold'}">Registrarse</button>
+              <button @click="redirecionarAlRegistrarse" type="button" class="btn btn-primary m-3" :style="{backgroundColor:'#FEFAE0', border:'0', color:'#BC6C25', 'font-weight':'bold'}">Registrarse</button>
             </li>
           </ul>
           <form class="d-flex">
@@ -28,8 +28,8 @@
         redireccionarAIniciarSesion(){
             this.$router.push('/iniciarSesion')
         },
-        redirecionarAlHome(){
-          this.$router.push('/home')
+        redirecionarAlRegistrarse(){
+          this.$router.push('/registrarse')
         }
     }
   };

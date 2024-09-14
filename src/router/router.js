@@ -4,6 +4,7 @@ import IniciarSesion from '@/components/IniciarSesion.vue';
 import BienvenidaComponent from '@/components/BienvenidaComponent.vue';
 import HomeComponent from '@/components/HomeComponent.vue';
 import RecetaComponent from '@/components/RecetaComponent.vue';
+import RegistrarseComponent from '@/components/RegistrarseComponent.vue';
 
 const routes = [
   {
@@ -26,6 +27,11 @@ const routes = [
     name: 'RecetaComponent',
     component: RecetaComponent,
     props: true
+  },
+  {
+    path: '/registrarse',
+    name : 'RegistrarseComponent',
+    component: RegistrarseComponent
   }
 ];
 

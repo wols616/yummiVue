@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "idReceta": 21,
     "nombre": "Mojito",
     "img": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Cóctel refrescante a base de ron, menta, azúcar, lima y soda.",
@@ -26,6 +27,7 @@
   },
   {
     "id": 2,
+    "idReceta": 22,
     "nombre": "Margarita",
     "img": "https://images.pexels.com/photos/17612835/pexels-photo-17612835/free-photo-of-comida-resfriado-frio-sano.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Cóctel clásico mexicano a base de tequila, triple sec y lima, con borde de sal.",
@@ -50,6 +52,7 @@
   },
   {
     "id": 3,
+    "idReceta": 23,
     "nombre": "Piña Colada",
     "img": "https://images.pexels.com/photos/24870656/pexels-photo-24870656/free-photo-of-vacaciones-relajacion-verano-alcohol.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Cóctel tropical a base de ron, piña y crema de coco, ideal para disfrutar en la playa.",
@@ -73,6 +76,7 @@
   },
   {
     "id": 4,
+    "idReceta": 24,
     "nombre": "Bloody Mary",
     "img": "https://images.pexels.com/photos/5946676/pexels-photo-5946676.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Cóctel salado con vodka, jugo de tomate y especias, ideal para un brunch.",
@@ -99,6 +103,7 @@
   },
   {
     "id": 5,
+    "idReceta": 25,
     "nombre": "Mai Tai",
     "img": "https://images.pexels.com/photos/27246473/pexels-photo-27246473/free-photo-of-bebidas-textura-vaso-cristal.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "descripcion": "Cóctel exótico con ron, curaçao y almendra, con un toque de limón y granadina.",
@@ -124,6 +129,7 @@
   },
   {
     "id": 6,
+    "idReceta": 26,
     "nombre": "Cosmopolitan",
     "img": "https://images.pexels.com/photos/24869009/pexels-photo-24869009/free-photo-of-plato-menu-restaurante-barra.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Cóctel elegante con vodka, triple sec, jugo de lima y arándano.",
@@ -148,6 +154,7 @@
   },
   {
     "id": 7,
+    "idReceta": 27,
     "nombre": "Whiskey Sour",
     "img": "https://images.pexels.com/photos/7809745/pexels-photo-7809745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "descripcion": "Cóctel clásico con whisky, jugo de limón y azúcar, con un toque de angostura.",
@@ -171,6 +178,7 @@
   },
   {
     "id": 8,
+    "idReceta": 28,
     "nombre": "Daiquiri",
     "img": "https://images.pexels.com/photos/10580220/pexels-photo-10580220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "descripcion": "Cóctel refrescante con ron, jugo de limón y azúcar, servido en una copa de cóctel.",
@@ -193,6 +201,7 @@
   },
   {
     "id": 9,
+    "idReceta": 29,
     "nombre": "Old Fashioned",
     "img": "https://images.pexels.com/photos/28120541/pexels-photo-28120541/free-photo-of-cafe-taza-copa-beber.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "descripcion": "Cóctel clásico de whisky con azúcar, angostura y un toque de naranja.",
@@ -217,6 +226,7 @@
   },
   {
     "id": 10,
+    "idReceta": 30,
     "nombre": "Negroni",
     "img": "https://images.pexels.com/photos/27851286/pexels-photo-27851286/free-photo-of-alcohol-barra-bar-coctel.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Cóctel amargo con ginebra, vermut y Campari, ideal para un aperitivo.",
@@ -240,6 +250,7 @@
   },
   {
     "id": 11,
+    "idReceta": 31,
     "nombre": "Martini",
     "img": "https://images.pexels.com/photos/2531195/pexels-photo-2531195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "descripcion": "Cóctel clásico y elegante a base de ginebra y vermut, adornado con una aceituna.",
@@ -262,6 +273,7 @@
   },
   {
     "id": 12,
+    "idReceta": 32,
     "nombre": "Tequila Sunrise",
     "img": "https://images.pexels.com/photos/7269747/pexels-photo-7269747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "descripcion": "Cóctel vibrante y colorido con tequila, jugo de naranja y granadina.",
@@ -285,6 +297,7 @@
   },
   {
     "id": 13,
+    "idReceta": 33,
     "nombre": "Gin Tonic",
     "img": "https://images.pexels.com/photos/616834/pexels-photo-616834.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Cóctel refrescante y burbujeante con ginebra y tónica, ideal para cualquier ocasión.",
@@ -307,6 +320,7 @@
   },
   {
     "id": 14,
+    "idReceta": 34,
     "nombre": "Sazerac",
     "img": "https://media.istockphoto.com/id/1150343903/es/foto/c%C3%B3ctel-con-amargo-y-whisky-de-centeno-servido-lim%C3%B3n-twist.jpg?b=1&s=612x612&w=0&k=20&c=oO3U5WQnAM6XMHh8Ss_BBMdLRKFGf6hvjlUwUvpuMtw=",
     "descripcion": "Cóctel tradicional de Nueva Orleans con whisky de centeno y un toque de absenta.",
@@ -333,6 +347,7 @@
   },
   {
     "id": 15,
+    "idReceta": 35,
     "nombre": "Sidecar",
     "img": "https://images.pexels.com/photos/27215758/pexels-photo-27215758/free-photo-of-zarza.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Cóctel clásico con coñac, triple sec y jugo de limón, servido en una copa escarchada.",
@@ -356,6 +371,7 @@
   },
   {
     "id": 16,
+    "idReceta": 36,
     "nombre": "Bellini",
     "img": "https://media.istockphoto.com/id/824488726/es/foto/mimosa-de-dulce-burbujeante-bellini-de-durazno.jpg?b=1&s=612x612&w=0&k=20&c=d_bc4uoYzknQ6z18mNSDVtJyJ9fMI-L3JjDGT8pv4Qk=",
     "descripcion": "Cóctel burbujeante y afrutado con puré de durazno y champán.",
@@ -378,6 +394,7 @@
   },
   {
     "id": 17,
+    "idReceta": 37,
     "nombre": "Pisco Sour",
     "img": "https://images.pexels.com/photos/17320910/pexels-photo-17320910/free-photo-of-comida-resfriado-frio-restaurante.jpeg?auto=compress&cs=tinysrgb&w=600",
     "descripcion": "Cóctel peruano a base de pisco, jugo de limón y clara de huevo, con un toque de amargo.",
@@ -402,6 +419,7 @@
   },
   {
     "id": 18,
+    "idReceta": 38,
     "nombre": "Caipirinha",
     "img": "https://media.istockphoto.com/id/928262414/es/foto/verano-fresco-caipirinha-cocktail-con-splash.jpg?b=1&s=612x612&w=0&k=20&c=SNRJlQcNqkMsOrLyGyrUppL3s0I2X2gqLVlSWgkPPz8=",
     "descripcion": "Cóctel brasileño refrescante hecho con cachaça, azúcar y lima.",
@@ -425,6 +443,7 @@
   },
   {
     "id": 19,
+    "idReceta": 39,
     "nombre": "Moscow Mule",
     "img": "https://images.pexels.com/photos/19297798/pexels-photo-19297798/free-photo-of-bebida-frutal-ii.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "descripcion": "Cóctel picante y refrescante con vodka, jengibre y lima, servido en una taza de cobre.",
@@ -450,6 +469,7 @@
   },
   {
     "id": 20,
+    "idReceta": 40,
     "nombre": "Mai Tai",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodlRZ_7rjY0zmxc7uP6sWmiL4nbIBcYbrHg&s",
     "descripcion": "Cóctel tropical con ron, curaçao y almendra, adornado con frutas y una sombrilla.",
@@ -475,6 +495,7 @@
   },
   {
     "id": 21,
+    "idReceta": 41,
     "nombre": "Amaretto Sour",
     "img": "https://3catsfoodie.com/wp-content/uploads/2023/05/0AA43564-7AF9-4025-B7BA-7393766F69FA_1_201_a.jpeg",
     "descripcion": "Cóctel agridulce con amaretto, jugo de limón y un toque de azúcar.",
@@ -498,6 +519,7 @@
   },
   {
     "id": 22,
+    "idReceta": 42,
     "nombre": "Cuba Libre",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd7tf1Zf9FeodcLRuWSf_61UJPzlc4jV2iRw&s",
     "descripcion": "Cóctel clásico con ron, cola y un toque de limón.",
@@ -521,6 +543,7 @@
   },
   {
     "id": 23,
+    "idReceta": 43,
     "nombre": "Tom Collins",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknwm7zYlKdNFHHhkVUqBe6wMslYomgTh3Kw&s",
     "descripcion": "Cóctel refrescante con ginebra, jugo de limón y soda de club.",
@@ -545,6 +568,7 @@
   },
   {
     "id": 24,
+    "idReceta": 44,
     "nombre": "Aperol Spritz",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFLVGm7He2Okh7wDeSsF1hTC-azZsbFUmPw&s",
     "descripcion": "Cóctel refrescante y burbujeante con Aperol, prosecco y soda de club.",
@@ -568,6 +592,7 @@
   },
   {
     "id": 25,
+    "idReceta": 45,
     "nombre": "Ramos Gin Fizz",
     "img": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/03_22_Ramos_Gin_Fizz_Cocktail_Credit_Tyler_Zielinski_1920x1280-scaled-1.jpg",
     "descripcion": "Cóctel espumoso y cremoso con ginebra, jugo de limón, clara de huevo y soda.",
@@ -593,6 +618,7 @@
   },
   {
     "id": 26,
+    "idReceta": 46,
     "nombre": "French 75",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gg4exJUs4ynWyCpbtrh6PhhoTmzjxJXB-w&s",
     "descripcion": "Cóctel elegante con ginebra, champán, jugo de limón y azúcar.",
@@ -616,6 +642,7 @@
   },
   {
     "id": 27,
+    "idReceta": 47,
     "nombre": "Paloma",
     "img": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/04_23_Paloma_HERO_Stocksy_4620231_1920x1280.jpg",
     "descripcion": "Cóctel mexicano refrescante con tequila, jugo de toronja y soda.",
@@ -640,6 +667,7 @@
   },
   {
     "id": 28,
+    "idReceta": 48,
     "nombre": "Dark 'n' Stormy",
     "img": "https://elcoctelero.com/wp-content/uploads/2020/07/coctel-dark-n-stormy.jpg",
     "descripcion": "Cóctel picante y refrescante con ron oscuro y cerveza de jengibre.",
