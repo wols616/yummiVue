@@ -5,6 +5,7 @@ import BienvenidaComponent from '@/components/BienvenidaComponent.vue';
 import HomeComponent from '@/components/HomeComponent.vue';
 import RecetaComponent from '@/components/RecetaComponent.vue';
 import RegistrarseComponent from '@/components/RegistrarseComponent.vue';
+import AgregarComponent from '@/components/AgregarComponent.vue';
 
 const routes = [
   {
@@ -32,6 +33,12 @@ const routes = [
     path: '/registrarse',
     name : 'RegistrarseComponent',
     component: RegistrarseComponent
+  },
+  {
+    path: '/agregar',
+    name : 'AgregarComponent',
+    component: AgregarComponent
+
   }
 ];
 

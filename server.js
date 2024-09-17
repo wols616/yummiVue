@@ -20,6 +20,7 @@ app.get('/api/usuarios', async (req, res) => {
   }
 });
 
+
 //Ruta para mostrar las comidas con tipo inicio (es decir las que se mostrarán en el de bienvenida)
 app.get('/api/comidaInicio', async (req, res) =>{
   try{
@@ -91,6 +92,24 @@ app.post('/api/usuarios', async (req, res) => {
     res.json({ success: true, message: 'Usuario agregado correctamente', usuario: nuevoUsuario });
   } catch (error) {
     res.status(500).json({ error: 'Error al agregar el usuario' });
+  }
+});
+
+//Ruta para agregar recetas
+app.post('/api/comida', async (req, res)=>{
+  try{
+    const nuevaReceta = req.body;
+    const data = await fs.readFile(path.join(__dirname, 'public', 'json', 'comida.json'), 'utf-8');
+    const recetas = JSON.parse(data);
+
+    nuevaReceta.idReceta = recetas.length > 0 ? Math.max(...recetas.map(r => r.idReceta)) + 1 : 1;
+
+    recetas.push(nuevaReceta);
+
+    await fs.writeFile(path.join(__dirname, 'public', 'json', 'comida.json'), JSON.stringify(recetas, null, 2));
+    res.json({success: true, message: 'Receta agregada correctamente', receta: nuevaReceta});
+  }catch (error){
+    res.status(500).json({error: 'Error al agregar la comida'});
   }
 });
 

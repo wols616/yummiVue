@@ -36,7 +36,7 @@
                 </a>
               </li>
               <li class="nav-item d-flex align-items-center">
-                <a class="nav-link" href="#add">
+                <a @click="redireccionarAlAgregar" class="nav-link" href="#add">
                   <i class="bi bi-plus-circle fs-1 me-2"></i>
                   <span>Agregar</span>
                 </a>
@@ -66,7 +66,7 @@
           <a class="nav-link" href="#favorites">
             <i class="bi bi-heart fs-1 me-4"></i>
           </a>
-          <a class="nav-link" href="#add">
+          <a @click="redireccionarAlAgregar" class="nav-link" href="#add">
             <i class="bi bi-plus-circle fs-1 me-4"></i>
           </a>
           <input
@@ -93,6 +93,9 @@
     cerrarSesion(){
       localStorage.removeItem('usuario');
       this.$router.push('/iniciarSesion');
+    },
+    redireccionarAlAgregar(){
+      this.$router.push('/agregar');
     }
     }
   };
